@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>f6d7f0a0-97a8-4030-9a4d-df2b55c6f074</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>WUApiLib</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="WUApiLib\UpdateLockdownOption.cs" />
+    <Compile Include="WUApiLib\tagUpdateLockdownOption.cs" />
+    <Compile Include="WUApiLib\AddServiceFlag.cs" />
+    <Compile Include="WUApiLib\tagAddServiceFlag.cs" />
+    <Compile Include="WUApiLib\UpdateServiceOption.cs" />
+    <Compile Include="WUApiLib\tagUpdateServiceOption.cs" />
+    <Compile Include="WUApiLib\IUpdateLockdown.cs" />
+    <Compile Include="WUApiLib\IUpdateException.cs" />
+    <Compile Include="WUApiLib\UpdateExceptionContext.cs" />
+    <Compile Include="WUApiLib\tagUpdateExceptionContext.cs" />
+    <Compile Include="WUApiLib\IInvalidProductLicenseException.cs" />
+    <Compile Include="WUApiLib\IAutomaticUpdatesSettings.cs" />
+    <Compile Include="WUApiLib\AutomaticUpdatesNotificationLevel.cs" />
+    <Compile Include="WUApiLib\tagAutomaticUpdatesNotificationLevel.cs" />
+    <Compile Include="WUApiLib\AutomaticUpdatesScheduledInstallationDay.cs" />
+    <Compile Include="WUApiLib\tagAutomaticUpdatesScheduledInstallationDay.cs" />
+    <Compile Include="WUApiLib\IAutomaticUpdatesSettings2.cs" />
+    <Compile Include="WUApiLib\AutomaticUpdatesUserType.cs" />
+    <Compile Include="WUApiLib\tagAutomaticUpdatesUserType.cs" />
+    <Compile Include="WUApiLib\AutomaticUpdatesPermissionType.cs" />
+    <Compile Include="WUApiLib\tagAutomaticUpdatesPermissionType.cs" />
+    <Compile Include="WUApiLib\IUpdate.cs" />
+    <Compile Include="WUApiLib\IUpdateCollection.cs" />
+    <Compile Include="WUApiLib\ICategoryCollection.cs" />
+    <Compile Include="WUApiLib\ICategory.cs" />
+    <Compile Include="WUApiLib\IImageInformation.cs" />
+    <Compile Include="WUApiLib\IUpdateIdentity.cs" />
+    <Compile Include="WUApiLib\IInstallationBehavior.cs" />
+    <Compile Include="WUApiLib\InstallationImpact.cs" />
+    <Compile Include="WUApiLib\tagInstallationImpact.cs" />
+    <Compile Include="WUApiLib\InstallationRebootBehavior.cs" />
+    <Compile Include="WUApiLib\tagInstallationRebootBehavior.cs" />
+    <Compile Include="WUApiLib\IStringCollection.cs" />
+    <Compile Include="WUApiLib\UpdateType.cs" />
+    <Compile Include="WUApiLib\tagUpdateType.cs" />
+    <Compile Include="WUApiLib\DeploymentAction.cs" />
+    <Compile Include="WUApiLib\tagDeploymentAction.cs" />
+    <Compile Include="WUApiLib\DownloadPriority.cs" />
+    <Compile Include="WUApiLib\tagDownloadPriority.cs" />
+    <Compile Include="WUApiLib\IUpdateDownloadContentCollection.cs" />
+    <Compile Include="WUApiLib\IUpdateDownloadContent.cs" />
+    <Compile Include="WUApiLib\IUpdate2.cs" />
+    <Compile Include="WUApiLib\IUpdate3.cs" />
+    <Compile Include="WUApiLib\IWindowsDriverUpdateEntry.cs" />
+    <Compile Include="WUApiLib\IWindowsDriverUpdateEntryCollection.cs" />
+    <Compile Include="WUApiLib\IUpdate4.cs" />
+    <Compile Include="WUApiLib\IWindowsDriverUpdate.cs" />
+    <Compile Include="WUApiLib\IWindowsDriverUpdate2.cs" />
+    <Compile Include="WUApiLib\IWindowsDriverUpdate3.cs" />
+    <Compile Include="WUApiLib\IWindowsDriverUpdate4.cs" />
+    <Compile Include="WUApiLib\ISearchCompletedCallback.cs" />
+    <Compile Include="WUApiLib\ISearchJob.cs" />
+    <Compile Include="WUApiLib\ISearchCompletedCallbackArgs.cs" />
+    <Compile Include="WUApiLib\IDownloadCompletedCallback.cs" />
+    <Compile Include="WUApiLib\IDownloadJob.cs" />
+    <Compile Include="WUApiLib\IDownloadProgress.cs" />
+    <Compile Include="WUApiLib\IUpdateDownloadResult.cs" />
+    <Compile Include="WUApiLib\OperationResultCode.cs" />
+    <Compile Include="WUApiLib\tagOperationResultCode.cs" />
+    <Compile Include="WUApiLib\DownloadPhase.cs" />
+    <Compile Include="WUApiLib\tagDownloadPhase.cs" />
+    <Compile Include="WUApiLib\IDownloadCompletedCallbackArgs.cs" />
+    <Compile Include="WUApiLib\IDownloadProgressChangedCallback.cs" />
+    <Compile Include="WUApiLib\IDownloadProgressChangedCallbackArgs.cs" />
+    <Compile Include="WUApiLib\IInstallationCompletedCallback.cs" />
+    <Compile Include="WUApiLib\IInstallationJob.cs" />
+    <Compile Include="WUApiLib\IInstallationProgress.cs" />
+    <Compile Include="WUApiLib\IUpdateInstallationResult.cs" />
+    <Compile Include="WUApiLib\IInstallationCompletedCallbackArgs.cs" />
+    <Compile Include="WUApiLib\IInstallationProgressChangedCallback.cs" />
+    <Compile Include="WUApiLib\IInstallationProgressChangedCallbackArgs.cs" />
+    <Compile Include="WUApiLib\IUpdateHistoryEntry.cs" />
+    <Compile Include="WUApiLib\UpdateOperation.cs" />
+    <Compile Include="WUApiLib\tagUpdateOperation.cs" />
+    <Compile Include="WUApiLib\ServerSelection.cs" />
+    <Compile Include="WUApiLib\tagServerSelection.cs" />
+    <Compile Include="WUApiLib\IUpdateHistoryEntry2.cs" />
+    <Compile Include="WUApiLib\IUpdateDownloadContent2.cs" />
+    <Compile Include="WUApiLib\StringCollectionClass.cs" />
+    <Compile Include="WUApiLib\StringCollection.cs" />
+    <Compile Include="WUApiLib\UpdateSearcherClass.cs" />
+    <Compile Include="WUApiLib\UpdateSearcher.cs" />
+    <Compile Include="WUApiLib\IUpdateSearcher3.cs" />
+    <Compile Include="WUApiLib\IUpdateSearcher2.cs" />
+    <Compile Include="WUApiLib\IUpdateSearcher.cs" />
+    <Compile Include="WUApiLib\ISearchResult.cs" />
+    <Compile Include="WUApiLib\IUpdateExceptionCollection.cs" />
+    <Compile Include="WUApiLib\IUpdateHistoryEntryCollection.cs" />
+    <Compile Include="WUApiLib\SearchScope.cs" />
+    <Compile Include="WUApiLib\tagSearchScope.cs" />
+    <Compile Include="WUApiLib\WebProxyClass.cs" />
+    <Compile Include="WUApiLib\WebProxy.cs" />
+    <Compile Include="WUApiLib\IWebProxy.cs" />
+    <Compile Include="WUApiLib\_RemotableHandle.cs" />
+    <Compile Include="WUApiLib\__MIDL_IWinTypes_0009.cs" />
+    <Compile Include="WUApiLib\SystemInformationClass.cs" />
+    <Compile Include="WUApiLib\SystemInformation.cs" />
+    <Compile Include="WUApiLib\ISystemInformation.cs" />
+    <Compile Include="WUApiLib\WindowsUpdateAgentInfoClass.cs" />
+    <Compile Include="WUApiLib\WindowsUpdateAgentInfo.cs" />
+    <Compile Include="WUApiLib\IWindowsUpdateAgentInfo.cs" />
+    <Compile Include="WUApiLib\AutomaticUpdatesClass.cs" />
+    <Compile Include="WUApiLib\AutomaticUpdates.cs" />
+    <Compile Include="WUApiLib\IAutomaticUpdates2.cs" />
+    <Compile Include="WUApiLib\IAutomaticUpdates.cs" />
+    <Compile Include="WUApiLib\IAutomaticUpdatesResults.cs" />
+    <Compile Include="WUApiLib\UpdateCollectionClass.cs" />
+    <Compile Include="WUApiLib\UpdateCollection.cs" />
+    <Compile Include="WUApiLib\UpdateDownloaderClass.cs" />
+    <Compile Include="WUApiLib\UpdateDownloader.cs" />
+    <Compile Include="WUApiLib\IUpdateDownloader.cs" />
+    <Compile Include="WUApiLib\IDownloadResult.cs" />
+    <Compile Include="WUApiLib\UpdateInstallerClass.cs" />
+    <Compile Include="WUApiLib\UpdateInstaller.cs" />
+    <Compile Include="WUApiLib\IUpdateInstaller2.cs" />
+    <Compile Include="WUApiLib\IUpdateInstaller.cs" />
+    <Compile Include="WUApiLib\IInstallationResult.cs" />
+    <Compile Include="WUApiLib\UpdateSessionClass.cs" />
+    <Compile Include="WUApiLib\UpdateSession.cs" />
+    <Compile Include="WUApiLib\IUpdateSession3.cs" />
+    <Compile Include="WUApiLib\IUpdateSession2.cs" />
+    <Compile Include="WUApiLib\IUpdateSession.cs" />
+    <Compile Include="WUApiLib\IUpdateServiceManager2.cs" />
+    <Compile Include="WUApiLib\IUpdateServiceManager.cs" />
+    <Compile Include="WUApiLib\IUpdateServiceCollection.cs" />
+    <Compile Include="WUApiLib\IUpdateService.cs" />
+    <Compile Include="WUApiLib\IUpdateServiceRegistration.cs" />
+    <Compile Include="WUApiLib\UpdateServiceRegistrationState.cs" />
+    <Compile Include="WUApiLib\tagUpdateServiceRegistrationState.cs" />
+    <Compile Include="WUApiLib\IUpdateService2.cs" />
+    <Compile Include="WUApiLib\UpdateServiceManagerClass.cs" />
+    <Compile Include="WUApiLib\UpdateServiceManager.cs" />
+    <Compile Include="WUApiLib\InstallationAgentClass.cs" />
+    <Compile Include="WUApiLib\InstallationAgent.cs" />
+    <Compile Include="WUApiLib\IInstallationAgent.cs" />
+  </ItemGroup>
+</Project>

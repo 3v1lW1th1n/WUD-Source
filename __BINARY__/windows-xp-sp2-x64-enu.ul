@@ -1,0 +1,993 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updatelist product="Windows XP" servicepack="Service Pack 2" platform="x64" language="ENU" lastupdate="2015-03-20" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+
+<!-- Created by steven4554 -->
+  
+<categories>
+  <category id="1">Security Updates</category>
+  <category id="2">Non-Security Updates</category>
+  <category id="3">Service Packs</category>
+  <category id="4">WMP11 Updates</category>
+  <category id="6">Optional Updates</category>
+</categories>
+
+<updates>
+  <update id="KB3032359" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3032359">
+    <title>Cumulative Security Update for Internet Explorer 8 in Windows XP x64 Edition (KB3032359)</title>
+    <description>Security issues have been identified that could allow an attacker to compromise a computer running Microsoft Internet Explorer and gain control over it.</description>
+    <filename>IE8-WindowsXP-KB3032359-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/8/D/08D4035F-64FD-45FF-9763-181ABDC290C7/IE8-WindowsServer2003-KB3032359-x64-ENU.exe</url>
+  </update>
+  <update id="KB925398" category="1" publishdate="2011-10-20" article="http://support.microsoft.com/kb/925398">
+    <title>Security Update for Windows Media Player 6.4 for Windows XP x64 Edition (KB925398)</title>
+    <description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Windows Media Player and gain control over it.</description>
+    <filename>WindowsMedia6-KB925398-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/5/c/7/5c775c64-d4fa-4500-bd50-fdc659829b7e/WindowsMedia6-KB925398-v2-x64-ENU.exe</url>
+  </update>
+  <update id="KB925902" category="1" publishdate="2011-10-20" article="http://support.microsoft.com/kb/925902">
+    <title>Security Update for Windows XP x64 Edition (KB925902)</title>
+    <description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+    <filename>WindowsXP-KB925902-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/7/9/4793ba54-8f38-4337-9ced-c46338a9d82f/WindowsServer2003.WindowsXP-KB925902-x64-ENU.exe</url>
+  </update>
+  <update id="KB931261" category="1" publishdate="2011-10-20" article="http://support.microsoft.com/kb/931261">
+    <title>Security Update for Windows XP x64 Edition (KB931261)</title>
+    <description>A security issue has been identified in Universal Plug and Play that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+    <filename>WindowsXP-KB931261-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/b/0/f/b0f81083-c80f-462d-9f9e-df5f5d4bbc79/WindowsServer2003.WindowsXP-KB931261-x64-ENU.exe</url>
+  </update>
+  <update id="KB951376" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/951376">
+    <title>Security Update for Windows XP x64 Edition (KB951376)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+    <filename>WindowsXP-KB951376-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/b/0/f/b0fb3ef0-32d0-47a3-80e3-ae03ac08056d/WindowsServer2003.WindowsXP-KB951376-x64-ENU.exe</url>
+  </update>
+  <update id="KB952954" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/952954">
+    <title>Security Update for Windows XP x64 Edition (KB952954)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+    <filename>WindowsXP-KB952954-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/b/8/e/b8ea0fc0-ac0d-48c1-a774-a4b800b7dcf3/WindowsServer2003.WindowsXP-KB952954-x64-ENU.exe</url>
+  </update>
+  <update id="KB956572" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/956572">
+    <title>Security Update for Windows XP x64 Edition (KB956572)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB956572-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/C/4/D/C4DABB2E-5BE4-4AE9-AE39-0C2609999A58/WindowsServer2003.WindowsXP-KB956572-x64-ENU.exe</url>
+  </update>
+  <update id="KB973507" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/973507">
+    <title>Security Update for Windows XP x64 Edition (KB973507)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB973507-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/A/D/2AD2EBA1-9056-4BA9-A316-152D56DC99E6/WindowsServer2003.WindowsXP-KB973507-x64-ENU.exe</url>
+  </update>
+  <update id="KB973815" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/973815">
+    <title>Security Update for Windows XP x64 Edition (KB973815)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB973815-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/C/8/BC840CFA-31CE-4AFF-A5C4-737ABA9F8F73/WindowsServer2003.WindowsXP-KB973815-x64-ENU.exe</url>
+  </update>
+  <update id="KB973869" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/973869">
+    <title>Security Update for Windows XP x64 Edition (KB973869)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB973869-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/7/5/87557550-942D-44F0-98E5-B4640A082087/WindowsServer2003.WindowsXP-KB973869-x64-ENU.exe</url>
+  </update>
+  <update id="KB971657" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/971657">
+    <title>Security Update for Windows XP x64 Edition (KB971657)</title>
+    <description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB971657-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/5/B/05B8EBE6-1698-4B72-B58A-0BED4537CD7E/WindowsServer2003.WindowsXP-KB971657-x64-ENU.exe</url>
+  </update>
+  <update id="KB960859" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/960859">
+    <title>Security Update for Windows XP x64 Edition (KB960859)</title>
+    <description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB960859-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/0/1/801BCF9E-494E-4D1E-9766-5B6ABD2D6B9F/WindowsServer2003.WindowsXP-KB960859-x64-ENU.exe</url>
+  </update>
+  <update id="KB956844" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/956844">
+    <title>Security Update for Windows XP x64 Edition (KB956844)</title>
+    <description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB956844-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/6/D/26D4F78E-37F9-4C2B-8759-498449E984BC/WindowsServer2003.WindowsXP-KB956844-x64-ENU.exe</url>
+  </update>
+  <update id="KB975025" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/975025">
+    <title>Security Update for Windows XP x64 Edition (KB975025)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB975025-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/2/6/726D3A60-CC38-4AAF-85A6-73C14F6D330E/WindowsServer2003.WindowsXP-KB975025-x64-ENU.exe</url>
+  </update>
+  <update id="KB974112" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/974112">
+    <title>Security Update for Windows XP x64 Edition (KB974112)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB974112-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/F/E/9FE0E93E-60D0-4852-B5A0-C8BC42125BDA/WindowsServer2003.WindowsXP-KB974112-x64-ENU.exe</url>
+  </update>
+  <update id="KB974571" category="1" publishdate="2011-10-24" article="http://support.microsoft.com/kb/974571">
+    <title>Security Update for Windows XP x64 Edition (KB974571)</title>
+    <description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+    <filename>WindowsXP-KB974571-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/A/4/BA40C452-DD13-48A6-9C87-138D3AE88EC6/WindowsServer2003.WindowsXP-KB974571-x64-ENU.exe</url>
+  </update>
+  <update id="KB969059" category="1" publishdate="2009-12-10" article="http://support.microsoft.com/kb/969059">
+    <title>Security Update for Windows XP x64 Edition (KB969059)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB969059-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/4/D/44D0FB45-1AFD-4D92-B11E-B8EEDD78414C/WindowsServer2003.WindowsXP-KB969059-x64-ENU.exe</url>
+  </update>
+  <update id="KB974392" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/kb/974392">
+    <title>Security Update for Windows XP x64 Edition (KB974392)</title>
+    <description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB974392-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/9/D/29D12E3B-D049-4120-9608-A03BCACBE44E/WindowsServer2003.WindowsXP-KB974392-x64-ENU.exe</url>
+  </update>
+  <update id="KB974318" category="1" publishdate="2009-12-09" article="http://support.microsoft.com/kb/974318">
+    <title>Security Update for Windows XP x64 Edition (KB974318)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB974318-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/A/F/2AF3849C-F310-49C7-8588-174667DEF92E/WindowsServer2003.WindowsXP-KB974318-x64-ENU.exe</url>
+  </update>
+  <update id="KB973904" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/kb/973904">
+    <title>Security Update for Windows XP x64 Edition (KB973904)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB973904-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/7/5/175E00A1-CBE7-4146-8AE0-4523A7EF2828/WindowsServer2003.WindowsXP-KB973904-x64-ENU.exe</url>
+  </update>
+  <update id="KB972270" category="1" publishdate="2010-01-11" article="http://support.microsoft.com/kb/972270">
+    <title>Security Update for Windows XP x64 Edition (KB972270)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB972270-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/0/5/705565C4-B923-4D4A-ABCD-8B344EEEC751/WindowsServer2003.WindowsXP-KB972270-x64-ENU.exe</url>
+  </update>
+  <update id="KB978706" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/kb/978706">
+    <title>Security Update for Windows XP x64 Edition (KB978706)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB978706-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/9/0/090233F4-CD1F-4B86-906B-D74E6F43B820/WindowsServer2003.WindowsXP-KB978706-x64-ENU.exe</url>
+  </update>
+  <update id="KB975713" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/kb/975713">
+    <title>Security Update for Windows XP x64 Edition (KB975713)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB975713-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/C/5/D/C5D03390-3B4F-4B42-A93C-5D9687FD7C06/WindowsServer2003.WindowsXP-KB975713-x64-ENU.exe</url>
+  </update>
+  <update id="KB975560" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/kb/975560">
+    <title>Security Update for Windows XP x64 Edition (KB975560)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB975560-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/3/2/E/32E67E24-80EB-4F96-A609-D261A3B69AED/WindowsServer2003.WindowsXP-KB975560-x64-ENU.exe</url>
+  </update>
+  <update id="KB977914" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/kb/977914">
+    <title>Security Update for Windows XP x64 Edition (KB977914)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB977914-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/A/A/8/AA8CB908-1702-437E-9F4E-5E8EF081BF73/WindowsServer2003.WindowsXP-KB977914-x64-ENU.exe</url>
+  </update>
+  <update id="KB2653956" category="1" publishdate="2012-04-10" article="http://support.microsoft.com/kb/2653956">
+    <title>Security Update for Windows XP x64 Edition (KB2653956)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2653956-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/E/D/8ED01AD5-A9D3-450B-860B-95ED9BC1FB5B/WindowsServer2003.WindowsXP-KB2653956-x64-ENU.exe</url>
+  </update>
+  <update id="KB979309" category="1" publishdate="2010-04-12" article="http://support.microsoft.com/kb/979309">
+    <title>Security Update for Windows XP x64 Edition (KB979309)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB979309-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/2/7/02717773-292A-49A9-B358-A48FC5571AA3/WindowsServer2003.WindowsXP-KB979309-x64-ENU.exe</url>
+  </update>
+  <update id="KB977816" category="1" publishdate="2010-04-12" article="http://support.microsoft.com/kb/977816">
+    <title>Security Update for Windows XP x64 Edition (KB977816)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB977816-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/F/C/9/FC9FE666-0C6F-4592-8CA1-D141D46B0298/WindowsServer2003.WindowsXP-KB977816-x64-ENU.exe</url>
+  </update>
+  <update id="KB978338" category="1" publishdate="2010-04-12" article="http://support.microsoft.com/kb/978338">
+    <title>Security Update for Windows XP x64 Edition (KB978338)</title>
+    <description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+    <filename>WindowsXP-KB978338-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/6/6/16674711-36FB-4594-8128-D6D4A44B611E/WindowsServer2003.WindowsXP-KB978338-x64-ENU.exe</url>
+  </update>
+  <update id="KB978542" category="1" publishdate="2010-05-11" article="http://support.microsoft.com/kb/978542">
+    <title>Security Update for Windows XP x64 Edition (KB978542)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB978542-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/6/5/965BBE66-3A46-4148-A3B2-AAB34A2D48C6/WindowsServer2003.WindowsXP-KB978542-x64-ENU.exe</url>
+  </update>
+  <update id="KB979482" category="1" publishdate="2010-06-08" article="http://support.microsoft.com/kb/979482">
+    <title>Security Update for Windows XP x64 Edition (KB979482)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB979482-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/C/D/BCD359D1-6BCD-41A6-8294-9EA34FB72344/WindowsServer2003.WindowsXP-KB979482-x64-ENU.exe</url>
+  </update>
+  <update id="KB2229593" category="1" publishdate="2010-07-13" article="http://support.microsoft.com/kb/2229593">
+    <title>Security Update for Windows XP x64 Edition (KB2229593)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2229593-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/6/6/166917B4-A4A1-4E53-914F-FD9BE0E3ECE7/WindowsServer2003.WindowsXP-KB2229593-x64-ENU.exe</url>
+  </update>
+  <update id="KB3023562" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3023562">
+    <title>Security Update for Windows XP x64 Edition (KB3023562)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB3023562-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/1/2/B125746E-D531-458E-BAA2-641841FF113E/WindowsServer2003-KB3023562-x64-ENU.exe</url>
+  </update>
+  <update id="KB981997" category="1" publishdate="2010-08-10" article="http://support.microsoft.com/kb/981997">
+    <title>Security Update for Windows XP x64 Edition (KB981997)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB981997-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/7/A/87A94F8A-F1EB-4F80-8765-0810A95537AE/WindowsServer2003.WindowsXP-KB981997-x64-ENU.exe</url>
+  </update>
+  <update id="KB2115168" category="1" publishdate="2010-08-10" article="http://support.microsoft.com/kb/2115168">
+    <title>Security Update for Windows XP x64 Edition (KB2115168)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2115168-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/D/F/EDF7FFFA-7DA4-42C2-B4FF-F51614E0EDDE/WindowsServer2003.WindowsXP-KB2115168-x64-ENU.exe</url>
+  </update>
+  <update id="KB982665" category="1" publishdate="2010-08-10" article="http://support.microsoft.com/kb/982665">
+    <title>Security Update for Windows XP x64 Edition (KB982665)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB982665-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/8/6/08697718-785F-4BCA-A367-CD92ABECB680/WindowsServer2003.WindowsXP-KB982665-x64-ENU.exe</url>
+  </update>
+  <update id="KB2387149" category="1" publishdate="2010-10-12" article="http://support.microsoft.com/kb/2387149">
+    <title>Security Update for Windows XP x64 Edition (KB2387149)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2387149-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/4/9/749D20F2-4E76-40FE-A107-B2E529E34C53/WindowsServer2003.WindowsXP-KB2387149-x64-ENU.exe</url>
+  </update>
+  <update id="KB982132" category="1" publishdate="2010-10-12" article="http://support.microsoft.com/kb/982132">
+    <title>Security Update for Windows XP x64 Edition (KB982132)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB982132-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/E/5/0E515506-6091-42F1-B222-674138A41FD6/WindowsServer2003.WindowsXP-KB982132-x64-ENU.exe</url>
+  </update>
+  <update id="KB979687" category="1" publishdate="2010-10-12" article="http://support.microsoft.com/kb/979687">
+    <title>Security Update for Windows XP x64 Edition (KB979687)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB979687-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/F/0/9F02BC73-4B8C-4C85-B920-7E933488D3CF/WindowsServer2003.WindowsXP-KB979687-x64-ENU.exe</url>
+  </update>
+  <update id="KB2423089" category="1" publishdate="2010-12-14" article="http://support.microsoft.com/kb/2423089">
+    <title>Security Update for Windows XP x64 Edition (KB2423089)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2423089-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/8/C/98CA7F74-776D-446B-990F-248CDD64E520/WindowsServer2003.WindowsXP-KB2423089-x64-ENU.exe</url>
+  </update>
+  <update id="KB2443105" category="1" publishdate="2010-12-14" article="http://support.microsoft.com/kb/2443105">
+    <title>Security Update for Windows XP x64 Edition (KB2443105)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2443105-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/9/7/097451E5-EEBA-4655-9967-728F8451D00D/WindowsServer2003.WindowsXP-KB2443105-x64-ENU.exe</url>
+  </update>
+  <update id="KB2483185" category="1" publishdate="2011-02-08" article="http://support.microsoft.com/kb/2483185">
+    <title>Security Update for Windows XP x64 Edition (KB2483185)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2483185-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/2/D/E2D28C89-A2CA-4A73-A8FB-6F84241BC39E/WindowsServer2003.WindowsXP-KB2483185-x64-ENU.exe</url>
+  </update>
+  <update id="KB2393802" category="1" publishdate="2011-02-08" article="http://support.microsoft.com/kb/2393802">
+    <title>Security Update for Windows XP x64 Edition (KB2393802)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2393802-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/5/6/756AD0C0-20C0-4984-8627-A1F881E5B596/WindowsServer2003.WindowsXP-KB2393802-x64-ENU.exe</url>
+  </update>
+  <update id="KB3011780" category="1" publishdate="2014-11-26" article="http://support.microsoft.com/kb/3011780">
+    <title>Security Update for Windows XP x64 Edition (KB3011780)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB3011780-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/6/8/86858787-C63C-4050-BBC5-33751743E05D/WindowsServer2003-KB3011780-x64-ENU.exe</url>
+  </update>
+  <update id="KB2508429" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2508429">
+    <title>Security Update for Windows XP x64 Edition (KB2508429)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2508429-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/3/3/833C20D2-59EA-4D23-960F-11270C0C0319/WindowsServer2003.WindowsXP-KB2508429-x64-ENU.exe</url>
+  </update>
+  <update id="KB2659262" category="1" publishdate="2012-04-10" article="http://support.microsoft.com/kb/2659262">
+    <title>Security Update for Windows XP x64 Edition (KB2659262)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2659262-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/D/A/8/DA8748FF-D530-405B-89D6-DE8AD6C00EDC/WindowsServer2003.WindowsXP-KB2659262-x64-ENU.exe</url>
+  </update>
+  <update id="KB2509553" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2509553">
+    <title>Security Update for Windows XP x64 Edition (KB2509553)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2509553-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/C/2/2C2FD938-DDAC-4C7F-940A-5112A3EB52A7/WindowsServer2003.WindowsXP-KB2509553-x64-ENU.exe</url>
+  </update>
+  <update id="KB2510531" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2510531">
+    <title>Security Update for Windows XP x64 Edition (KB2510531)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>IE8-WindowsXP-KB2510531-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/A/5/4A51595C-D87C-4BA3-9CEA-9B2A8B21CDCC/IE8-WindowsServer2003.WindowsXP-KB2510531-x64-ENU.exe</url>
+  </update>
+  <update id="KB2485663" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2485663">
+    <title>Security Update for Windows XP x64 Edition (KB2485663)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2485663-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/6/4/8/64864091-1869-40B2-AAA7-AAB20F13691A/WindowsServer2003.WindowsXP-KB2485663-x64-ENU.exe</url>
+  </update>
+  <update id="KB2544893" category="1" publishdate="2011-11-08" article="http://support.microsoft.com/kb/2544893">
+    <title>Security Update for Windows XP x64 Edition (KB2544893)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information.</description>
+    <filename>WindowsXP-KB2544893-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/C/8/0C88D26F-0673-4FBC-9E1C-71BFCE93B76E/WindowsServer2003.WindowsXP-KB2544893-v2-x64-ENU.exe</url>
+  </update>
+  <update id="KB3006226" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3006226">
+    <title>Security Update for Windows XP x64 Edition (KB3006226)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB3006226-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/C/7/D/C7D37D03-4BCF-4119-8ECB-78B89E3D59ED/WindowsServer2003-KB3006226-x64-ENU.exe</url>
+  </update>
+  <update id="KB2535512" category="1" publishdate="2011-06-14" article="http://support.microsoft.com/kb/2535512">
+    <title>Security Update for Windows XP x64 Edition (KB2535512)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2535512-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/B/2/4B2BF702-5B46-447B-B6CA-315BE0733AAA/WindowsServer2003.WindowsXP-KB2535512-x64-ENU.exe</url>
+  </update>
+  <update id="KB2536276" category="1" publishdate="2011-08-10" article="http://support.microsoft.com/kb/2536276">
+    <title>Security Update for Windows XP x64 Edition (KB2536276)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2536276-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/F/5/8F53A7B2-1F37-48FE-B9E9-F3AEB901FD3E/WindowsServer2003.WindowsXP-KB2536276-v2-x64-ENU.exe</url>
+  </update>
+  <update id="KB2507938" category="1" publishdate="2011-07-12" article="http://support.microsoft.com/kb/2507938">
+    <title>Security Update for Windows XP x64 Edition (KB2507938)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2507938-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/4/D/B4D73B00-E973-4FF7-B024-532FA4039CED/WindowsServer2003.WindowsXP-KB2507938-x64-ENU.exe</url>
+  </update>
+  <update id="KB2566454" category="1" publishdate="2011-08-09" article="http://support.microsoft.com/kb/2566454">
+    <title>Security Update for Windows XP x64 Edition (KB2566454)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2566454-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/F/A/A/FAABC2DC-7732-4AAB-9B70-63956CE51899/WindowsServer2003.WindowsXP-KB2566454-x64-ENU.exe</url>
+  </update>
+  <update id="KB2570947" category="1" publishdate="2011-09-13" article="http://support.microsoft.com/kb/2570947">
+    <title>Security Update for Windows XP x64 Edition (KB2570947)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2570947-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/6/B/06BC866E-BE1D-4711-AEDD-F23CFDA848A7/WindowsServer2003.WindowsXP-KB2570947-x64-ENU.exe</url>
+  </update>
+  <update id="KB2564958" category="1" publishdate="2011-10-26" article="http://support.microsoft.com/kb/2564958">
+    <title>Security Update for Windows XP x64 Edition (KB2564958)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2564958-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/2/4/124328A0-FDCB-4042-BDF7-23FA0AD00B46/WindowsServer2003-KB2564958-x64-ENU.exe</url>
+  </update>
+  <update id="KB2592799" category="1" publishdate="2011-10-11" article="http://support.microsoft.com/kb/2592799">
+    <title>Security Update for Windows XP x64 Edition (KB2592799)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2592799-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/2/3/423B677F-D58D-4B36-9C3E-526B9E048A69/WindowsServer2003.WindowsXP-KB2592799-x64-ENU.exe</url>
+  </update>
+  <update id="KB2695962" category="1" publishdate="2012-05-06" article="http://support.microsoft.com/kb/2695962">
+    <title>Cumulative Security Update for ActiveX Killbits for Windows XP x64 Edition (KB2695962)</title>
+    <description>Security issues have been identified in Active X controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it.</description>
+    <filename>WindowsXP-KB2695962-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/6/9/E69D5A7D-C782-4F7B-B1E8-DBF94701D705/WindowsServer2003.WindowsXP-KB2695962-x64-ENU.exe</url>
+  </update>
+  <update id="KB2619339" category="1" publishdate="2011-12-13" article="http://support.microsoft.com/kb/2619339">
+    <title>Security Update for Windows XP x64 Edition (KB2619339)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2619339-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/F/5/2F5BDE61-79C1-4E72-A817-3B076558A1AB/WindowsServer2003.WindowsXP-KB2619339-x64-ENU.exe</url>
+  </update>
+  <update id="KB2620712" category="1" publishdate="2011-12-13" article="http://support.microsoft.com/kb/2620712">
+    <title>Security Update for Windows XP x64 Edition (KB2620712)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2620712-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/E/A/2EA698B9-A5F5-4461-8AE4-A0A7C78C52DF/WindowsServer2003.WindowsXP-KB2620712-x64-ENU.exe</url>
+  </update>
+  <update id="KB2598479" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2598479">
+    <title>Security Update for Windows XP x64 Edition (KB2598479)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2598479-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/6/7/8/6781B9E9-8838-4915-A73D-C28DC5F96037/WindowsServer2003.WindowsXP-KB2598479-x64-ENU.exe</url>
+  </update>
+  <update id="KB2603381" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2603381">
+    <title>Security Update for Windows XP x64 Edition (KB2603381)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2603381-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/A/9/5/A951AB4F-022B-4630-9677-CB109FB51224/WindowsServer2003.WindowsXP-KB2603381-x64-ENU.exe</url>
+  </update>
+  <update id="KB2584146" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2584146">
+    <title>Security Update for Windows XP x64 Edition (KB2584146)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2584146-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/6/4/3/643BF60F-F859-4819-90CA-6FD00F0C84A9/WindowsServer2003.WindowsXP-KB2584146-x64-ENU.exe</url>
+  </update>
+  <update id="KB2631813" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2631813">
+    <title>Security Update for Windows XP x64 Edition (KB2631813)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2631813-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/E/0/1E0EEE79-D005-4E64-9F95-5DD968EC1CCC/WindowsServer2003.WindowsXP-KB2631813-x64-ENU.exe</url>
+  </update>
+  <update id="KB2585542" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2585542">
+    <title>Security Update for Windows XP x64 Edition (KB2585542)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2585542-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/D/E/1/DE179D34-05CC-47F4-9840-CC0E8B337789/WindowsServer2003.WindowsXP-KB2585542-x64-ENU.exe</url>
+  </update>
+  <update id="KB2686509" category="1" publishdate="2012-04-10" article="http://support.microsoft.com/kb/2686509">
+    <title>Security Update for Windows XP x64 Edition (KB2686509)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2686509-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/A/9/7/A97AEB8F-DD67-419C-972E-F95CC755E570/WindowsServer2003.WindowsXP-KB2686509-x64-ENU.exe</url>
+  </update>
+  <update id="KB3039066" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3039066">
+    <title>Security Update for Windows XP x64 Edition (KB3039066)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB3039066-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/7/9/179B779B-39CB-4192-AC21-36B908F1D852/WindowsServer2003-KB3039066-x64-ENU.exe</url>
+  </update>
+  <update id="KB2705219" category="1" publishdate="2012-10-09" article="http://support.microsoft.com/kb/2705219">
+    <title>Security Update for Windows XP x64 Edition (KB2705219)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2705219-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/F/5/6/F56E44BE-5264-4FA8-8AA8-9E86377FEC00/WindowsServer2003.WindowsXP-KB2705219-v2-x64-ENU.exe</url>
+  </update>
+  <update id="KB2712808" category="1" publishdate="2012-08-14" article="http://support.microsoft.com/kb/2712808">
+    <title>Security Update for Windows XP x64 Edition (KB2712808)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2712808-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/F/0/E/F0E363AF-8B2E-4A52-A46E-F730BE3EF7FC/WindowsServer2003.WindowsXP-KB2712808-x64-ENU.exe</url>
+  </update>
+  <update id="KB2727528" category="1" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2727528">
+    <title>Security Update for Windows XP x64 Edition (KB2727528)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2727528-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/2/7/027DD543-DD0B-4223-AC6F-ADF99EFBB012/WindowsServer2003.WindowsXP-KB2727528-x64-ENU.exe</url>
+  </update>
+  <update id="KB2770660" category="1" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2770660">
+    <title>Security Update for Windows XP x64 Edition (KB2770660)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2770660-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/6/2/5/6256321B-0B4E-4A06-925C-81AB2DDD0298/WindowsServer2003.WindowsXP-KB2770660-x64-ENU.exe</url>
+  </update> 
+  <update id="KB2799329" category="1" publishdate="2013-01-14" article="http://support.microsoft.com/kb/2799329">
+    <title>Security Update for Internet Explorer 8 for Windows XP x64 Edition (KB2799329)</title>
+    <description>Security issues have been identified that could allow an attacker to compromise a computer running Microsoft Internet Explorer and gain control over it.</description>
+    <filename>IE8-WindowsXP-KB2799329-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/A/A/BAACB32B-75D0-48BF-AFA0-B72223ABD0D4/IE8-WindowsServer2003.WindowsXP-KB2799329-x64-ENU.exe</url>
+  </update>
+  <update id="KB2797052" category="1" publishdate="2013-02-12" article="http://support.microsoft.com/kb/2797052">
+    <title>Security Update for Internet Explorer 8 for Windows XP x64 Edition (KB2797052)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>IE8-WindowsXP-KB2797052-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/A/2/2/A22F5358-96DD-4991-B252-828AE984E079/IE8-WindowsServer2003.WindowsXP-KB2797052-x64-ENU.exe</url>
+  </update>
+  <update id="KB2780091" category="1" publishdate="2013-02-12" article="http://support.microsoft.com/kb/2780091">
+    <title>Security Update for Windows XP x64 Edition (KB2780091)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2780091-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/1/6/21694FBF-97D5-4F54-A282-2CB4A927A956/WindowsServer2003.WindowsXP-KB2780091-x64-ENU.exe</url>
+  </update>
+  <update id="KB3033395" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3033395">
+    <title>Security Update for Windows XP x64 Edition (KB3033395)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to cause the affected system to stop responding.</description>
+    <filename>WindowsXP-KB3033395-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/1/C/41C1BE7C-904F-4D8C-A4B5-75A808E8FC9B/WindowsServer2003-KB3033395-v2-x64-ENU.exe</url>
+  </update>
+  <update id="KB2807986" category="1" publishdate="2013-03-12" article="http://support.microsoft.com/kb/2807986">
+    <title>Security Update for Windows XP x64 Edition (KB2807986)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2807986-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/4/E/24E6934F-1CDA-401B-B54B-986D21BA5E02/WindowsServer2003.WindowsXP-KB2807986-x64-ENU.exe</url>
+  </update>
+  <update id="KB2813345" category="1" publishdate="2013-04-09" article="http://support.microsoft.com/kb/2813345">
+    <title>Security Update for Windows XP x64 Edition (KB2813345)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>WindowsXP-KB2813345-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/6/C/8/6C8F9D28-CA06-473E-9F74-48B9928216F5/WindowsServer2003.WindowsXP-KB2813345-x64-ENU.exe</url>
+  </update>
+  <update id="KB2820917" category="1" publishdate="2013-04-09" article="http://support.microsoft.com/kb/2820917">
+    <title>Security Update for Windows XP x64 Edition (KB2820917)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2820917-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/C/F/7/CF7E4AFB-6157-4E73-A591-E482399F3D56/WindowsServer2003.WindowsXP-KB2820917-x64-ENU.exe</url>
+  </update>
+  <update id="KB2834886" category="1" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2834886">
+    <title>Security Update for Windows XP x64 Edition (KB2834886)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2834886-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/6/E/86E0DEC4-BBE5-43CE-BF29-C78F9F6662F3/WindowsServer2003.WindowsXP-KB2834886-x64-ENU.exe</url>
+  </update>
+  <update id="KB2957509" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2957509">
+    <title>Security Update for Windows XP x64 Edition (KB2957509)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2957509-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/3/4/734EC333-DB31-4C79-92FA-C3FE54767662/WindowsServer2003-KB2957509-x64-ENU.exe</url>
+  </update>
+  <update id="KB2876217" category="1" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2876217">
+    <title>Security Update for Windows XP x64 Edition (KB2876217)</title>
+    <description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2876217-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/C/1/BC12FE3B-C280-4E69-AA55-0C6FA127CE3D/WindowsServer2003.WindowsXP-KB2876217-x64-ENU.exe</url>
+  </update>
+  <update id="KB2864063" category="1" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2864063">
+    <title>Security Update for Windows XP x64 Edition (KB2864063)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2864063-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/3/B/23B040AC-75FD-488E-93C6-E287E4FF1B7D/WindowsServer2003.WindowsXP-KB2864063-x64-ENU.exe</url>
+  </update>
+  <update id="KB3032323" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3032323">
+    <title>Security Update for Windows XP x64 Edition (KB3032323)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB3032323-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/F/A/2/FA2491BE-7EF6-4CDD-AA21-89032A5D961F/WindowsServer2003-KB3032323-x64-ENU.exe</url>
+  </update>
+  <update id="KB2862330" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2862330">
+    <title>Security Update for Windows XP x64 Edition (KB2862330)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2862330-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/F/8/D/F8D4B8A1-32B0-423F-ABE5-65B561DE7AC7/WindowsServer2003.WindowsXP-KB2862330-x64-ENU.exe</url>
+  </update>
+  <update id="KB2862335" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2862335">
+    <title>Security Update for Windows XP x64 Edition (KB2862335)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2862335-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/7/4/774E57FE-8BCB-4A63-A1C1-C227EF43A6DE/WindowsServer2003.WindowsXP-KB2862335-x64-ENU.exe</url>
+  </update>
+  <update id="KB2868038" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2868038">
+    <title>Security Update for Windows XP x64 Edition (KB2868038)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2868038-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/C/5/4/C543BE8B-415A-4CA5-BA67-295EB9C3863D/WindowsServer2003.WindowsXP-KB2868038-x64-ENU.exe</url>
+  </update>
+  <update id="KB2884256" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2884256">
+    <title>Security Update for Windows XP x64 Edition (KB2884256)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2884256-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/E/C/EEC10112-F1C1-4A14-AAC6-8C4AE18A4D12/WindowsServer2003.WindowsXP-KB2884256-x64-ENU.exe</url>
+  </update>
+  <update id="KB2864058" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2864058">
+    <title>Security Update for Windows XP x64 Edition (KB2864058)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2864058-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/3/B/6/3B6CB487-78AC-4B7B-83C4-474C0B74E5B2/WindowsServer2003.WindowsXP-KB2864058-x64-ENU.exe</url>
+  </update>
+  <update id="KB2876331" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2876331">
+    <title>Security Update for Windows XP x64 Edition (KB2876331)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2876331-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/7/1/0710A80A-E142-42BE-8554-AC48BB5D4E75/WindowsServer2003.WindowsXP-KB2876331-x64-ENU.exe</url>
+  </update>
+  <update id="KB2900986" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2900986">
+    <title>Cumulative Security Update for ActiveX Killbits for Windows XP x64 Edition (KB2900986)</title>
+    <description>Security issues have been identified in ActiveX controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it.</description>
+    <filename>WindowsXP-KB2900986-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/5/C/E/5CEFC330-3F63-4581-94EF-8336EB199683/WindowsServer2003.WindowsXP-KB2900986-x64-ENU.exe</url>
+  </update>
+  <update id="KB2961072" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2961072">
+    <title>Security Update for Windows XP x64 Edition (KB2961072)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2961072-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/8/1/981A585E-8B55-4818-ADA3-86D6DBC247FE/WindowsServer2003-KB2961072-x64-ENU.exe</url>
+  </update>
+  <update id="KB2868626" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2868626">
+    <title>Security Update for Windows XP x64 Edition (KB2868626)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2868626-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/3/6/4/3648CC9A-B793-49A7-9985-FF63BE6CD34D/WindowsServer2003.WindowsXP-KB2868626-x64-ENU.exe</url>
+  </update>
+  <update id="KB2893294" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2893294">
+    <title>Security Update for Windows XP x64 Edition (KB2893294)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2893294-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/3/A/2/3A26126A-A7C0-4D23-9EE5-34446EB8C2E2/WindowsServer2003.WindowsXP-KB2893294-x64-ENU.exe</url>
+  </update>
+  <update id="KB2892075" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2892075">
+    <title>Security Update for Windows XP x64 Edition (KB2892075)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2892075-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/3/2/232F8839-CDD7-4402-B5F8-BA1DD863A8AF/WindowsServer2003.WindowsXP-KB2892075-x64-ENU.exe</url>
+  </update>
+  <update id="KB2898715" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2898715">
+    <title>Security Update for Windows XP x64 Edition (KB2898715)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2898715-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/B/D/EBD14A23-ED26-441C-ADB7-C5F3EC7BA785/WindowsServer2003.WindowsXP-KB2898715-x64-ENU.exe</url>
+  </update>
+  <update id="KB2914368" category="1" publishdate="2014-01-14" article="http://support.microsoft.com/kb/2914368">
+    <title>Security Update for Windows XP x64 Edition (KB2914368)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2914368-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/C/6/2/C62F958C-5077-41A6-994F-907ED3FCB0B2/WindowsServer2003.WindowsXP-KB2914368-x64-ENU.exe</url>
+  </update>
+  <update id="KB2993958" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2993958">
+    <title>Security Update for Windows XP x64 Edition (KB2993958)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2993958-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/E/5/2E5F6381-007E-46D9-AE11-74240A65EC48/WindowsServer2003-KB2993958-x64-ENU.exe</url>
+  </update>
+  <update id="KB2929961" category="1" publishdate="2014-03-11" article="http://support.microsoft.com/kb/2929961">
+    <title>Security Update for Windows XP x64 Edition (KB2929961)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2929961-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/D/3/ED373871-506C-454A-AA94-42A11AA2E392/WindowsServer2003.WindowsXP-KB2929961-x64-ENU.exe</url>
+  </update>
+  <update id="KB2922229" category="1" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2922229">
+    <title>Security Update for Windows XP x64 Edition (KB2922229)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB2922229-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/F/E/7FE8749B-127A-4676-BD3B-5D24C85AABEE/WindowsServer2003.WindowsXP-KB2922229-x64-ENU.exe</url>
+  </update>
+  <update id="KB2957503" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2957503">
+    <title>Security Update for Windows XP x64 Edition (KB2957503)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2957503-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/5/B/4/5B49E98F-1D45-4F1C-9740-8E5D613DF231/WindowsServer2003-KB2957503-x64-ENU.exe</url>
+  </update>
+  <update id="KB2918614" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2918614">
+    <title>Security Update for Windows XP x64 Edition (KB2918614)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2918614-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/8/6/08689743-5394-48AD-B730-3B0022FEB46D/WindowsServer2003-KB2918614-x64-ENU.exe</url>
+  </update>
+  <update id="KB2993651" category="1" publishdate="2014-08-27" article="http://support.microsoft.com/kb/2993651">
+    <title>Security Update for Windows XP x64 Edition (KB2993651)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2993651-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/3/7/E37E4D35-2CCA-4CAB-843B-005C6E06BB86/WindowsServer2003-KB2993651-x64-ENU.exe</url>
+  </update>
+  <update id="KB2993254" category="1" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2993254">
+    <title>Security Update for Windows XP x64 Edition (KB2993254)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2993254-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/A/2/9A2B7AB2-1C65-49B1-966E-D4B736D2385D/WindowsServer2003-KB2993254-x64-ENU.exe</url>
+  </update>
+  <update id="KB2998579" category="1" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2998579">
+    <title>Security Update for Windows XP x64 Edition (KB2998579)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2998579-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/6/9/1692D2FD-9DA2-4D88-989D-3C4CA7C8392E/WindowsServer2003-KB2998579-x64-ENU.exe</url>
+  </update>
+  <update id="KB3013455" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3013455">
+    <title>Security Update for Windows XP x64 Edition (KB3013455)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3013455-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/D/9/1D94B91E-093E-4F3F-9B57-7775CB2A95B7/WindowsServer2003-KB3013455-x64-ENU.exe</url>
+  </update>
+  <update id="KB2989935" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2989935">
+    <title>Security Update for Windows XP x64 Edition (KB2989935)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB2989935-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/F/0/0/F00E29F8-4CB9-4DA4-930A-BEFED0D07582/WindowsServer2003-KB2989935-x64-ENU.exe</url>
+  </update>
+  <update id="KB3013126" category="1" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3013126">
+    <title>Security Update for Windows XP x64 Edition (KB3013126)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3013126-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/8/6/1862ED5E-98AD-4185-80C8-EB8B35D19F42/WindowsServer2003-KB3013126-x64-ENU.exe</url>
+  </update>
+  <update id="KB3020393" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3020393">
+    <title>Security Update for Windows XP x64 Edition (KB3020393)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3020393-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/4/E/04EB130B-A650-4300-9922-D30B6E7AB6A8/WindowsServer2003-KB3020393-x64-ENU.exe</url>
+  </update>
+  <update id="KB3021674" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3021674">
+    <title>Security Update for Windows XP x64 Edition (KB3021674)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3021674-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/B/8/8B89F297-711B-48AF-BE3D-F97DEF0AF418/WindowsServer2003-KB3021674-x64-ENU.exe</url>
+  </update>
+  <update id="KB3014029" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/">
+    <title>Security Update for Windows XP x64 Edition (KB3014029)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3014029-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/5/6/E/56E8DA7B-5842-4AE9-AC40-EEB007E34A03/WindowsServer2003-KB3014029-x64-ENU.exe</url>
+  </update>
+  <update id="KB3019215" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3019215">
+    <title>Security Update for Windows XP x64 Edition (KB3019215)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3019215-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/A/5/A/A5AF7F3B-32F5-490A-94A3-778919284AA6/WindowsServer2003-KB3019215-x64-ENU.exe</url>
+  </update>
+  <update id="KB3004361" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3004361">
+    <title>Security Update for Windows XP x64 Edition (KB3004361)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3004361-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/D/7/1/D71A873E-2158-49B6-8937-57AE661A2B2F/WindowsServer2003-KB3004361-x64-ENU.exe</url>
+  </update>
+  <update id="KB3029944" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3029944">
+    <title>Security Update for Windows XP x64 Edition (KB3029944)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3029944-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/6/D/8/6D8373D2-1A24-4CF1-B0A6-F276335127B4/WindowsServer2003-KB3029944-x64-ENU.exe</url>
+  </update>
+  <update id="KB3033889" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3033889">
+    <title>Security Update for Windows XP x64 Edition (KB3033889)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3033889-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/3/6/736CB191-C550-4D22-89E5-7841D84D7D80/WindowsServer2003-KB3033889-x64-ENU.exe</url>
+  </update>
+  <update id="KB3035132" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035132">
+    <title>Security Update for Windows XP x64 Edition (KB3035132)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3035132-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/A/5/E/A5E962ED-8423-4585-B80E-1F072B767765/WindowsServer2003-KB3035132-x64-ENU.exe</url>
+  </update>
+  <update id="KB3046049" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3046049">
+    <title>Security Update for Windows XP x64 Edition (KB3046049)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3046049-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/5/5/6/55627A26-BF57-46AC-92E4-221EA78ACB37/WindowsServer2003-KB3046049-x64-ENU.exe</url>
+  </update>
+  <update id="KB3002657" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3002657">
+    <title>Security Update for Windows XP x64 Edition (KB3002657)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-KB3002657-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/D/C/A/DCA095B4-3CA6-4AA0-BDA1-BE32C4E4F0F1/WindowsServer2003-KB3002657-v2-x64-ENU.exe</url>
+  </update>
+      
+  <update id="KB2820197" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820197">
+    <title>Update Rollup for ActiveX Kill Bits in Windows XP x64 Edition (KB2820197)</title>
+    <description>Microsoft is releasing a new set of ActiveX kill bits with this update.</description>
+    <filename>WindowsXP-KB2820197-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/4/1/9419C664-3EBA-4670-B487-EB854C4D3DA8/WindowsServer2003.WindowsXP-KB2820197-x64-ENU.exe</url>
+  </update>
+  <update id="KB2641690" category="2" publishdate="2011-11-16" article="http://support.microsoft.com/kb/2641690">
+    <title>Update for Windows XP x64 Edition (KB2641690)</title>
+    <description>Install this update to resolve an issue which requires an update to the certificate revocation list on Windows systems and to keep your systems certificate list up to date.</description>
+    <filename>WindowsXP-KB2641690-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/7/2/17259C7F-20EF-4B48-8E2F-D786523E7855/WindowsServer2003.WindowsXP-KB2641690-v2-x64-ENU.exe</url>
+  </update>
+  <update id="KB967715" category="2" publishdate="2009-02-25" article="http://support.microsoft.com/kb/967715">
+    <title>Update for Windows XP x64 Edition (KB967715)</title>
+    <description>Install this update to resolve an issue in which AutoRun features were not correctly disabled.</description>
+    <filename>WindowsXP-KB967715-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/5/9/F/59F6D579-4D3F-470F-AD87-7463BCF47D5B/WindowsServer2003.WindowsXP-KB967715-x64-ENU.exe</url>
+  </update>
+  <update id="KB952011" category="2" publishdate="2009-01-20" article="http://support.microsoft.com/kb/952011">
+    <title>Image Mastering API v2.0 (IMAPIv2.0) for Windows XP x64 Edition (KB952011)</title>
+    <description>Image Mastering API v2.0 (IMAPIv2.0) enables IMAPIv2 dependent applications to stage and burn images to CD, DVD and Blu-Ray optical storage media.</description>
+    <filename>WindowsXP-KB952011-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/D/C/4DC0907E-38FF-4CF6-A155-B45C4EF39C35/IMAPI_SRV2003_x64.exe</url>
+  </update>
+  <update id="KB942228" category="2" publishdate="2008-02-07">
+    <title>Windows Installer 4.5 for Windows XP x64 Edition (KB942228)</title>
+    <description>The Microsoft Windows Installer (MSI) is the application installation and configuration service for Windows.</description>
+    <filename>WindowsXP-KB942228-v4-x64.exe</filename>
+    <url>http://download.microsoft.com/download/2/6/1/261fca42-22c0-4f91-9451-0e0f2e08356d/WindowsServer2003-KB942288-v4-x64.exe</url>
+  </update>
+  <update id="KB955704" category="2" publishdate="2009-08-26" article="http://support.microsoft.com/kb/955704">
+    <title>Update for Windows XP x64 Edition (KB955704)</title>
+    <description>Install this update to add support for the exFAT file system format.</description>
+    <filename>WindowsXP-KB955704-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/C/0/5/C0526146-E09A-41F7-B417-73BA1E561E40/WindowsServer2003.WindowsXP-KB955704-x64-ENU.exe</url>
+  </update>
+  <update id="KB971029" category="2" publishdate="2009-08-25" article="http://support.microsoft.com/kb/971029">
+    <title>Update for Windows XP x64 Edition (KB971029)</title>
+    <description>Install this update to restrict AutoRun entries in the AutoPlay dialog to only CD and DVD drives.</description>
+    <filename>WindowsXP-KB971029-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/D/B/2DB53506-6EE3-41E2-ACC8-486C1B2F757F/WindowsServer2003.WindowsXP-KB971029-x64-ENU.exe</url>
+  </update>
+  <update id="KB2492386" category="2" publishdate="2011-04-26" article="http://support.microsoft.com/kb/2492386">
+    <title>Update for Windows XP x64 Edition (KB2492386)</title>
+    <description>Install this update to resolve a set of known application compatibility issues with Windows.</description>
+    <filename>WindowsXP-KB2492386-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/A/7/3/A73D61FB-181A-4D89-B1AD-7EAAE2487D46/WindowsServer2003.WindowsXP-KB2492386-x64-ENU.exe</url>
+  </update>  
+  <update id="KB2632503" category="2" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2632503">
+    <title>Update for Windows XP x64 Edition (KB2632503)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>IE8-WindowsXP-KB2632503-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/0/5/5/05509EC3-A5A0-4889-8355-14BFA65ED78C/IE8-WindowsServer2003.WindowsXP-KB2632503-x64-ENU.exe</url>
+  </update>
+  <update id="KB2657025" category="2" publishdate="2012-02-14" article="http://support.microsoft.com/kb/2657025">
+    <title>Update for Windows XP x64 Edition (KB2657025)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>WindowsXP-KB2657025-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/D/8/1D8298C8-F5D1-45F6-9730-D9C52949760F/WindowsServer2003.WindowsXP-KB2657025-x64-ENU.exe</url>
+  </update>
+  <update id="KB2718704" category="2" publishdate="2012-06-03" article="http://support.microsoft.com/kb/2718704">
+    <title>Update for Windows XP x64 Edition (KB2718704)</title>
+    <description>Install this update to resolve an issue which requires an update to the certificate revocation list on Windows systems and to keep your systems certificate list up to date.</description>
+    <filename>WindowsXP-KB2718704-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/7/8/97859DB6-04A2-43A5-B9E8-C37180425D08/WindowsServer2003.WindowsXP-KB2718704-x64-ENU.exe</url>
+  </update>
+  <update id="KB3048051" category="2" publishdate="2015-03-20" article="http://support.microsoft.com/kb/3048051">
+    <title>Update for Windows XP x64 Edition (KB3048051)</title>
+    <description>Install this update to resolve an issue which requires an update to the untrusted certificate store on Windows systems and to keep your systems up to date.</description>
+    <filename>rvkroots.exe</filename>
+    <url>http://download.microsoft.com/download/6/3/7/637A3274-6E67-4F9B-B68D-C6742C6198DE/rvkroots.exe</url>
+  </update>
+  <update id="KB2749655" category="2" publishdate="2012-10-09" article="http://support.microsoft.com/kb/2749655">
+    <title>Update for Windows XP x64 Edition (KB2749655)</title>
+    <description>Compatibility issues affecting signed Microsoft binaries.</description>
+    <filename>WindowsXP-KB2749655-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/D/E/0/DE0CF09B-DE33-46EC-BCE2-6B7B5C494151/WindowsServer2003.WindowsXP-KB2749655-x64-ENU.exe</url>
+  </update>
+  <update id="KB2748349" category="2" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2748349">
+    <title>Update for Windows XP x64 Edition (KB2748349)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>WindowsXP-KB2748349-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/0/2/4028DF4B-1B05-4AB1-BFF2-B0B8C5B2C266/WindowsServer2003.WindowsXP-KB2748349-x64-ENU.exe</url>
+  </update>
+  <update id="KB2808679" category="2" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2808679">
+    <title>Update for Windows XP x64 Edition (KB2808679)</title>
+    <description>Install this update to keep your system up to date by increasing the minimum level of encryption on Windows systems.</description>
+    <filename>WindowsXP-KB2808679-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/6/6/B/66B90C23-79FD-4436-82CF-64033ED3B1CA/WindowsServer2003.WindowsXP-KB2808679-x64-ENU.exe</url>
+  </update>
+  <update id="KB3013410" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3013410">
+    <title>Update for Windows XP x64 Edition (KB3013410)</title>
+    <description>Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries.</description>
+    <filename>WindowsXP-KB3013410-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/D/B/8DBC7E94-0407-4CEA-AB95-F0E60C433193/WindowsServer2003-KB3013410-x64-ENU.exe</url>
+  </update>
+  <update id="KB3020338" category="2" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3020338">
+    <title>Update for Windows XP x64 Edition (KB3020338)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>WindowsXP-KB3020338-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/D/C/F/DCF501FD-D843-45C7-901D-0691835440DE/WindowsServer2003-KB3020338-x64-ENU.exe</url>
+  </update>
+  
+  <update id="KB914961" category="3" publishdate="2007-03-13" article="http://support.microsoft.com/kb/914961">
+    <title>Service Pack 2 for Windows XP Professional x64 Edition (KB914961)</title>
+    <description>Service Pack 2 (SP2) is a cumulative service pack that includes the latest updates and provides enhancements to security and stability.</description>
+    <filename>WindowsXP-KB914961-SP2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/8/b/2/8b2347d9-9f9f-410b-8436-616f89c81902/WindowsServer2003.WindowsXP-KB914961-SP2-x64-ENU.exe</url>
+  </update>
+
+  <update id="KB928788" category="4" publishdate="2007-02-22" article="http://support.microsoft.com/kb/928788">
+    <title>Update for Windows Media Player 11 (KB928788)</title>
+    <description>Windows Media Player 11 may not work correctly when you use the Media Sharing feature to stream Windows Media format video content across a home network.</description>
+    <filename>windowsmedia11-kb928788-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/c/4/3/c439f68e-36c4-4f3d-9366-5704eb3b2a3a/windowsmedia11-kb928788-x64-intl.exe</url>
+  </update>
+  <update id="KB929399" category="4" publishdate="2011-09-27" article="http://support.microsoft.com/kb/929399">
+    <title>Update for Windows Media Player 11 (KB929399)</title>
+    <description>You repeatedly receive a message to install update KB929399 on a computer that is running Windows XP</description>
+    <filename>windowsmedia11-kb929399-v2-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/E/9/C/E9C0621C-F14B-40CE-88AD-A426B10BCBDE/WindowsMedia11-KB929399-v2-x64-INTL.exe</url>
+  </update>
+  <update id="KB929773" category="4" publishdate="2007-04-04" article="http://support.microsoft.com/kb/929773">
+    <title>Update for Windows Media Player 11 (KB929773)</title>
+    <description>You hear an unexpected noise or a problem in the audio playback when you play back a Windows Media Audio (WMA) file on certain hardware devices</description>
+    <filename>windowsmedia11-kb929773-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/a/0/3/a03a5929-f689-4fcb-abdc-84dfb970ce87/windowsmedia11-kb929773-x64-intl.exe</url>
+  </update>
+  <update id="KB932390" category="4" publishdate="2008-05-13" article="http://support.microsoft.com/kb/932390">
+    <title>Update for Windows Media Player 11 (KB932390)</title>
+    <description>The encoder cannot use the Windows Media Audio 9 Voice codec after you install Windows Media Player 11 on a computer that uses Windows Media Encoder 9 Series</description>
+    <filename>windowsmedia11-kb932390-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/b/1/b/b1b1434d-c746-4750-9d1b-077f8ce8dd07/windowsmedia11-kb932390-x64-intl.exe</url>
+  </update>
+  <update id="KB933547" category="4" publishdate="2011-09-27" article="http://support.microsoft.com/kb/933547">
+    <title>Update for Windows Media Player 11 (KB933547)</title>
+    <description>Windows Media Player 11 may crash if you plug in certain flash memory devices while you use Windows Media Player in Windows XP</description>
+    <filename>windowsmedia11-kb933547-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/B/6/2/B6253339-941B-4382-801C-BC7764A51AB7/WindowsMedia11-KB933547-x64-INTL.exe</url>
+  </update>
+  <update id="KB935551" category="4" publishdate="2011-09-27" article="http://support.microsoft.com/kb/935551">
+    <title>Update for Windows Media Player 11 (KB935551)</title>
+    <description>Device connection is disconnected when you synchronize lots of files between Windows Media Player 11 and a Windows Mobile device</description>
+    <filename>windowsmedia11-kb935551-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/E/1/F/E1FC9A52-A01A-40F1-938A-93F3FC85FA71/WindowsMedia11-KB935551-x64-INTL.exe</url>
+  </update>
+  <update id="KB935552" category="4" publishdate="2011-09-27" article="http://support.microsoft.com/kb/935552">
+    <title>Update for Windows Media Player 11 (KB935552)</title>
+    <description>Windows Media Player 11 may stop responding when you transfer media to a device that uses the Media Transfer Protocol and then you cancel the transfer process</description>
+    <filename>windowsmedia11-kb935552-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/7/B/1/7B1F225E-C9D6-4D8F-8676-7A343814E867/WindowsMedia11-KB935552-x64-INTL.exe</url>
+  </update>
+  <update id="KB939209" category="4" publishdate="2007-08-21" article="http://support.microsoft.com/kb/939209">
+    <title>Update for Windows Media Player 11 (KB939209)</title>
+    <description>When you use an application to play DRM-protected video content in Windows XP, the application may fail</description>
+    <filename>windowsmedia11-kb939209-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/9/2/3/92369494-33bc-4193-b39a-2c456df2878c/windowsmedia11-kb939209-x64-intl.exe</url>
+  </update>
+  <update id="KB939683" category="4" publishdate="2007-08-27" article="http://support.microsoft.com/kb/939683">
+    <title>Update for Windows Media Player 11 (KB939683)</title>
+    <description>Install this update to improve how Windows Media Player manages shortcuts you create and add to the Start menu pinned list.</description>
+    <filename>WindowsMedia11-KB939683-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/5/2/a/52aa5ad7-4e8d-48ed-8c22-d84026ef8322/WindowsMedia11-KB939683-x64-ENU.exe</url>
+  </update>
+  <update id="KB941569" category="4" publishdate="2007-12-10" article="http://support.microsoft.com/kb/941569">
+    <title>Security Update for Windows Media Format 11 (KB941569)</title>
+    <description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Windows Media file formats and gain control over it.</description>
+    <filename>WindowsMedia11-KB941569-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/d/a/d/dad26ba5-25b9-4de0-a7a7-b54719280ce1/WindowsMedia11-KB941569-x64-ENU.exe</url>
+  </update>
+  <update id="KB944882" category="4" publishdate="2007-12-14" article="http://support.microsoft.com/kb/944882">
+    <title>Update for Windows Media Player 11 (KB944882)</title>
+    <description>The memory for an application increases for each file that you transfer when you transfer media from a computer that is running Windows XP to a portable device</description>
+    <filename>windowsmedia11-kb944882-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/8/1/0/81077dd1-8cb4-4093-9e09-bdc7c6278677/windowsmedia11-kb944882-x64-intl.exe</url>
+  </update>
+  <update id="KB952069" category="4" publishdate="2008-12-10" article="http://support.microsoft.com/kb/952069">
+    <title>Security Update for Windows XP x64 Edition (KB952069)</title>
+    <description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsMedia11-KB952069-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/3/1/B/31BB6E66-1007-4681-A8F5-4DDDB16351B5/WindowsMedia11-KB952069-x64-ENU.exe</url>
+  </update>
+  <update id="KB954067" category="4" publishdate="2008-09-15" article="http://support.microsoft.com/kb/954067">
+    <title>Update for Windows Media Player 11 (KB954067)</title>
+    <description>You see lower quality video when you use Windows Media Encoder 9 Series or a similar Windows Media Format SDK-based encoder to encode a video</description>
+    <filename>windowsmedia11-kb954067-x64-intl.exe</filename>
+    <url>http://download.microsoft.com/download/1/a/5/1a58651f-c74c-4a46-9f5d-4dc1a41e4140/windowsmedia11-kb954067-x64-intl.exe</url>
+  </update>
+  <update id="KB954154" category="4" publishdate="2008-09-09" article="http://support.microsoft.com/kb/954154">
+    <title>Security Update for Windows XP x64 Edition (KB954154)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+    <filename>WindowsMedia11-KB954154-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/2/3/b/23b8d9b4-efe0-44b3-911e-3c0fd4372761/WindowsMedia11-KB954154-x64-ENU.exe</url>
+  </update>
+  <update id="KB954155" category="4" publishdate="2009-10-12" article="http://support.microsoft.com/kb/954155">
+    <title>Security Update for Windows Media Format Runtime 11 for Windows XP x64 Edition (KB954155)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsXP-KB954155-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/C/7/1C7ADCFD-183A-4512-AB11-DA5E8D1944B7/WindowsServer2003.WindowsXP-KB954155-x64-ENU.exe</url>
+  </update>
+  <update id="KB973540" category="4" publishdate="2009-08-11" article="http://support.microsoft.com/kb/973540">
+    <title>Security Update for Windows Media Player 11 for Windows XP x64 Edition (KB973540)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsMedia11-KB973540-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/9/1/B/91B572F3-EDCD-45DD-8A77-77989BA1EADF/WindowsMedia11-KB973540-x64-ENU.exe</url>
+  </update>
+  <update id="KB978695" category="4" publishdate="2010-06-08" article="http://support.microsoft.com/kb/978695">
+    <title>Security Update for Windows Media Format Runtime 11 for Windows XP x64 Edition (KB978695)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsMedia11-KB978695-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/4/4/B44F591E-1411-4193-8DF8-D2EDD1E71FB5/WindowsMedia11-KB978695-x64-ENU.exe</url>
+  </update>
+  <update id="KB975558" category="4" publishdate="2010-09-14" article="http://support.microsoft.com/kb/975558">
+    <title>Security Update for Windows XP x64 Edition (KB975558)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsMedia11-KB975558-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/B/C/E/BCEE45F3-C388-4871-A1D6-FA8DE72CA4A8/WindowsXP-SP2-X64-WindowsMedia-KB975558-x64-ENU.exe</url>
+  </update>
+  <update id="KB2378111" category="4" publishdate="2010-10-14" article="http://support.microsoft.com/kb/2378111">
+    <title>Security Update for Windows Media Player 11 for Windows XP x64 Edition (KB2378111)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>WindowsMedia11-KB2378111-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/B/3/1B39914F-2A5F-49B2-965F-E224C75ACF21/WindowsMedia11-KB2378111-x64-ENU.exe</url>
+  </update>
+  <update id="KB2834904" category="4" publishdate="2013-08-27" article="http://support.microsoft.com/kb/2834904">
+    <title>Security Update for Windows Media Format Runtime 11 for Windows XP SP2 x64 Edition (KB2834904)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>WindowsXP-WindowsMedia11-KB2834904-v2-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/4/9/7/49729D66-EBFD-4ACC-9D80-E030A9ADE0D0/WindowsServer2003.WindowsXP-WindowsMedia-KB2834904-v2-x64-ENU.exe</url>
+  </update>
+
+  <update id="KB890830" category="6" publishdate="2015-03-10" article="http://support.microsoft.com/kb/890830">
+    <title>Microsoft Windows Malicious Software Removal Tool x64 - March 2015 (KB890830)</title>
+    <description>This tool checks your computer for infection by specific, prevalent malicious software (including Blaster, Sasser, and Mydoom) and helps to remove the infection if it is found.</description>
+    <filename>Windows-KB890830-x64-v5.22.exe</filename>
+    <url>http://download.microsoft.com/download/2/C/5/2C563B99-54D9-4D85-A82B-45D3CD2F53CE/windows-kb890830-x64-v5.22.exe</url>
+  </update>
+  <update id="" category="6" publishdate="2010-04-12">
+    <title>Microsoft .NET Framework 4</title>
+    <description>The Microsoft .NET Framework 4 redistributable package installs the .NET Framework runtime and associated files that are required to run and develop applications to target the .NET Framework 4.</description>
+    <filename>dotnetfx40_full_x86_x64.exe</filename>
+    <url>http://download.microsoft.com/download/9/5/A/95A9616B-7A37-4AF6-BC36-D6EA96C8DAAE/dotNetFx40_Full_x86_x64.exe</url>
+  </update>
+  <update id="" category="6" publishdate="2010-04-12">
+    <title>Microsoft .NET Framework 3.5 Service Pack 1</title>
+    <description>Microsoft .NET Framework 3.5 Service Pack 1 is a cumulative update that contains many new features building incrementally upon .NET Framework 2.0, 3.0, 3.5, and includes .NET Framework 2.0 Service Pack 2 and .NET Framework 3.0 Service Pack 2 cumulative updates.</description>
+    <filename>dotnetfx35.exe</filename>
+    <url>http://download.microsoft.com/download/2/0/E/20E90413-712F-438C-988E-FDAA79A8AC3D/dotnetfx35.exe</url>
+  </update>
+  <update id="" category="6" publishdate="2009-03-19">
+    <title>Windows Internet Explorer 8</title>
+    <description>Internet Explorer 8. Faster, Easier, More Private, and More Secure.</description>
+    <filename>IE8-WindowsXP-x64-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/7/5/4/754D6601-662D-4E39-9788-6F90D8E5C097/IE8-WindowsServer2003-x64-ENU.exe</url>
+  </update>
+  <update id="KB951929" category="6" publishdate="2010-06-22" article="http://support.microsoft.com/kb/951929">
+    <title>Windows Media Player 11 for Windows XP x64 Edition</title>
+    <description>The media player for all your digital entertainment needs.</description>
+    <filename>wmp11-windowsxp-x64-enu.exe</filename>
+    <url>http://download.microsoft.com/download/3/0/8/3080c52c-2517-43de-bdb4-b7eafd88f084/wmp11-windowsxp-x64-enu.exe</url>
+  </update>
+  <update id="KB931125" category="6" publishdate="2014-03-11" article="http://support.microsoft.com/kb/931125">
+    <title>Update for Root Certificates - March 2014 (KB931125)</title>
+    <description>This item updates the list of root certificates on your computer to the list that is accepted by Microsoft as part of the Microsoft Root Certificate Program.</description>
+    <filename>rootsupd.exe</filename>
+    <url>http://download.microsoft.com/download/4/8/A/48A4F0D5-BB2B-44BD-8AE6-CF3C9274D7FE/rootsupd.exe</url>
+  </update>
+</updates>
+
+</updatelist>

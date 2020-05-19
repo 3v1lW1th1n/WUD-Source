@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updatelist product="Windows 8.1" servicepack="" platform="x64" language="ENU" lastupdate="2014-09-09" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+
+<!-- Created by Steven4554 -->
+
+<categories>
+  <category id="1">Upgrade to Windows 8.1 Update</category>
+</categories>
+
+<updates>
+  <update id="KB2919355" category="1" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2919355">
+    <title>Windows 8.1 Update for x64-based Systems (KB2919355)</title>
+    <description>Windows 8.1 Update is a cumulative set of security updates, critical updates and updates</description>
+    <filename>Windows8.1-KB2919355-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/1/DB1F29FC-316D-481E-B435-1654BA185DCF/Windows8.1-KB2919355-x64.msu</url>
+  </update>
+  <update id="KB2989647" category="1" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2989647">
+    <title>Update for Windows 8.1 for x64-based Systems (KB2989647)</title>
+    <description>A servicing stack update is available for Windows 8.1</description>
+    <filename>Windows8.1-KB2989647-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/8/9/58971844-2732-41FC-B2E4-020486F49856/Windows8.1-KB2989647-x64.msu</url>
+  </update>
+  <update id="KB2932046" category="1" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2932046">
+    <title>Update for Windows 8.1 Update for x64-based Systems (KB2932046)</title>
+    <description></description>
+    <filename>Windows8.1-KB2932046-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/1/DB1F29FC-316D-481E-B435-1654BA185DCF/Windows8.1-KB2932046-x64.msu</url>
+  </update>
+  <update id="KB2937592" category="1" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2937592">
+    <title>Update for Windows 8.1 Update for x64-based Systems (KB2937592)</title>
+    <description></description>
+    <filename>Windows8.1-KB2937592-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/1/DB1F29FC-316D-481E-B435-1654BA185DCF/Windows8.1-KB2937592-x64.msu</url>
+  </update>
+  <update id="KB2938439" category="1" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2938439">
+    <title>Update for Windows 8.1 Update for x64-based Systems (KB2938439)</title>
+    <description></description>
+    <filename>Windows8.1-KB2938439-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/1/DB1F29FC-316D-481E-B435-1654BA185DCF/Windows8.1-KB2938439-x64.msu</url>
+  </update>
+  <update id="KB2934018" category="1" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2934018">
+    <title>Update for Windows 8.1 Update for x64-based Systems (KB2934018)</title>
+    <description></description>
+    <filename>Windows 8.1-KB2934018-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/1/DB1F29FC-316D-481E-B435-1654BA185DCF/Windows8.1-KB2934018-x64.msu</url>
+  </update>
+  <update id="KB2959977" category="1" publishdate="2014-04-16" article="http://support.microsoft.com/kb/2959977">
+    <title>Update for Windows 8.1 Update for x64-based Systems (KB2959977)</title>
+    <description></description>
+    <filename>Windows8.1-KB2959977-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/1/DB1F29FC-316D-481E-B435-1654BA185DCF/Windows8.1-KB2959977-x64.msu</url>
+  </update>
+</updates>
+
+</updatelist>

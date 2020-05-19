@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<updatelist product="Windows 2000 Professional" servicepack="Service Pack 4" platform="x86" language="ENU" lastupdate="2010-03-11" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+	<!--Windows 2000 SP4 (x86) / IE6 / WMP9-->
+	<categories>
+		<category id="1">Critical Updates</category>
+		<category id="2">Service Packs</category>
+		<category id="7">Windows Media Player</category>
+		<category id="8">Windows Services for UNIX</category>
+		<category id="9">Other</category>
+	</categories>
+	<updates>
+		<update id="KB978706" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978706">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=e5861705-8f49-45cb-8a92-cf052ccf4134&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB978706)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB978706-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/4/C/44C16AC3-893F-49EC-B15A-3ECD2585FA58/Windows2000-KB978706-x86-ENU.EXE</url>
+		</update>
+		<update id="KB978262" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978262">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=543dc6a7-fa76-4ba9-81e4-25fdf2013548&displaylang=en-->
+			<title>Cumulative Security Update for ActiveX Killbits for Windows 2000 (KB978262)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS10-008. To find out if other security updates are available for you, see the Overview section of this page.</description>
+			<filename>Windows2000-KB978262-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/5/9/4/594392DE-9F6F-48A8-B3F4-67F84D1B93B7/Windows2000-KB978262-x86-ENU.EXE</url>
+		</update>
+		<update id="KB978251" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978251">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=80b49bab-6c2f-48a8-a901-ca3f76e4fe6b&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB978251)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB978251-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/B/E/5/BE506911-28F8-407A-B238-4BCB4E15D7A9/Windows2000-KB978251-x86-ENU.EXE</url>
+		</update>
+		<update id="KB978037" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978037">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=456185b5-57d1-4fa5-a4a9-5b2006ede3ad&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB978037)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB978037-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/A/2/3A271BDB-657A-460F-8B17-DD0490C54F1E/Windows2000-KB978037-x86-ENU.EXE</url>
+		</update>
+		<update id="KB977914" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=977914">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ba110440-10ce-40a0-884a-8b9afd45a3e3&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB977914)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB977914-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/F/A/3FA4E13D-A7E4-4000-8C5C-0BA46A587097/Windows2000-KB977914-x86-ENU.EXE</url>
+		</update>
+		<update id="KB977165" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=977165">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ed8ac6a5-c8bb-4ed4-8994-810e9a1863c3&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB977165)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB977165-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/5/2/3/523CA013-C738-48F7-AAFE-2A0357223325/Windows2000-KB977165-x86-ENU.EXE</url>
+		</update>
+		<update id="KB975713" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=975713">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=92234237-a8eb-4ce4-bc5e-cd86feb7dbd3&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB975713)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB975713-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/0/C/C/0CCBF1D9-082D-435F-90A2-F998F7CABF4D/Windows2000-KB975713-x86-ENU.EXE</url>
+		</update>
+		<update id="KB975560" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=975560">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=59a8bc19-02bb-4800-bac1-464f59e1cb7b&displaylang=en-->
+			<title>Security Update for DirectX 9 for Windows 2000 (KB975560)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-DirectX9-KB975560-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/3/6/B36A0096-D1E7-48E3-A75D-F48B35BBB251/Windows2000-DirectX9-KB975560-x86-ENU.exe</url>
+		</update>
+		<update id="KB971468" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=971468">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=267ce982-54a0-418f-ad52-e4963610f714&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB971468)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB971468-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/5/5/355C4954-3797-4E09-90BD-F453E9CF3416/Windows2000-KB971468-x86-ENU.EXE</url>
+		</update>
+		<update id="KB978207" category="1" publishdate="2010-01-20" article="http://support.microsoft.com/?kbid=978207">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=a38aa9d0-c3fe-4d41-8805-7d5370263c1b&displaylang=en-->
+			<title>Update for Internet Explorer 6 SP1 (KB978207)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS10-002. To find out if other security updates are available for you, see the Overview section of this page.</description>
+			<filename>IE6.0sp1-KB978207-Windows2000-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/D/8/9/D89B8CF1-CE85-4B5F-9B7E-EB11D0FBF059/IE6.0sp1-KB978207-Windows2000-x86-ENU.exe</url>
+		</update>
+		<update id="KB972270" category="1" publishdate="2010-01-11" article="http://support.microsoft.com/?kbid=972270">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=47f85cbd-282e-4c92-9809-68bba49e0a12&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB972270)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB972270-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/7/3/27318C03-B37B-46DD-8F25-2C23D123B412/Windows2000-KB972270-x86-ENU.EXE</url>
+		</update>
+		<update id="KB974392" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/?kbid=974392">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=560e01db-5f59-4ef1-9406-f5d7e0fd4128&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB974392)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB974392-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/C/5/B/C5BCEE49-3AFF-441C-A409-A26629339215/Windows2000-KB974392-x86-ENU.EXE</url>
+		</update>
+		<update id="KB974318" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/?kbid=974318">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=5b02d10d-1abd-4d68-826b-71dad543657a&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB974318)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB974318-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/A/2/4A2056F2-5F77-444D-BEE0-80BC8013C082/Windows2000-KB974318-x86-ENU.EXE</url>
+		</update>
+		<update id="KB973904" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/?kbid=973904">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=50936f51-b0a9-4e94-85bf-93f9ad74fdd1&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB973904)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB973904-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/8/4/384BD2A8-7323-44E5-88A4-05DEBDC25941/Windows2000-KB973904-x86-ENU.EXE</url>
+		</update>
+		<update id="KB975025" category="1" publishdate="2009-11-10" article="http://support.microsoft.com/?kbid=975025">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=6dfd5405-cabe-4bd7-9330-b6bde1d99194&displaylang=en-->
+			<title>Security Update for Windows Media Player 9 for Windows 2000 (KB975025)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-WindowsMedia-KB975025-v2-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/E/8/4/E8491D0A-BACB-4BE4-95D0-CC6E8E259414/Windows2000-WindowsMedia-KB975025-v2-x86-ENU.exe</url>
+		</update>
+		<update id="KB974783" category="1" publishdate="2009-11-09" article="http://support.microsoft.com/?kbid=974783">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=365a8dff-2383-42f6-b567-e545461fd135&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB974783)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB974783-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/6/F/46F9D53A-1401-4F97-8CE8-8A5B15201114/Windows2000-KB974783-x86-ENU.EXE</url>
+		</update>
+		<update id="KB973037" category="1" publishdate="2009-11-09" article="http://support.microsoft.com/?kbid=973037">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=297158cf-374c-45d9-b213-978e1f54d244&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB973037)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding.</description>
+			<filename>Windows2000-KB973037-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/1/B/C/1BCD13C8-C483-4AF5-BA7B-64BF57A8DE85/Windows2000-KB973037-x86-ENU.EXE</url>
+		</update>
+		<update id="KB969947" category="1" publishdate="2009-11-09" article="http://support.microsoft.com/?kbid=969947">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=45db8bb1-c81b-4d3f-a658-74f5fa445f81&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB969947)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB969947-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/A/8/3A812AE0-65F8-4F2B-80FB-734AE64F2D6C/Windows2000-KB969947-x86-ENU.EXE</url>
+		</update>
+		<update id="KB975254" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=975254">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7fecd367-aaff-458b-91bc-8925c8e57528&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB975254)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB975254-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/7/6/4/764B8058-7BAB-4975-A291-61112B9DA75A/Windows2000-KB975254-x86-ENU.EXE</url>
+		</update>
+		<update id="KB974571" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=974571">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=52b9198d-b65f-467a-a5ab-141e23d64a86&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB974571)</title>
+			<description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+			<filename>Windows2000-KB974571-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/A/1/3A1EF925-D987-4061-85DA-DDA85D707380/Windows2000-KB974571-x86-ENU.EXE</url>
+		</update>
+		<update id="KB974112" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=974112">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=13035ef7-7e47-487c-8b7c-7795d33ce7de&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB974112)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsMedia64-KB974112-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/7/D/37D576B6-C320-45FB-8774-66E5B6F3C51B/WindowsMedia64-KB974112-x86-ENU.exe</url>
+		</update>
+		<update id="KB969878" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=969878">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=4fe0dff5-04d9-4409-8d1d-52419537126b&displaylang=en-->
+			<title>Security Update for Windows 2000, Windows XP and Windows 2003 (KB969878)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsMedia9-KB969878-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/8/C/28C2F33D-766F-4FE3-BE8C-DDFDF74CA53B/WindowsMedia9-KB969878-x86-ENU.exe</url>
+		</update>
+		<update id="KB969059" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=969059">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=b34d94b5-b828-4e16-a636-04344c60d945&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB969059)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB969059-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/F/1/A/F1AE5BFE-C823-48E4-97F9-54A65E9010F7/Windows2000-KB969059-x86-ENU.EXE</url>
+		</update>
+		<update id="KB958869" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=958869">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=f3fef608-dafb-4b37-a65a-9cc4ae8e2c4c&displaylang=en-->
+			<title>Security Update for Internet Explorer 6 for Windows 2000 (KB958869)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>IE6.0sp1-KB958869-Windows2000-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/7/1/8/7182ECF8-C1A7-43C1-B38D-4DD96DCF6E2C/IE6.0sp1-KB958869-Windows2000-x86-ENU.exe</url>
+		</update>
+		<update id="KB954155" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=954155">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=8f850a82-61f9-447b-a0aa-a2c192cc5d2e&displaylang=en-->
+			<title>Security Update for Windows Media Format Runtime 9 for Windows 2000 (KB954155)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-WindowsMedia-KB954155-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/7/2/9/729E9C48-23B5-44F0-8096-D9749AB5277E/Windows2000-WindowsMedia-KB954155-x86-ENU.exe</url>
+		</update>
+		<update id="KB971961" category="1" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=971961">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=2bb3af8d-f36c-4497-9f48-fc59bcff2583&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB971961)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB971961-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/A/2/A/A2A50303-0818-4CD6-B187-0E3FC26670FC/Windows2000-KB971961-x86-ENU.EXE</url>
+		</update>
+		<update id="KB968816" category="1" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=968816">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=02b9dc42-38c2-44b1-a77c-34854f4a86c4&displaylang=en-->
+			<title>Security Update for Windows Media Format Runtime 9 for Windows 2000 (KB968816)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-WindowsMedia-KB968816-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/4/F/6/4F65FA88-302C-4CA6-8DC7-679D794B226F/Windows2000-WindowsMedia-KB968816-x86-ENU.exe</url>
+		</update>
+		<update id="KB956844" category="1" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=956844">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=6dd4b0f8-6b54-49a6-a6df-9420f9fd3333&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB956844)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB956844-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/E/B/2/EB23DD04-E0F1-4EEB-A465-BC005B834E36/Windows2000-KB956844-x86-ENU.EXE</url>
+		</update>
+		<update id="KB973869" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973869">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=223e25d2-83d7-4cb7-85c4-46a42b8110e0&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB973869)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB973869-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/5/3/0/5300046A-BD5E-417A-A6C6-A20948BC9C54/Windows2000-KB973869-x86-ENU.EXE</url>
+		</update>
+		<update id="KB973540" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973540">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=bd7c9fc4-61cb-4c23-9961-6d63f234731c&displaylang=en-->
+			<title>Security Update for Windows Media Player 9 for Windows 2000 (KB973540)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-WindowsMedia9-KB973540-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/D/6/FD63F9D0-D1DD-4B39-BD83-49078CA6F14E/Windows2000-WindowsMedia9-KB973540-x86-ENU.exe</url>
+		</update>
+		<update id="KB973507" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973507">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=c773149a-f4fc-486a-b718-6b8ff7a36ae2&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB973507)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB973507-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/8/3/6/836A7EF9-83F0-4607-B4D3-21B7EC13B06B/Windows2000-KB973507-x86-ENU.EXE</url>
+		</update>
+		<update id="KB973354" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973354">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=f340af34-b9a0-44fb-b595-dbb346c727bf&displaylang=en-->
+			<title>Security Update for Outlook Express 6.0 for Windows 2000 (KB973354)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>OE6.0sp1-KB973354-Windows2000-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/9/D/99D831CA-FB4A-4FC4-9152-D5D13034FE0B/OE6.0sp1-KB973354-Windows2000-x86-ENU.exe</url>
+		</update>
+		<update id="KB971032" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=971032">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=8ed8bad7-2885-452c-9c34-3982cd498be8&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB971032)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB971032-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/7/A/7/7A7EFA4A-F642-462A-A0B5-DDA28B1BC125/Windows2000-KB971032-x86-ENU.EXE</url>
+		</update>
+		<update id="KB969883" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=969883">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=b5b9228a-66c0-49e6-afde-cc2825a6851f&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB969883)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB969883-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/9/3/7/937DFA29-8CCE-466C-B181-E9FB35694417/Windows2000-KB969883-x86-ENU.EXE</url>
+		</update>
+		<update id="KB960859" category="1" publishdate="2009-08-07" article="http://support.microsoft.com/?kbid=960859">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=240977d6-3581-4058-b9f1-7847e4edcf8a&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB960859)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB960859-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/1/4/0/140EDA7F-7D24-498E-BA9D-C6CAA1FE7AEB/Windows2000-KB960859-x86-ENU.EXE</url>
+		</update>
+		<update id="KB970483" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=970483">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=8515a294-4f25-4dc5-860a-e7ad9b6c1c01&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB970483)</title>
+			<description>A security issue has been identified that could allow an anonymous remote attacker to bypass authentication requirements of running Internet Information Services (IIS).</description>
+			<filename>Windows2000-KB970483-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/8/1/28151278-1FF1-4D26-A0B6-440AB8E99DAE/Windows2000-KB970483-x86-ENU.EXE</url>
+		</update>
+		<update id="KB970238" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=970238">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=155a79c1-e5e4-4f62-b4b0-53aca59f20ac&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB970238)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB970238-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/7/8/7/787E36CF-41C9-432E-9118-C5995128D8CE/Windows2000-KB970238-x86-ENU.EXE</url>
+		</update>
+		<update id="KB961501" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=961501">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=86378753-db24-44c2-a27d-cc0239f40ab8&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB961501)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB961501-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/D/D/0/DD0A82CF-3029-4465-86EA-375C96F98800/Windows2000-KB961501-x86-ENU.EXE</url>
+		</update>
+		<update id="KB960803" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=960803">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=39d5468e-5733-4c3e-9e75-3adac8ac8cb9&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB960803)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB960803-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/6/A/E/6AEC0D69-C954-4851-86CB-94E0C7B5BD3E/Windows2000-KB960803-x86-ENU.EXE</url>
+		</update>
+		<update id="KB959426" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=959426">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=c4e408d7-6716-4a12-ad3a-8029667f5c84&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB959426)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB959426-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/6/9/5/69501788-B62F-44D8-933F-B6FAA576CA87/Windows2000-KB959426-x86-ENU.EXE</url>
+		</update>
+		<update id="KB952004" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=952004">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=52B756E7-636F-4D9E-8A17-DBF467BFBE4D&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB952004)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB952004-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/3/2/232F7B68-D65B-467F-82E0-53A06852AC18/Windows2000-KB952004-x86-ENU.EXE</url>
+		</update>
+		<update id="KB923561" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=923561">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=552d322a-5282-42c7-9c1e-1d8c494a7318&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB923561)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB923561-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/E/C/5/EC573F78-1871-4076-B105-5467EB708297/Windows2000-KB923561-x86-ENU.EXE</url>
+		</update>
+		<update id="KB960225" category="1" publishdate="2009-03-08" article="http://support.microsoft.com/?kbid=960225">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB960225)</title>
+			<description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+			<filename>Windows2000-KB960225-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/9/D/F/9DF0D2BE-4697-4327-9F20-B6BC52943803/Windows2000-KB960225-x86-ENU.EXE</url>
+		</update>
+		<update id="KB967715" category="1" publishdate="2009-02-24" article="http://support.microsoft.com/?kbid=967715">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3c6039f1-d84d-4294-8457-35aa8b4dcab8&displaylang=en-->
+			<title>Update for Windows 2000 (KB967715)</title>
+			<description>Install this update to resolve an issue in which AutoRun features were not correctly disabled.</description>
+			<filename>Windows2000-KB967715-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/7/C/0/7C012927-194E-4182-A0FE-10DCFCB6285A/Windows2000-KB967715-x86-ENU.EXE</url>
+		</update>
+		<update id="KB956802" category="1" publishdate="2008-12-05" article="http://support.microsoft.com/?kbid=956802">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3B775FB1-1077-455D-AF4A-4CCB5237974F&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB956802)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-KB956802-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/B/1/2/B12AB2F8-DE45-4171-85AD-60C042044BCC/Windows2000-KB956802-x86-ENU.EXE</url>
+		</update>
+		<update id="KB952069" category="1" publishdate="2008-12-05" article="http://support.microsoft.com/?kbid=952069">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=6A459497-0AB8-41CB-87D0-B551631D8D8A&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB952069)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows2000-WindowsMedia-KB952069-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/C/B/7/CB769C81-045B-4585-968E-3A82307745A7/Windows2000-WindowsMedia-KB952069-x86-ENU.exe</url>
+		</update>
+		<update id="KB954459" category="1" publishdate="2008-11-11" article="http://support.microsoft.com/?kbid=954459">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=en-->
+			<title>Security Update for Microsoft XML Core Services 6.0 and Service Pack 1 (KB954459)</title>
+			<description>A security issue has been identified in Microsoft XML Core Services (MSXML) that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>msxml6-KB954459-enu-x86.exe</filename>
+			<url>http://download.microsoft.com/download/2/7/5/2753aabc-24de-41be-a05b-d41fc76f3aad/msxml6-KB954459-enu-x86.exe</url>
+		</update>
+		<update id="KB957097" category="1" publishdate="2008-11-10" article="http://support.microsoft.com/?kbid=957097">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=44c971e6-96fc-4bba-8f4a-f9d46bda2b6c&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB957097)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB957097-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/1/d/e/1dea73dc-137d-44b3-b8eb-ca0310047589/Windows2000-KB957097-x86-ENU.EXE</url>
+		</update>
+		<update id="KB955069" category="1" publishdate="2008-11-10" article="http://support.microsoft.com/?kbid=955069">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=559cd4b6-24b7-4e60-8749-37d9b833d3eb&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB955069)</title>
+			<description>A security issue has been identified in the way Microsoft XML Core Services (MSXML) is handled that could allow an attacker to compromise a computer that is running Microsoft Windows and gain control over it.</description>
+			<filename>Windows2000-KB955069-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/c/f/2/cf2ed2ba-8529-4fbf-be2d-8f94831a9e7a/Windows2000-KB955069-x86-ENU.EXE</url>
+		</update>
+		<update id="KB954430" category="1" publishdate="2008-11-10" article="http://support.microsoft.com/?kbid=954430">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=en-->
+			<title>Security Update for MSXML 4.0 Service Pack 2 (KB954430)</title>
+			<description>A Security issue has been identified in Microsoft XML Core Services (MSXML) that could allow an atacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>msxml4-KB954430-enu.exe</filename>
+			<url>http://download.microsoft.com/download/9/7/1/971f55c8-d512-494f-9c5e-7cc3f9b190ee/msxml4-KB954430-enu.exe</url>
+		</update>
+		<update id="KB958644" category="1" publishdate="2008-10-22" article="http://support.microsoft.com/?kbid=958644">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=E22EB3AE-1295-4FE2-9775-6F43C5C2AED3&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB958644)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB958644-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/a/3/4a36c1ea-7555-4a88-98ac-b0909cc83c18/Windows2000-KB958644-x86-ENU.EXE</url>
+		</update>
+		<update id="KB953155" category="1" publishdate="2008-10-13" article="http://support.microsoft.com/?kbid=953155">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=8163d1f6-feb5-4f39-8134-3ed42326b822&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB953155)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB953155-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/5/c/45cc4f64-2929-4143-a8a6-73dd5ecf6d5d/Windows2000-KB953155-x86-ENU.EXE</url>
+		</update>
+		<update id="KB952954" category="1" publishdate="2008-08-11" article="http://support.microsoft.com/?kbid=952954">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=db455d17-435f-46d7-b2dd-5babb5a1eeb3&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB952954)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB952954-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/d/a/2da83aea-a32c-4646-a9e5-5c0d7f9ff069/Windows2000-KB952954-x86-ENU.EXE</url>
+		</update>
+		<update id="KB950974" category="1" publishdate="2008-08-11" article="http://support.microsoft.com/?kbid=950974">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=1b2ad648-7dc9-407a-99f6-f39922746027&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB950974)</title>
+			<description>A security issue has been identified in Event System on Microsoft Windows based systems that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB950974-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/7/9/8/79807b43-6892-459c-8b51-cf128a921490/Windows2000-KB950974-x86-ENU.EXE</url>
+		</update>
+		<update id="KB950749" category="1" publishdate="2008-05-12" article="http://support.microsoft.com/?kbid=950749">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0de12d09-e675-4cf0-bc6f-e42eeb4784a1&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB950749)</title>
+			<description>A Critical security issue has been identified in MSJet40.dll that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB950749-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/b/a/3ba100a5-520b-4cc6-9e50-6f48b5227407/Windows2000-KB950749-x86-ENU.EXE</url>
+		</update>
+		<update id="KB945553" category="1" publishdate="2008-04-08" article="http://support.microsoft.com/?kbid=945553">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=41326ade-96b6-47ce-9291-d4e3039471c4&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB945553)</title>
+			<description>A security issue has been identified in DNS Clients that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB945553-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/5/8/a/58abacbb-e8c8-4ad6-9a98-68b2a6027552/Windows2000-KB945553-x86-ENU.EXE</url>
+		</update>
+		<update id="KB944338" category="1" publishdate="2008-04-08" article="http://support.microsoft.com/?kbid=944338">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=8e3ff44f-145b-4a68-9ad4-4a55d74b216e&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB944338)</title>
+			<description>A security issue has been identified in VBScript and Jscript that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB944338-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/d/b/a/dba1dcfd-2c11-4451-b8a0-8c3cea685ae0/Windows2000-KB944338-x86-ENU.EXE</url>
+		</update>
+		<update id="KB943055" category="1" publishdate="2008-02-11" article="http://support.microsoft.com/?kbid=943055">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=93b3d0a3-2091-405e-8dd4-10f20dc2be7f&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB943055)</title>
+			<description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Object Linking and Embedding (OLE) Automation and gain control over it.</description>
+			<filename>Windows2000-KB943055-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/3/f/33fe5bc7-822e-4070-a7a1-f1d1723eb3ba/Windows2000-KB943055-x86-ENU.EXE</url>
+		</update>
+		<update id="KB942831" category="1" publishdate="2008-02-11" article="http://support.microsoft.com/?kbid=942831">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=b24f34fb-40b9-4aa5-b5ac-e3f0a6062753&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB942831)</title>
+			<description>A security issue has been identified in Windows Internet Information Services (IIS) that could allow an attacker to remotely compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB942831-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/f/3/3/f33815e8-f3c7-496c-a56a-23da820670d0/Windows2000-KB942831-x86-ENU.EXE</url>
+		</update>
+		<update id="KB943485" category="1" publishdate="2008-01-07" article="http://support.microsoft.com/?kbid=943485">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7956632e-17d9-4876-8340-84fe3e43e5cc&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB943485) - English</title>
+			<description></description>
+			<filename>Windows2000-KB943485-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/b/a/4/ba43cfc7-9545-4960-b58c-ab8ef5c3a7a5/Windows2000-KB943485-x86-ENU.EXE</url>
+		</update>
+		<update id="KB941644" category="1" publishdate="2008-01-07" article="http://support.microsoft.com/?kbid=941644">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=980f5457-c7b5-421c-8643-0e57429ec156&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB941644)</title>
+			<description>A security issue has been identified in TCPIP that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB941644-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/7/d/a/7da6c210-492d-4efe-9bc4-803d8e04c77f/Windows2000-KB941644-x86-ENU.EXE</url>
+		</update>
+		<update id="KB941569" category="1" publishdate="2007-12-10" article="http://support.microsoft.com/?kbid=941569">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=eecdf2ce-9aa7-4f0c-b62b-2fa7a32f369e&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB941569)</title>
+			<description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Windows Media file formats and gain control over it.</description>
+			<filename>Windows2000-KB941569-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/b/2/6/b26bad0e-d8a6-4905-bfdb-8640bd1c9ade/Windows2000-KB941569-x86-ENU.EXE</url>
+		</update>
+		<update id="KB941672" category="1" publishdate="2007-11-12" article="http://support.microsoft.com/?kbid=941672">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=c80fcd9b-d0f8-44db-96fc-bf2ead054ff4&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB941672)</title>
+			<description>A security issue has been identified in the Microsoft DNS Service that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB941672-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/0/3/f/03f6c957-38e3-4bff-9d66-6664f9eee8ee/Windows2000-KB941672-x86-ENU.EXE</url>
+		</update>
+		<update id="KB923810" category="1" publishdate="2007-10-08" article="http://support.microsoft.com/?kbid=923810">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=29763117-c2dc-4746-b31e-0b27350118e6&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB923810)</title>
+			<description>A security issue has been identified in Windows Kodak Image Viewer that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB923810-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/8/3/e/83e821a9-4b14-4ab8-84ed-6d587d5b1c2b/Windows2000-KB923810-x86-ENU.EXE</url>
+		</update>
+		<update id="KB938827" category="1" publishdate="2007-09-11" article="http://support.microsoft.com/?kbid=938827">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7cd248ed-d154-4dce-89ef-ceefd2700965&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB938827)</title>
+			<description>A security issue has been identified in Microsoft Agent that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB938827-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/c/1/2/c12a5836-34ca-404b-87ef-dd870cbdf092/Windows2000-KB938827-x86-ENU.EXE</url>
+		</update>
+		<update id="KB926122" category="1" publishdate="2007-07-09" article="http://support.microsoft.com/?kbid=926122">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=812e62c5-6e19-4b3b-8a10-861b871e1b41&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB926122)</title>
+			<description>A security issue has been identified in Windows Active Directory that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB926122-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/6/a/8/6a80131a-c5f1-4e13-a716-b7895340d5f6/Windows2000-KB926122-x86-ENU.EXE</url>
+		</update>
+		<update id="KB935839" category="1" publishdate="2007-06-11" article="http://support.microsoft.com/?kbid=935839">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3918ac76-ebb6-4886-9a9e-808eafb96b1b&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB935839)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system using a Windows kernel API and gain control over it.</description>
+			<filename>Windows2000-KB935839-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/d/3/1/d3139d8f-1d52-4b7e-a4e4-39735162cd41/Windows2000-KB935839-x86-ENU.EXE</url>
+		</update>
+		<update id="KB927891" category="1" publishdate="2007-05-22" article="http://support.microsoft.com/?kbid=927891">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=A6AD0BC9-1D4F-40CB-9A91-DCD6BC3AE6B2&displaylang=en-->
+			<title>Update for Windows 2000 (KB927891)</title>
+			<description>This is a reliability update. This update resolves an issue in the Windows Installer (MSI) that can affect performance during software updates.</description>
+			<filename>Windows2000-KB927891-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/a/7/b/a7b60f59-fdf8-4632-871e-c01e5cea6b62/Windows2000-KB927891-x86-ENU.EXE</url>
+		</update>
+		<update id="KB935843" category="1" publishdate="2007-04-18" article="http://support.microsoft.com/?kbid=935843">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=FB630B61-F84F-4D4C-8E6C-0A7E8210A506&displaylang=en-->
+			<title>Update for Windows 2000 (KB935843)</title>
+			<description>Install this update to resolve an issue where you receive a 0x0000007f Stop error after installing security update KB925902 (MS07-017).</description>
+			<filename>Windows2000-KB935843-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/8/c/38ca67e4-53b3-419f-bb4e-dd9f032a814a/Windows2000-KB935843-x86-ENU.EXE</url>
+		</update>
+		<update id="KB925902" category="1" publishdate="2007-04-03" article="http://support.microsoft.com/?kbid=925902">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=92F20599-3E7B-4217-91E6-FDCFB4C56856&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB925902)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB925902-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/3/e/1/3e17bdd4-2808-4e6b-982c-01e3b2bbe7ec/Windows2000-KB925902-x86-ENU.EXE</url>
+		</update>
+		<update id="KB928843" category="1" publishdate="2007-02-12" article="http://support.microsoft.com/?kbid=928843">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=211a9c07-88ff-4ae4-a82a-ce2045c6c4fe&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB928843)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB928843-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/9/2/c/92cab157-5f80-4be0-940b-4ff4675a0756/Windows2000-KB928843-x86-ENU.EXE</url>
+		</update>
+		<update id="KB927779" category="1" publishdate="2007-02-12" article="http://support.microsoft.com/?kbid=927779">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=EF163E3E-DD3B-4429-98A4-720DA2C96464&displaylang=en-->
+			<title>Security Update for Microsoft Data Access Components 2.5 Service Pack 3 (KB927779)</title>
+			<description>A security issue has been identified in Microsoft Data Access Components (MDAC) that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>MDAC253-KB927779-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/b/1/3b19dab7-7da7-4340-ad7d-e6808185d6e6/MDAC253-KB927779-x86-ENU.exe</url>
+		</update>
+		<update id="KB926436" category="1" publishdate="2007-02-12" article="http://support.microsoft.com/?kbid=926436">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7b1a81d5-1072-49d9-a24a-0e2630f62d8c&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB926436)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB926436-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/5/7/b/57bb4ac3-2487-4489-aa17-5f74a9e79aab/Windows2000-KB926436-x86-ENU.EXE</url>
+		</update>
+		<update id="KB924667" category="1" publishdate="2007-02-12" article="http://support.microsoft.com/?kbid=924667">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=d6577f1f-0d9e-4856-b1d6-7e27657a3620&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB924667)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB924667-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/1/f/7/1f7de6a2-d1af-4a97-819a-eda8e9ee08ec/Windows2000-KB924667-x86-ENU.EXE</url>
+		</update>
+		<update id="KB918118" category="1" publishdate="2007-02-12" article="http://support.microsoft.com/?kbid=918118">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0b0b13d3-b2fb-4cf4-8ee1-51871d39eecd&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB918118)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB918118-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/1/a/41ae66b6-c394-4643-9425-6e8c484d6df0/Windows2000-KB918118-x86-ENU.EXE</url>
+		</update>
+		<update id="KB926247" category="1" publishdate="2006-12-11" article="http://support.microsoft.com/?kbid=926247">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ecc1e691-626b-405c-87d1-15931d1e4258&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB926247)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB926247-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/6/a/f/6af940c1-2774-4ebb-8546-2c83068af231/Windows2000-KB926247-x86-ENU.EXE</url>
+		</update>
+		<update id="KB926121" category="1" publishdate="2006-12-11" article="http://support.microsoft.com/?kbid=926121">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0ed62db9-4534-4f27-a49e-020c7a7d69e0&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB926121)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB926121-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/9/e/c/9ec6574e-0cab-4a2c-b183-c3c4398591a6/Windows2000-KB926121-x86-ENU.EXE</url>
+		</update>
+		<update id="KB924270" category="1" publishdate="2006-11-13" article="http://support.microsoft.com/?kbid=924270">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3ad5c57d-d3f6-46a1-8dee-3e16d0977f80&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB924270)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB924270-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/e/2/7/e272bf85-2592-4bcf-bb43-4974bc4fc276/Windows2000-KB924270-x86-ENU.EXE</url>
+		</update>
+		<update id="KB923980" category="1" publishdate="2006-11-13" article="http://support.microsoft.com/?kbid=923980">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3cf0b0d1-ff07-40ac-a6ac-44dc4a54f91e&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB923980)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB923980-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/1/3/9/139ee8ea-668d-449a-8beb-7f29307d2323/Windows2000-KB923980-x86-ENU.EXE</url>
+		</update>
+		<update id="KB920213" category="1" publishdate="2006-11-13" article="http://support.microsoft.com/?kbid=920213">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=c72ceec8-3e4d-4281-8183-11b724693217&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB920213)</title>
+			<description>A security issue has been identified in MSAgent that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB920213-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/e/5/1/e5128d1b-0912-4f3f-98bf-404f51d5b8d5/Windows2000-KB920213-x86-ENU.EXE</url>
+		</update>
+		<update id="KB923191" category="1" publishdate="2006-10-09" article="http://support.microsoft.com/?kbid=923191">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=756f53a7-28dc-422a-a691-c1bbfcbf3d0c&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB923191)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB923191-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/8/7/a/87aab50e-8239-4b88-89a6-280135b64915/Windows2000-KB923191-x86-ENU.EXE</url>
+		</update>
+		<update id="KB922582" category="1" publishdate="2006-09-11" article="http://support.microsoft.com/?kbid=922582">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3df5f605-ea6f-4a98-bc1c-a76bc006859b&displaylang=en-->
+			<title>Update for Windows 2000 (KB922582)</title>
+			<description>A problem has been identified in Filter Manager that can prevent you from installing updates from Windows update.</description>
+			<filename>Windows2000-KB922582-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/1/e/6/1e63b17d-13c8-4d32-8676-c9f7ab05db87/Windows2000-KB922582-x86-ENU.EXE</url>
+		</update>
+		<update id="KB921398" category="1" publishdate="2006-08-07" article="http://support.microsoft.com/?kbid=921398">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=38cee83e-b17a-4c08-90ce-fb836b9615ad&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB921398)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB921398-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/3/6/236323d3-fd81-43a4-a42f-31fe74705c55/Windows2000-KB921398-x86-ENU.EXE</url>
+		</update>
+		<update id="KB920683" category="1" publishdate="2006-08-07" article="http://support.microsoft.com/?kbid=920683">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=144408a7-3011-458a-bc79-49b1658aa25d&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB920683)</title>
+			<description>A security issue has been identified in DNS Resolution that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB920683-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/b/4/7/b472d553-f4d1-42a5-baf9-d58bd713e492/Windows2000-KB920683-x86-ENU.EXE</url>
+		</update>
+		<update id="KB920670" category="1" publishdate="2006-08-07" article="http://support.microsoft.com/?kbid=920670">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=bfe3f869-08be-4f13-97a1-7274ad44c7fb&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB920670)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB920670-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/1/2/212fd127-6a0b-4a52-a0ae-c005b752c90f/Windows2000-KB920670-x86-ENU.EXE</url>
+		</update>
+		<update id="KB917008" category="1" publishdate="2006-08-07" article="http://support.microsoft.com/?kbid=917008">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=87fe4c18-21dc-4d83-a1d8-503b92fdba2b&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB917008)</title>
+			<description>A security issue has been identified in the Microsoft Management Console that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB917008-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/d/1/5/d1555c27-be62-4a61-946d-5d2b70a52211/Windows2000-KB917008-x86-ENU.EXE</url>
+		</update>
+		<update id="KB917537" category="1" publishdate="2006-07-10" article="http://support.microsoft.com/?kbid=917537">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=c917d6da-da2d-402c-a870-1de3cbd21ebf&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB917537)</title>
+			<description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Windows Internet Information Services and gain control over it.</description>
+			<filename>Windows2000-KB917537-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/0/4/8/0488144f-dc64-4acb-94bc-298a23fe1bc5/Windows2000-KB917537-x86-ENU.EXE</url>
+		</update>
+		<update id="KB914388" category="1" publishdate="2006-07-10" article="http://support.microsoft.com/?kbid=914388">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7a04fae4-6914-4ffa-b0ec-61b912d47873&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB914388)</title>
+			<description>A remote code execution security issue has been identified in the DHCP Client service that could allow an attacker to remotely compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB914388-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/c/5/c/c5c7e8a7-9ad1-4cb8-9fbf-6eb96af1c390/Windows2000-KB914388-x86-ENU.EXE</url>
+		</update>
+		<update id="KB918439" category="1" publishdate="2006-06-07" article="http://support.microsoft.com/?kbid=918439">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=f6328f82-457e-44cb-95fb-2db0e8c9ee3c&displaylang=en-->
+			<title>Vulnerability in ART Image Rendering Could Allow Remote Code Execution in Internet Explorer 6 Service Pack 1 (KB918439)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS06-022. To find out if other security updates are available for you, see the Additional Information section at the bottom of this page.</description>
+			<filename>IE6.0sp1-KB918439-Windows-2000-XP-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/e/c/f/ecf2d7ac-c658-4d7c-a7c0-a62152774664/IE6.0sp1-KB918439-Windows-2000-XP-x86-ENU.exe</url>
+		</update>
+		<update id="KB913580" category="1" publishdate="2006-05-09" article="http://support.microsoft.com/?kbid=913580">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=8b98f380-0e5c-4b80-9710-95e1b35afd83&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB913580)</title>
+			<description>A security issue has been identified in Windows-based systems that could cause the Microsoft Distributed Transaction Coordinator (MSDTC) to stop responding.</description>
+			<filename>Windows2000-KB913580-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/f/e/3/fe3bbced-6da4-4a8d-b90e-260c2ada9b6b/Windows2000-KB913580-x86-ENU.EXE</url>
+		</update>
+		<update id="KB908531" category="1" publishdate="2006-04-25" article="http://support.microsoft.com/?kbid=908531">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ae28bc65-3a5e-4497-ad05-2cde8e7b5e95&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB908531)</title>
+			<description>A security issue has been identified in Windows Explorer that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB908531-v2-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/7/f/4/7f46246e-f633-42d9-8f7b-aa5536f1bcd5/Windows2000-KB908531-v2-x86-ENU.EXE</url>
+		</update>
+		<update id="KB908506" category="1" publishdate="2005-10-19" article="http://support.microsoft.com/?kbid=908506">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=591BDD85-B326-44B8-933B-C8CB8F07513C&displaylang=en-->
+			<title>Update for Windows 2000 (KB908506)</title>
+			<description>Install this update to address an issue on computers running Windows 2000 Service Pack 4 in which clients accessing a print device attached to a print server are no longer able to print when using the Lexmark Monolithic PCL driver after installing security bulletin MS05-043 (KB896423).</description>
+			<filename>Windows2000-KB908506-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/0/1/40109ea1-c446-4628-9ff6-2fa4f9c4a23d/Windows2000-KB908506-x86-ENU.EXE</url>
+		</update>
+		<update id="KB905749" category="1" publishdate="2005-10-10" article="http://support.microsoft.com/?kbid=905749">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ffdb8ab7-f979-41b4-9625-ea51cd503258&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB905749)</title>
+			<description>A security issue has been identified in the Plug and Play service that could allow an authenticated attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB905749-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/8/9/4/89449a45-8708-4320-b1d0-1e2580d15a86/Windows2000-KB905749-x86-ENU.EXE</url>
+		</update>
+		<update id="KB905495" category="1" publishdate="2005-10-10" article="http://support.microsoft.com/?kbid=905495">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=FCEA60E5-9EA8-4216-BA4D-C85054892DBB&displaylang=en-->
+			<title>Security Update for Internet Explorer 6 Service Pack 1 for Windows 2000 Service Pack 4 (KB905495)</title>
+			<description>A security issue has been identified that could allow an attacker to tamper with the file transfer location on your computer when using the Microsoft Windows FTP (File Transfer Protocol) client.</description>
+			<filename>IE6.0sp1-KB905495-Windows2000-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/6/7/2670f435-2255-4a87-9183-1b28a51c7595/IE6.0sp1-KB905495-Windows2000-x86-ENU.exe</url>
+		</update>
+		<update id="KB905414" category="1" publishdate="2005-10-10" article="http://support.microsoft.com/?kbid=905414">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=92c5a89f-89e5-4a33-acd6-4f42ae921681&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB905414)</title>
+			<description>A denial of service security issue has been identified that could cause the Network Manager service to stop responding on your Windows-based system.</description>
+			<filename>Windows2000-KB905414-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/6/9/f/69f0d119-5cee-49b5-85d0-ae4fc56c7879/Windows2000-KB905414-x86-ENU.EXE</url>
+		</update>
+		<update id="KB901017" category="1" publishdate="2005-10-10" article="http://support.microsoft.com/?kbid=901017">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ae0ba6d7-37af-46e8-9e25-ab63883fa944&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB901017)</title>
+			<description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Collaboration Data Objects (CDO) and gain control over it.</description>
+			<filename>Windows2000-KB901017-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/2/3/22364e62-e9cd-4c5b-bf40-b742fab0e02d/Windows2000-KB901017-x86-ENU.EXE</url>
+		</update>
+		<update id="KB900725" category="1" publishdate="2005-10-10" article="http://support.microsoft.com/?kbid=900725">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=1f063c4a-b0bf-49c6-928b-f1f076c69612&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB900725)</title>
+			<description>A security issue has been identified that could allow an authenticated attacker to gain access and potentially compromise your Microsoft Windows-based system.</description>
+			<filename>Windows2000-KB900725-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/6/1/f/61fd8ca9-13ef-4efd-9340-7a1b7e723582/Windows2000-KB900725-x86-ENU.EXE</url>
+		</update>
+		<update id="KB899589" category="1" publishdate="2005-10-10" article="http://support.microsoft.com/?kbid=899589">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=261a7d4d-90fc-4529-9c4a-b630196c6a83&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB899589)</title>
+			<description>A security issue has been identified in the Client Service for NetWare that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it, if you have installed this service.</description>
+			<filename>Windows2000-KB899589-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/a/7/7/a776227b-9483-42d8-b5ec-a3a25366d40e/Windows2000-KB899589-x86-ENU.EXE</url>
+		</update>
+		<update id="KB891861" category="1" publishdate="2005-09-13" article="http://support.microsoft.com/?kbid=891861">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=B54730CF-8850-4531-B52B-BF28B324C662&displaylang=en-->
+			<title>Update Rollup 1 for Windows 2000 SP4 (KB891861)</title>
+			<description>This update consists of previously released recommended, critical and security updates for Windows 2000, rolled into one convenient package.</description>
+			<filename>Windows2000-KB891861-v2-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/2/7/b/27b1d1a3-0299-4336-b88a-22b9f09817e2/Windows2000-KB891861-v2-x86-ENU.EXE</url>
+		</update>
+		<update id="KB899591" category="1" publishdate="2005-08-08" article="http://support.microsoft.com/?kbid=899591">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=18255896-8c5d-45c5-8840-c0c6ee1b14bb&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB899591)</title>
+			<description>A security issue has been identified in the Remote Desktop Protocol (RDP) that could allow an attacker to remotely cause your Microsoft Windows-based system to stop responding.</description>
+			<filename>Windows2000-KB899591-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/1/b/c/1bc34420-6a31-4b1d-b89b-c6c1dd7070a5/Windows2000-KB899591-x86-ENU.EXE</url>
+		</update>
+		<update id="KB899587" category="1" publishdate="2005-08-08" article="http://support.microsoft.com/?kbid=899587">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=4e34cd17-8710-4e22-8620-3b84139c18bb&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB899587)</title>
+			<description>A security issue has been identified that could allow an attacker to gain access to sensitive data transmitted through your Microsoft Windows-based system in a domain environment, and to perform denial of service attacks against domain controllers.</description>
+			<filename>Windows2000-KB899587-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/c/7/3/c739f44f-b5c1-4fa7-bd85-f8c833f35e74/Windows2000-KB899587-x86-ENU.EXE</url>
+		</update>
+		<update id="KB896423" category="1" publishdate="2005-08-08" article="http://support.microsoft.com/?kbid=896423">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3dd3b530-7f43-4c18-8298-6e8797431a5d&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB896423)</title>
+			<description>A security issue has been identified in the Print Spooler service that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB896423-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/4/3/2/43215dcd-b8b3-4c8f-a40f-278789f4eb33/Windows2000-KB896423-x86-ENU.EXE</url>
+		</update>
+		<update id="KB893756" category="1" publishdate="2005-08-08" article="http://support.microsoft.com/?kbid=893756">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=c7417ea1-7afc-4a55-95dc-e814975b8ae6&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB893756)</title>
+			<description>A security issue has been identified in the Telephony Application Programming Interface (TAPI) that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB893756-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/d/1/3/d1323977-bdab-4b38-8ab6-ec9d985f726e/Windows2000-KB893756-x86-ENU.EXE</url>
+		</update>
+		<update id="KB901214" category="1" publishdate="2005-07-12" article="http://support.microsoft.com/?kbid=901214">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=fa8d18ec-ebf4-4c49-afa0-f6a215b3624f&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB901214)</title>
+			<description>A security issue has been identified in the Color Management Module that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB901214-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/d/d/e/ddefcaa8-f0e4-4a98-b96e-c3b2217370e9/Windows2000-KB901214-x86-ENU.EXE</url>
+		</update>
+		<update id="KB896358" category="1" publishdate="2005-06-13" article="http://support.microsoft.com/?kbid=896358">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=9af346ae-4807-42f4-95e2-8f5fae321102&displaylang=en-->
+			<title>Security Update for Windows 2000 (KB896358)</title>
+			<description>A security issue has been identified in the HTML Help component that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>Windows2000-KB896358-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/f/2/8/f284148a-a991-4ee2-bb2f-12aa0d2e5013/Windows2000-KB896358-x86-ENU.EXE</url>
+		</update>
+		<update id="W2KSP4" category="2" publishdate="2003-06-26">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=1001aaf1-749f-49f4-8010-297bd6ca33a0&displaylang=en-->
+			<title>Windows 2000 Service Pack 4 Network Install for IT Professionals</title>
+			<description>Windows 2000 Service Pack 4 (SP4) is a recommended upgrade. Download Windows 2000 Service Pack 4 to obtain updates that can help improve security, application compatibility, operating system reliability, and Setup.</description>
+			<filename>W2KSP4_EN.EXE</filename>
+			<url>http://download.microsoft.com/download/e/6/a/e6a04295-d2a8-40d0-a0c5-241bfecd095e/W2KSP4_EN.EXE</url>
+		</update>
+		<update id="KB954156" category="7" publishdate="2008-09-08" article="http://support.microsoft.com/?kbid=954156">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0cabfbc0-db5d-4a6a-a4cd-e6df89ac2b25&displaylang=en-->
+			<title>Security Update for Windows Media Encoder 9 Series for Windows 2000 (KB954156)</title>
+			<description>A security issue has been identified in Windows Media Encoder 9 Series that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsMedia9-KB954156-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/d/b/4/db49ebce-4b77-4525-b856-4203fed64d0a/WindowsMedia9-KB954156-x86-ENU.exe</url>
+		</update>
+		<update id="KB925398" category="7" publishdate="2007-07-10" article="http://support.microsoft.com/?kbid=925398">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=e63ccdc3-a2ed-4ef6-b8a1-3f8be4b2726d&displaylang=en-->
+			<title>Security Update for Windows Media Player 6.4 for Windows (KB925398)</title>
+			<description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Windows Media Player and gain control over it.</description>
+			<filename>WindowsMedia6-KB925398-v2-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/e/6/7/e6763a48-52bf-49cb-b111-1873472a5d1c/WindowsMedia6-KB925398-v2-x86-ENU.exe</url>
+		</update>
+		<update id="KB911564" category="7" publishdate="2006-02-13" article="http://support.microsoft.com/?kbid=911564">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=CCDD3D35-BE5C-4C43-8FFA-BB8570A7321C&displaylang=en-->
+			<title>Security Update for Windows Media Player Plug-in (KB911564)</title>
+			<description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using the Windows Media Player Plug-in and gain control over it.</description>
+			<filename>WindowsMedia-KB911564-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/1/5/31545397-c828-49c6-a30f-65799d411ce1/WindowsMedia-KB911564-x86-ENU.exe</url>
+		</update>
+		<update id="KB891122" category="7" publishdate="2005-05-04" article="http://support.microsoft.com/?kbid=891122">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=f3903e13-7d01-4db7-9e6f-e9dffac6731e&displaylang=en-->
+			<title>Update for DRM-enabled Media Players (KB891122)</title>
+			<description>This package improves the functionality and robustness of the Windows Media DRM platform. A reboot may be required.</description>
+			<filename>WindowsMedia9-KB891122-x86-Global-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/5/7/857f0f53-ce96-4aeb-b0d8-822c10c35e66/WindowsMedia9-KB891122-x86-Global-ENU.exe</url>
+		</update>
+		<update id="WMP9" category="7" publishdate="2003-01-07">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=e0175119-9a5b-44c3-b1de-9b2a9aa6cff6&displaylang=en-->
+			<title>Windows Media Player 9 Series for Windows 98 Second Edition, Me, and 2000</title>
+			<description>Enjoy fast and flexible music and video playback with Microsoft® Windows Media® Player 9 Series. Over 120 new features, including Fast Streaming, quicker startup, and smart jukebox features.</description>
+			<filename>MPSetup.exe</filename>
+			<url>http://download.microsoft.com/download/1/b/c/1bc0b1a3-c839-4b36-8f3c-19847ba09299/MPSetup.exe</url>
+		</update>
+		<update id="KB939778.SFU35" category="8" publishdate="2007-09-11" article="http://support.microsoft.com/?kbid=939778">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=70ae23c2-3ae8-4ea6-ba8d-8ac7e4f82663&displaylang=en-->
+			<title>Security Update for Microsoft Windows Services for UNIX Version 3.5 (KB939778)</title>
+			<description>A security issue has been identified in Services for UNIX 3.0 and 3.5 that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>SFU35-KB939778-X86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/5/8/8/588bf58c-97ee-404b-b110-7c39e007ca9a/SFU35-KB939778-X86-ENU.exe</url>
+		</update>
+		<update id="KB939778.SFU3" category="8" publishdate="2007-09-11" article="http://support.microsoft.com/?kbid=939778">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=557f89fc-c5d9-4405-9007-1654abf92277&displaylang=en-->
+			<title>Security Update for Microsoft Windows Services for UNIX Version 3.0 (KB939778)</title>
+			<description>A security issue has been identified in Services for UNIX 3.0 and 3.5 that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>SFU3-KB939778-X86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/e/3/2/e322a41b-94ab-4d4a-bdc0-32794e6c1255/SFU3-KB939778-X86-ENU.exe</url>
+		</update>
+		<update id="KB890830" category="9" publishdate="2010-03-09" article="http://support.microsoft.com/?kbid=890830">
+			<!--http://www.microsoft.com/downloads/details.aspx?displaylang=en&familyid=ad724ae0-e72d-4f54-9ab3-75b8eb148356-->
+			<title>Microsoft® Windows® Malicious Software Removal Tool (KB890830)</title>
+			<description>This tool checks your computer for infection by specific, prevalent malicious software (including Blaster, Sasser, and Mydoom) and helps to remove the infection if it is found. Microsoft will release an updated version of this tool on the second Tuesday of each month.</description>
+			<filename>windows-kb890830-v3.5.exe</filename>
+			<url>http://download.microsoft.com/download/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.5.exe</url>
+		</update>
+		<update id="KB960715" category="9" publishdate="2009-02-10" article="http://support.microsoft.com/?kbid=960715">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=e31e223b-4352-4d54-9c51-e1c9f8afc6a9&displaylang=en-->
+			<title>Cumulative Security Update for ActiveX Killbits for Windows 2000 (KB960715)</title>
+			<description>Security issues have been identified in ActiveX controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it. You can help protect your computer by installing this update from Microsoft.</description>
+			<filename>Windows2000-KB960715-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/E/1/1/E11E02C0-3C8D-48C5-A264-ED10320AE8A9/Windows2000-KB960715-x86-ENU.EXE</url>
+		</update>
+		<update id="KB899283" category="9" publishdate="2008-08-12">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=A8D9EB73-5F8C-4B9A-940F-9157A3B3D774&displaylang=en-->
+			<title>Windows Messenger 5.1</title>
+			<description>Microsoft Windows Messenger allows real-time communication with other contacts using instant messaging services.</description>
+			<filename>messenger.msi</filename>
+			<url>http://download.microsoft.com/download/e/b/3/eb3b95c6-b6e3-47f6-bcd1-466ad173f407/messenger.msi</url>
+		</update>
+		<update id="KB942099" category="9" publishdate="2007-09-11" article="http://support.microsoft.com/?kbid=942099">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=cf49c56c-8b3e-4eae-9904-9505f47bed45&displaylang=en-->
+			<title>MSN Messenger 7.0 for Windows</title>
+			<description>MSN Messenger is an instant messaging program that lets you send instant messages to your friends, and much more.</description>
+			<filename>Install_MSN_Messenger.exe</filename>
+			<url>http://download.microsoft.com/download/9/7/6/976085f9-d0f8-4d96-9208-fc1b461cd3d7/Install_MSN_Messenger.exe</url>
+		</update>
+		<update id="WScript57" category="9" publishdate="2007-08-24">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=C03D3E49-B40E-4CA1-A0C7-CC135EC4D2BE&displaylang=en-->
+			<title>Windows Script 5.7 for Windows 2000</title>
+			<description>This download installs Microsoft® Windows® Script containing Visual Basic® Script Edition (VBScript.) Version 5.7, JScript® Version 5.7, Windows Script Components, Windows Script Host 5.7, and Windows Script Runtime Version 5.7.</description>
+			<filename>scripten.exe</filename>
+			<url>http://download.microsoft.com/download/f/f/e/ffea3abf-b55f-4924-b5a5-bde0805ad67c/scripten.exe</url>
+		</update>
+		<update id="UPHClean" category="9" publishdate="2007-03-08">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=1b286e6d-8912-4e18-b570-42470e2f3582&displaylang=en-->
+			<title>User Profile Hive Cleanup Service</title>
+			<description>A service to help with slow log off and unreconciled profile problems.</description>
+			<filename>UPHClean-Setup.msi</filename>
+			<url>http://download.microsoft.com/download/a/8/7/a87b3d05-cd04-4743-a23b-b16645e075ac/UPHClean-Setup.msi</url>
+		</update>
+		<update id="KB917275" category="9" publishdate="2006-11-22" article="http://support.microsoft.com/?kbid=917275">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=02da5107-2919-414b-a5a3-3102c7447838&displaylang=en-->
+			<title>Microsoft Windows Rights Management Services Client with Service Pack 2 - x86</title>
+			<description>The Microsoft Windows Rights Management Services (RMS) Client Service Pack 2 is required for your computer to run applications that provide functionality based on Windows RMS technologies.</description>
+			<filename>WindowsRightsManagementServicesSP2-KB917275-Client-ENU-x86.exe</filename>
+			<url>http://download.microsoft.com/download/a/7/6/a76f9937-8180-43ad-a934-6c9afca30bba/WindowsRightsManagementServicesSP2-KB917275-Client-ENU-x86.exe</url>
+		</update>
+		<update id="KB909520" category="9" publishdate="2005-11-29" article="http://support.microsoft.com/?kbid=909520">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=e8095fd5-c7e5-4bee-9577-2ea6b45b41c6&displaylang=en-->
+			<title>Microsoft Base Smart Card Cryptographic Service Provider Package: x86 (KB909520)</title>
+			<description>Base Smart Card Cryptographic Service Provider (Base CSP) allows smart card vendors to more easily enable their smart cards on Windows with a lightweight proprietary card module instead of a full proprietary CSP.</description>
+			<filename>Windows-KB909520-v1.000-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/d/0/9/d094e803-479d-432c-843d-74d9fd98ff5e/Windows-KB909520-v1.000-x86-ENU.exe</url>
+		</update>
+		<update id="KB893803" category="9" publishdate="2005-09-02" article="http://support.microsoft.com/?kbid=893803">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=889482fc-5f56-4a38-b838-de776fd4138c&displaylang=en-->
+			<title>Windows Installer 3.1 Redistributable (v2)</title>
+			<description>The Microsoft® Windows® Installer is an application installation and configuration service. WindowsInstaller-KB893803-x86.exe is the redistributable package for installing or upgrading Windows Installer.</description>
+			<filename>WindowsInstaller-KB893803-v2-x86.exe</filename>
+			<url>http://download.microsoft.com/download/1/4/7/147ded26-931c-4daf-9095-ec7baf996f46/WindowsInstaller-KB893803-v2-x86.exe</url>
+		</update>
+		<update id="KB842773" category="9" publishdate="2005-02-22" article="http://support.microsoft.com/?kbid=842773">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3EE866A0-3A09-4FDF-8BDB-C906850AB9F2&displaylang=en-->
+			<title>Update for Background Intelligent Transfer Service (BITS) 2.0 and WinHTTP 5.1 Windows 2000 (KB842773)</title>
+			<description>This software updates the Background Intelligent Transfer Service (BITS) to v2.0 and updates WinHTTP.</description>
+			<filename>Windows2000-KB842773-x86-ENU.EXE</filename>
+			<url>http://download.microsoft.com/download/5/d/8/5d802926-6bab-45fa-b96e-bee15413523b/Windows2000-KB842773-x86-ENU.EXE</url>
+		</update>
+		<update id="KB873374" category="9" publishdate="2004-09-14" article="http://support.microsoft.com/?kbid=873374">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=71cd9e74-7142-4780-83e5-ce54401da1d1&displaylang=en-->
+			<title>Microsoft GDI+ Detection Tool</title>
+			<description>The Microsoft GDI+ Detection Tool helps detect the presence of non-Windows Microsoft products that contain the GDI+ component.</description>
+			<filename>gdidettool.exe</filename>
+			<url>http://download.microsoft.com/download/4/9/f/49f511d3-adae-4dd7-aedd-1c7f81f633ec/gdidettool.exe</url>
+		</update>
+	</updates>
+</updatelist>

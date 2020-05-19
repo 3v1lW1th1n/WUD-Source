@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<updatelist product="Exchange 2003" platform="x86" language="ENU" lastupdate="2006-08-19" xmlns="http://wud.jcarle.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wud.jcarle.com http://wud.jcarle.com/wud.xsd">
+
+<!-- Created by Draxx -->
+
+<categories>
+ <category id="1">Exchange 2003 Critical Updates</category>
+ <category id="2">Exchange 2003 Service Packs</category>
+ <category id="3">Exchange 2003 Other</category>
+</categories>
+
+<updates>
+ <update id="KB916803" category="1" publishdate="2006-05-09">
+  <title>Security Update for Exchange Server 2003 SP2 (KB916803)</title>
+  <description>MS06-019: Vulnerability in Microsoft Exchange Server could allow remote code execution.</description>
+  <filename>Exchange2003-KB916803-x86-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/2/8/1/28172b83-4ca1-4530-996d-ca323d07cf7d/Exchange2003-KB916803-x86-ENU.exe</url>
+ </update>
+ <update id="KB911829" category="1" publishdate="2006-05-31">
+  <title>Update for Exchange 2003 (KB911829)</title>
+  <description>You receive an error message when you try to perform any editing tasks, or you must click to enable the compose frame in Outlook Web Access.</description>
+  <filename>Exchange2003-KB911829-v2-x86-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/3/7/e/37eb12db-3104-4f3c-adca-1d23801e8453/Exchange2003-KB911829-v2-x86-ENU.exe</url>
+ </update>
+ <update id="KB912442" category="1" publishdate="2006-06-13">
+  <title>Security Update for Exchange Server 2003 SP2 (KB912442)</title>
+  <description>MS06-029: Vulnerability in Microsoft Exchange Server could allow script injection when Exchange Server runs Outlook Web Access.</description>
+  <filename>Exchange2003-KB912442-x86-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/1/5/d/15de3d07-9a0e-48a1-8a2a-a7fde5002b2a/Exchange2003-KB912442-x86-ENU.exe</url>
+ </update>
+
+ <update id="E3SP1ENG" category="2" publishdate="2004-05-25">
+  <title>Exchange Server 2003 Service Pack 1</title>
+  <description>Microsoft Exchange Server 2003 Service Pack 1 (SP1) offers new updates and improvements to Exchange Server 2003.</description>
+  <filename>E3SP1ENG.EXE</filename>
+  <url>http://download.microsoft.com/download/b/6/2/b624b535-644a-41e1-9727-812dcd6bad87/E3SP1ENG.EXE</url>
+ </update>
+ <update id="E3SP2ENG" category="2" publishdate="2005-10-19">
+  <title>Exchange Server 2003 Service Pack 2</title>
+  <description>Microsoft Exchange Server 2003 Service Pack 2 (SP2) offers new features and improvements to Exchange Server 2003. (Requires Windows Server 2003 Hotfix KB898060 to be installed prior to installing SP2)</description>
+  <filename>E3SP2ENG.EXE</filename>
+  <url>http://download.microsoft.com/download/2/d/a/2da38f90-a580-46f7-8812-63dcec999fe5/E3SP2ENG.EXE</url>
+ </update>
+</updates>
+
+</updatelist>

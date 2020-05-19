@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updatelist product="Windows 8.1 Update" servicepack="" platform="x86" language="ENU" lastupdate="2015-03-25" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+
+<!-- Created by Steven4554 -->
+
+<categories>
+  <category id="1">Security Updates</category>
+  <category id="2">Non-Security Updates</category>
+  <category id="3">Update Packs</category>
+  <category id="4">.NET Framework 4.5.2 Updates</category>
+  <category id="5">.NET Framework 3.5 Updates</category>
+  <category id="6">Optional Updates</category>
+  <category id="7">Pre-Release Software</category>
+  <category id="8">Language Packs</category>
+  <category id="9">Updates for Language Packs</category>
+</categories>
+
+<updates>
+  <update id="KB3032359" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3032359">
+    <title>Cumulative Security Update for Internet Explorer 11 in Windows 8.1 Update (KB3032359)</title>
+    <description>Security issues have been identified that could allow an attacker to compromise a computer running Microsoft Internet Explorer and gain control over it.</description>
+    <filename>Windows8.1-KB3032359-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/C/E/DCE1D28C-4379-4071-A212-11A46E551AB6/Windows8.1-KB3032359-x86.msu</url>
+  </update>
+  <update id="KB2962140" category="1" publishdate="2014-05-05" article="http://support.microsoft.com/kb/2962140">
+    <title>Security Update for Windows 8.1 Update (KB2962140)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2962140-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/F/6/CF627079-A8FC-45E2-8F4C-522E99E1FDA0/Windows8.1-KB2962140-x86.msu</url>
+  </update>
+  <update id="KB2920189" category="1" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2920189">
+    <title>Security Update for Windows 8.1 Update (KB2920189)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2920189-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/7/2/8723E701-A0FF-460B-A962-38FEE6359437/Windows8.1-KB2920189-x86.msu</url>
+  </update>
+  <update id="KB2964736" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2964736">
+    <title>Security Update for Windows 8.1 Update (KB2964736)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2964736-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/7/F/07F4A8D8-D06C-41AF-B64A-8FD9DF37DF33/Windows8.1-KB2964736-x86.msu</url>
+  </update>
+  <update id="KB2964718" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2964718">
+    <title>Security Update for Windows 8.1 Update (KB2964718)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2964718-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/D/9/1D968BF1-C538-4946-9FAE-AC0CCDD617AB/Windows8.1-KB2964718-x86.msu</url>
+  </update>
+  <update id="KB2957189" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2957189">
+    <title>Security Update for Windows 8.1 Update (KB2957189)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2957189-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/A/3/2A3325E1-237F-4A81-A219-91F6D12C8CC2/Windows8.1-KB2957189-x86.msu</url>
+  </update>
+  <update id="KB2971850" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2971850">
+    <title>Security Update for Windows 8.1 Update (KB2971850)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2971850-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/8/2/1820934F-8C53-4668-8CBC-8FC6DF6AF90B/Windows8.1-KB2971850-x86.msu</url>
+  </update>
+  <update id="KB2973201" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2973201">
+    <title>Security Update for Windows 8.1 Update (KB2973201)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2973201-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/E/C/6EC7E87B-A132-43A1-9E0A-3C67DD92606E/Windows8.1-KB2973201-x86.msu</url>
+  </update>
+  <update id="KB2961072" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2961072">
+    <title>Security Update for Windows 8.1 Update (KB2961072)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2961072-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/9/F/A9F368FA-BC4C-4972-95BC-D2CACDB25F94/Windows8.1-KB2961072-x86.msu</url>
+  </update>
+  <update id="KB2972280" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2972280">
+    <title>Security Update for Windows 8.1 Update (KB2972280)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2972280-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/9/9/A9955683-FA60-414D-9E63-206027892AD6/Windows8.1-KB2972280-x86.msu</url>
+  </update>
+  <update id="KB2978742" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2978742">
+    <title>Security Update for Windows 8.1 Update (KB2978742) </title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2978742-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/F/1/2F1FB919-DD4A-476D-A839-76897B9E761F/Windows8.1-KB2978742-x86.msu</url>
+  </update>
+  <update id="KB2976897" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2976897">
+    <title>Security Update for Windows 8.1 Update (KB2976897)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2976897-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/F/8/8F87F282-1284-41E9-8B9D-B75F5E19E6C5/Windows8.1-KB2976897-x86.msu</url>
+  </update>
+  <update id="KB2978668" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2978668">
+    <title>Security Update for Windows 8.1 Update (KB2978668)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2978668-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/F/E/BFE67541-B3C3-42AB-B55A-6B54D73627EE/Windows8.1-KB2978668-x86.msu</url>
+  </update>
+  <update id="KB2993651" category="1" publishdate="2014-08-27" article="http://support.microsoft.com/kb/2993651">
+    <title>Security Update for Windows 8.1 Update (KB2993651)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2993651-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/0/5/9050B7B0-611E-4EA9-B940-16B030180A73/Windows8.1-KB2993651-x86.msu</url>
+  </update>
+  <update id="KB2977292" category="1" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2977292">
+    <title>Security Update for Windows 8.1 Update (KB2977292)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2977292-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/5/4/D5465382-1409-4C52-B19B-D84777B8E7DF/Windows8.1-KB2977292-x86.msu</url>
+  </update>
+  <update id="KB2993958" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2993958">
+    <title>Security Update for Windows 8.1 Update (KB2993958)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2993958-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/0/9/509128FE-6C30-44B6-990A-7CA0A1FE0A50/Windows8.1-KB2993958-x86.msu</url>
+  </update>
+  <update id="KB3006226" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3006226">
+    <title>Security Update for Windows 8.1 Update (KB3006226)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3006226-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/5/5/A55E557C-CCD1-496A-9D1B-3D5077948923/Windows8.1-KB3006226-x86.msu</url>
+  </update>
+  <update id="KB3010788" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3010788">
+    <title>Security Update for Windows 8.1 Update (KB3010788)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3010788-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/D/E/0DEC225B-AF45-4469-B9FB-32784F1BFCFA/Windows8.1-KB3010788-x86.msu</url>
+  </update>
+  <update id="KB2992611" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2992611">
+    <title>Security Update for Windows 8.1 Update (KB2992611)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB2992611-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/C/A/1CABA382-71E7-4E1C-A6EB-93E91FE6E0B6/Windows8.1-KB2992611-x86.msu</url>
+  </update>
+  <update id="KB3011780" category="1" publishdate="2014-11-26" article="http://support.microsoft.com/kb/3011780">
+    <title>Security Update for Windows 8.1 Update (KB3011780)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3011780-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/5/3/D53023CD-7326-4F85-A96C-A349655D53AD/Windows8.1-KB3011780-x86.msu</url>
+  </update>
+  <update id="KB3020393" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3020393">
+    <title>Security Update for Windows 8.1 Update (KB3020393)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3020393-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/8/7/687B371A-633E-43D2-8408-92E17626CF65/Windows8.1-KB3020393-x86.msu</url>
+  </update>
+  <update id="KB3021674" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3021674">
+    <title>Security Update for Windows 8.1 Update (KB3021674)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3021674-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/6/1/B61CA8AA-DB20-4459-8978-7702B2116737/Windows8.1-KB3021674-x86.msu</url>
+  </update>
+  <update id="KB3022777" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3022777">
+    <title>Security Update for Windows 8.1 Update (KB3022777)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3022777-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/2/2/6225E972-C1FD-4741-9B36-0C7C14DD58FE/Windows8.1-KB3022777-x86.msu</url>
+  </update>
+  <update id="KB3019215" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3019215">
+    <title>Security Update for Windows 8.1 Update (KB3019215)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3019215-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/C/0/0C0D3AEE-B124-4164-A0F7-177E1C37F269/Windows8.1-KB3019215-x86.msu</url>
+  </update>
+  <update id="KB3004365" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3004365">
+    <title>Security Update for Windows 8.1 Update (KB3004365)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3004365-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/2/D/42D74170-AA88-4254-BF4E-423FB633BE94/Windows8.1-KB3004365-x86.msu</url>
+  </update>
+  <update id="KB3013455" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3013455">
+    <title>Security Update for Windows 8.1 Update (KB3013455)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3013455-v2-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/9/4/F94B1CA8-3AA1-4281-A1D2-936A66C78DF3/Windows8.1-KB3013455-v2-x86.msu</url>
+  </update>
+  <update id="KB3023562" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3023562">
+    <title>Security Update for Windows 8.1 Update (KB3023562)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information.</description>
+    <filename>Windows8.1-KB3023562-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/D/E/FDE84772-9917-46BC-871D-40B9C90CD01A/Windows8.1-KB3023562-x86.msu</url>
+  </update>
+  <update id="KB3000483" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3000483">
+    <title>Security Update for Windows 8.1 Update (KB3000483)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3000483-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/D/6/4D6B901D-F7BA-4196-BD3B-2B2ED67EAF48/Windows8.1-KB3000483-x86.msu</url>
+  </update>
+  <update id="KB3004361" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3004361">
+    <title>Security Update for Windows 8.1 Update (KB3004361)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3004361-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/3/D/73D46AD4-0DA2-45A0-AE9E-1D24EA78CD30/Windows8.1-KB3004361-x86.msu</url>
+  </update>
+  <update id="KB3033889" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3033889">
+    <title>Security Update for Windows 8.1 Update (KB3033889)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3033889-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/C/7/0C739745-FE1B-4CDF-BBAE-072F3655B082/Windows8.1-KB3033889-x86.msu</url>
+  </update>
+  <update id="KB3039066" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3039066">
+    <title>Security Update for Windows 8.1 Update (KB3039066)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3039066-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/8/F/A8F870F5-FFBD-45E3-994B-7F0AB7F21E13/Windows8.1-KB3039066-x86.msu</url>
+  </update>
+  <update id="KB3032323" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/">
+    <title>Security Update for Windows 8.1 Update (KB3032323)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3032323-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/B/3/9B3916DD-63AD-4A5D-AF8F-F9A6E82C2018/Windows8.1-KB3032323-x86.msu</url>
+  </update>
+  <update id="KB3035132" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035132">
+    <title>Security Update for Windows 8.1 Update (KB3035132)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3035132-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/F/C/1FC182C8-7D58-41BD-985E-5421A6A75792/Windows8.1-KB3035132-x86.msu</url>
+  </update>
+  <update id="KB3035131" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035131">
+    <title>Security Update for Windows 8.1 Update (KB3035131)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3035131-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/2/B/D2B466AA-E011-42D6-92DA-4FA8FCDAB8CB/Windows8.1-KB3035131-x86.msu</url>
+  </update>
+  <update id="KB3030377" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3030377">
+    <title>Security Update for Windows 8.1 Update (KB3030377)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3030377-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/2/D/72DF8C18-438F-47AC-8854-0347FACDAC2A/Windows8.1-KB3030377-x86.msu</url>
+  </update>
+  <update id="KB3035126" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035126">
+    <title>Security Update for Windows 8.1 Update (KB3035126)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3035126-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/7/F/B7F8EA79-7FF3-4CEA-A3B2-A37CE3669E0B/Windows8.1-KB3035126-x86.msu</url>
+  </update>
+  <update id="KB3046049" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3046049">
+    <title>Security Update for Windows 8.1 Update (KB3046049)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8.1-KB3046049-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/6/3/26334E6C-2A4A-4B46-9CB4-E4726D564372/Windows8.1-KB3046049-x86.msu</url>
+  </update>  
+  
+  <update id="KB3044132" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3044132">
+    <title>Update for Internet Explorer Flash Player for Windows 8.1 Update (KB3044132)</title>
+    <description>Security issues have been identified that could allow an attacker to compromise a computer running Internet Explorer Flash Player for Windows 8.1 and gain control over it.</description>
+    <filename>Windows8.1-KB3044132-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/5/2/352E6AC8-0E23-4C6D-9B6F-F5ECFD56AB4C/Windows8.1-KB3044132-x86.msu</url>
+  </update>
+  <update id="KB3025417" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3025417">
+    <title>Update for Windows 8.1 Update (KB3025417)</title>
+    <description>Install this update to improve protection functionality in Windows Defender</description>
+    <filename>Windows8.1-KB3025417-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/6/A/B6A908C0-27D6-4775-8798-A171E321F0C3/Windows8.1-KB3025417-x86.msu</url>
+  </update>
+  <update id="KB917607" category="2" publishdate="2013-11-07" article="http://support.microsoft.com/kb/917607">
+    <title>Windows Help program for Windows 8.1 (KB917607)</title>
+    <description>WinHlp32.exe is required to display 32-bit Help files that have the ".hlp" file name extension. To view .hlp files on Windows 8.1, you need to install this application.</description>
+    <filename>Windows8.1-KB917607-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/C/9/AC90B7C6-2787-4D97-8A54-B9A1F8C69F81/Windows8.1-KB917607-x86.msu</url>
+  </update>
+  <update id="KB2958262" category="2" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2958262">
+    <title>Update for Windows 8.1 Update (KB2958262)</title>
+    <description>Compatibility update for Windows 8.1 Update - May 2014</description>
+    <filename>Windows8.1-KB2958262-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/B/1/1B152F75-5C82-44A5-9093-F90D24521333/Windows8.1-KB2958262-x86.msu</url>
+  </update>
+  <update id="KB2899189" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2899189">
+    <title>Update for Microsoft Camera Codec Pack for Windows 8.1 (KB2899189)</title>
+    <description>Installing the Microsoft Camera Codec Pack enables the viewing of a variety of device-specific file formats and will allow supported RAW camera files to be viewable in applications in Windows.</description>
+    <filename>Windows8.1-KB2899189-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/1/5/115D0998-8AEF-40E5-B37A-4449A349825A/Windows8.1-KB2899189-x86.msu</url>
+  </update>
+  <update id="KB3013410" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3013410">
+    <title>Update for Windows 8.1 Update (KB3013410)</title>
+    <description>Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries.</description>
+    <filename>Windows8.1-KB3013410-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/C/7/6C7937E7-5B4D-4689-ABFD-2D3CE868BA52/Windows8.1-KB3013410-x86.msu</url>
+  </update>
+  <update id="KB2928680" category="2" publishdate="2014-03-11" article="http://support.microsoft.com/kb/2928680">
+    <title>Update for Windows 8.1 (KB2928680)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2928680-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/7/C/37CDBC85-DB04-4185-8171-F134B655ACDD/Windows8.1-KB2928680-x86.msu</url>
+  </update>
+  <update id="KB2955164" category="2" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2955164">
+    <title>Update for Windows 8.1 Update (KB2955164)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2955164-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/A/6/7A693902-E63F-416D-81E8-9148770DA6EB/Windows8.1-KB2955164-x86.msu</url>
+  </update>
+  <update id="KB2950153" category="2" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2950153">
+    <title>Update for Windows 8.1 Update (KB2950153)</title>
+    <description>WUSA freezes when you install an update in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB2950153-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/0/2/3028B93B-AFFF-4DB4-A05B-429B3EF03B27/Windows8.1-KB2950153-x86.msu</url>
+  </update>
+  <update id="KB2954879" category="2" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2954879">
+    <title>Update for Microsoft .NET Native for Windows 8.1 Update (KB2954879)</title>
+    <description>Error reports that are sent for .NET Native applications may restrict the investigation of the root causes of errors</description>
+    <filename>Windows8.1-KB2954879-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/0/A/50A5BBBA-68AC-469D-AC7F-746DE045DFA5/Windows8.1-KB2954879-v2-x86.msu</url>
+  </update>
+  <update id="KB2956575" category="2" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2956575">
+    <title>Update for Windows 8.1 Update (KB2956575)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2956575-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/5/E/75E48662-B4ED-4800-B37D-ADA92FDD02AB/Windows8.1-KB2956575-x86.msu</url>
+  </update>
+  <update id="KB2962409" category="2" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2962409">
+    <title>Update for Windows 8.1 Update (KB2962409)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2962409-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/E/8/9E850A06-CDF4-4130-92FC-2D8208E34BA7/Windows8.1-KB2962409-x86.msu</url>
+  </update>
+  <update id="KB2965142" category="2" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2965142">
+    <title>Update for Windows 8.1 Update (KB2965142)</title>
+    <description>Update for Family Safety to improve web filtering and activity reporting in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB2965142-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/F/5/CF50E84A-E564-42C5-B745-8F2F9C90A667/Windows8.1-KB2965142-x86.msu</url>
+  </update>
+  <update id="KB2966804" category="2" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2966804">
+    <title>Update for Windows 8.1 Update (KB2966804)</title>
+    <description>Computer freezes when you connect a USB device in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB2966804-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/4/F/84F6F7DD-55BF-4BE3-9B84-0552A6E04FD7/Windows8.1-KB2966804-x86.msu</url>
+  </update>
+  <update id="KB2966870" category="2" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2966870">
+    <title>Update for Windows 8.1 Update (KB2966870)</title>
+    <description>Fix restart problems after you install update rollup KB2919355 in Windows 8.1</description>
+    <filename>Windows8.1-KB2966870-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/E/7/1E7EFCB6-C13D-4E2A-A2AC-6AA1B0BA5EA2/Windows8.1-KB2966870-x86.msu</url>
+  </update>
+  <update id="KB2959936" category="2" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2959936">
+    <title>Update for Windows 8.1 Update (KB2959936)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2959936-x86.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/07/windowsblue-kb2959936-x86_7fecda111ca39e02e43ba128e7897cba326d01ea.msu</url>
+  </update>
+  <update id="KB2967917" category="2" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2967917">
+    <title>Update for Windows 8.1 Update (KB2967917)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2967917-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/C/9/3C929E47-5707-4210-A2E2-95076CF046B1/Windows8.1-KB2967917-x86.msu</url>
+  </update>
+  <update id="KB2971203" category="2" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2971203">
+    <title>Update for Windows 8.1 Update (KB2971203)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2971203-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/7/8/F78068EF-52B1-4D34-8159-B24FD69C95FD/Windows8.1-KB2971203-x86.msu</url>
+  </update>
+  <update id="KB2971239" category="2" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2971239">
+    <title>Update for Windows 8.1 Update (KB2971239)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2971239-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/2/F/C2F9E46A-AD9A-4E5B-B30C-DE435D2980AE/Windows8.1-KB2971239-x86.msu</url>
+  </update>
+  <update id="KB2981655" category="2" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2981655">
+    <title>Update for Windows 8.1 Update (KB2981655)</title>
+    <description>Certain HTTPS sites cannot be opened in Firefox after you install update 2965142 in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB2981655-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/2/0/B2069E28-EB17-4199-BBBD-3535618EBA9C/Windows8.1-KB2981655-x86.msu</url>
+  </update>
+  <update id="KB2990532" category="2" publishdate="2014-09-02" article="http://support.microsoft.com/kb/2990532">
+    <title>Update for Windows 8.1 Update (KB2990532)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2990532-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/C/9/5C9F5E2C-2C51-459B-9F2F-7EFEC2A0A18D/Windows8.1-KB2990532-x86.msu</url>
+  </update>
+  <update id="KB2979582" category="2" publishdate="2014-09-02" article="http://support.microsoft.com/kb/2979582">
+    <title>Update for Windows 8.1 Update (KB2979582)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2979582-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/C/9/5C9F5E2C-2C51-459B-9F2F-7EFEC2A0A18D/Windows8.1-KB2979582-x86.msu</url>
+  </update>
+  <update id="KB2993100" category="2" publishdate="2014-09-02" article="http://support.microsoft.com/kb/2993100">
+    <title>Update for Windows 8.1 Update (KB2993100)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2993100-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/C/9/5C9F5E2C-2C51-459B-9F2F-7EFEC2A0A18D/Windows8.1-KB2993100-x86.msu</url>
+  </update>
+  <update id="KB2984006" category="2" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2984006">
+    <title>Update for Windows 8.1 Update (KB2984006)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2984006-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/F/E/FFE0607B-B615-4563-907F-CD4A031FB66A/Windows8.1-KB2984006-x86.msu</url>
+  </update>
+  <update id="KB2995388" category="2" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2995388">
+    <title>Update for Windows 8.1 Update (KB2995388)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB2995388-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/6/F/46FA6A57-3510-4181-AF10-63532F14AC34/Windows8.1-KB2995388-x86.msu</url>
+  </update>
+  <update id="KB3003667" category="2" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3003667">
+    <title>Update for Windows 8.1 Update (KB3003667)</title>
+    <description>November 2014 update to support many camera-specific file formats in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB3003667-x86.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3003667-x86_fc0d083b6b984a9dcd7221ad5cac1e82fac6f461.msu</url>
+  </update>
+  <update id="KB3008627" category="2" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3008627">
+    <title>Update for Windows 8.1 Update (KB3008627)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3008627-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/4/8/04811E73-6182-485B-ACA2-EC672C742B0C/Windows8.1-KB3008627-x86.msu</url>
+  </update>
+  <update id="KB2976978" category="2" publishdate="2015-03-25" article="http://support.microsoft.com/kb/2976978">
+    <title>Update for Windows 8.1 Update (KB2976978)</title>
+    <description>Compatibility Update for Windows 8.1 Update</description>
+    <filename>Windows8.1-KB2976978-v7-x86.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb2976978-v7-x86_f0867faad074c584ceb7f9ad6bdd91c185e2220f.msu</url>
+  </update>
+  <update id="KB3003727" category="2" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3003727">
+    <title>Update for Windows 8.1 Update (KB3003727)</title>
+    <description>USB 3.0 debugger through a USB 2.0 port is not supported on Intel System-on-Chip (SoC) devices in Windows 8.1</description>
+    <filename>Windows8.1-KB3003727-x86.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/11/windows8.1-kb3003727-x86_de8f543b553629b3ee9f4676f37c894679525cfb.msu</url>
+  </update>
+  <update id="KB3000850" category="2" publishdate="2014-11-26" article="http://support.microsoft.com/kb/3000850">
+    <title>Update Rollup for Windows 8.1 Update (KB3000850)</title>
+    <description>November 2014 update rollup for Windows 8.1 Update</description>
+    <filename>Windows8.1-KB3000850-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/5/1/A51119A7-729B-4800-844C-189E2BDCFF85/Windows8.1-KB3000850-x86.msu</url>
+  </update>
+  <update id="KB2989930" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/2989930">
+    <title>Update for Windows 8.1 Update (KB2989930)</title>
+    <description>Not Connected status for a paired Surface Pen in Bluetooth settings on Surface Pro 3</description>
+    <filename>Windows8.1-KB2989930-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/4/8/048E9E0F-553E-4FA8-B905-9218DBFDB84A/Windows8.1-KB2989930-x86.msu</url>
+  </update>
+  <update id="KB3004394" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3004394">
+    <title>Update for Windows 8.1 Update (KB3004394)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3004394-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/3/6/0363C913-8001-4CD4-A199-B702C892A44A/Windows8.1-KB3004394-x86.msu</url>
+  </update>
+  <update id="KB3008242" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3008242">
+    <title>Update for Windows 8.1 Update (KB3008242)</title>
+    <description>The system does not enter Connected Standby after you install update 2996799 in Windows 8.1</description>
+    <filename>Windows8.1-KB3008242-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/F/8/CF8E1157-083F-4DBD-A618-CA9A9D55AE4E/Windows8.1-KB3008242-x86.msu</url>
+  </update>
+  <update id="KB3013769" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3013769">
+    <title>Update for Windows 8.1 Update (KB3013769)</title>
+    <description>December 2014 update rollup for Windows 8.1</description>
+    <filename>Windows8.1-KB3013769-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/5/2/4523ACEE-9CF5-4209-AE2D-52BA993A1CD4/Windows8.1-KB3013769-x86.msu</url>
+  </update>
+  <update id="KB3013816" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3013816">
+    <title>Update for Windows 8.1 Update (KB3013816)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3013816-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/8/9/F8930D4F-88A5-4A01-B8E4-091181EFF40C/Windows8.1-KB3013816-x86.msu</url>
+  </update>
+  <update id="KB3031044" category="2" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3031044">
+    <title>Update for Windows 8.1 Update (KB3031044)</title>
+    <description>The Embedded Lockdown Manager application is installed unexpectedly in Windows 8.1</description>
+    <filename>Windows8.1-KB3031044-x86.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/01/windows8.1-kb3031044-x86_4db8e92f9fefb5ead8ab9d8707159164390bb549.msu</url>
+  </update>
+  <update id="KB3016074" category="2" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3016074">
+    <title>Update for Windows 8.1 Update (KB3016074)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3016074-x86.msu</filename>
+    <url>http://download.microsoft.com/download/E/8/4/E84208EA-7F84-45EE-A4D9-5119C037F92E/Windows8.1-KB3016074-x86.msu</url>
+  </update>
+  <update id="KB3020338" category="2" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3020338">
+    <title>Update for Windows 8.1 Update (KB3020338)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3020338-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/7/2/B7281479-DBC6-462F-B811-B007E74F80DD/Windows8.1-KB3020338-x86.msu</url>
+  </update>
+  <update id="KB3006137" category="2" publishdate="2015-02-25" article="http://support.microsoft.com/kb/3006137">
+    <title>Update for Windows 8.1 Update (KB3006137) - For Lithuania users only</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3006137-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/1/C/D1CCAB70-4E6B-4812-8A92-C94FF4D8E127/Windows8.1-KB3006137-x86.msu</url>
+  </update>
+  <update id="KB3029803" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3029803">
+    <title>Update for Windows 8.1 Update (KB3029803)</title>
+    <description>STOP Error 0x0000009F in DRIVER_POWER_STATE_FAILURE on Windows 8.1 Update when your computer resumes from sleep mode</description>
+    <filename>Windows8.1-KB3029803-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/8/D/28D716F1-159B-4D64-BD7E-9547F75BB104/Windows8.1-KB3029803-x86.msu</url>
+  </update>
+  <update id="KB3036562" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3036562">
+    <title>Update for Windows 8.1 Update (KB3036562)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3036562-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/6/B/46B1BF27-0148-41BC-B8A9-A601E1D03F31/Windows8.1-KB3036562-x86.msu</url>
+  </update>
+  <update id="KB3012235" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3012235">
+    <title>Update for Windows 8.1 Update (KB3012235)</title>
+    <description>The Print Pictures Wizard stops responding in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB3012235-v3-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/0/B/30B13AA9-DC62-40F0-A387-C8996868BCBC/Windows8.1-KB3012235-v3-x86.msu</url>
+  </update>
+  <update id="KB3012702" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3012702">
+    <title>Update for Windows 8.1 Update (KB3012702)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3012702-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/2/5/025476D7-ED0F-461D-A812-883F6A8153EA/Windows8.1-KB3012702-x86.msu</url>
+  </update>
+  <update id="KB3013172" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3013172">
+    <title>Update for Windows 8.1 Update (KB3013172)</title>
+    <description>Individual memory devices cannot be ejected through the Safely Remove Hardware UI in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB3013172-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/5/B/15B395CC-ADDE-41D5-9380-AF645A04A004/Windows8.1-KB3013172-x86.msu</url>
+  </update>
+  <update id="KB3018133" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3018133">
+    <title>Update for Windows 8.1 Update (KB3018133)</title>
+    <description>Content on the lock screen is displayed inappropriately in Windows that has update KB2919355 installed</description>
+    <filename>Windows8.1-KB3018133-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/2/2/1223EB78-9C5D-499E-A0BA-DF9F1463EEB2/Windows8.1-KB3018133-x86.msu</url>
+  </update>
+  <update id="KB3022796" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3022796">
+    <title>Update for Windows 8.1 Update (KB3022796)</title>
+    <description>Update for RichTextBox controls and ALT codes in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB3022796-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/8/D/A8DE5D8A-05EA-42A8-8C4A-910E89CF93BF/Windows8.1-KB3022796-x86.msu</url>
+  </update>
+  <update id="KB3024751" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3024751">
+    <title>Update for Windows 8.1 Update (KB3024751)</title>
+    <description>The TAB key inserts a tab stop when you enter Wi-Fi credentials on a Surface Pro 3</description>
+    <filename>Windows8.1-KB3024751-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/2/E/62EC4593-132E-45EA-AF5B-8B9D2D34018F/Windows8.1-KB3024751-x86.msu</url>
+  </update>
+  <update id="KB3024755" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3024755">
+    <title>Update for Windows 8.1 Update (KB3024755)</title>
+    <description>Multi-touch gesture does not work after you exit the Calculator in Windows </description>
+    <filename>Windows8.1-KB3024755-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/5/6/45699495-0F5E-4E1D-9EAD-F68114FD5D5B/Windows8.1-KB3024755-x86.msu</url>
+  </update>
+  <update id="KB3027209" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3027209">
+    <title>Update for Windows 8.1 Update (KB3027209)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3027209-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/6/9/669FA553-A7D4-416F-AD62-CE055AD1ECDD/Windows8.1-KB3027209-x86.msu</url>
+  </update>
+  <update id="KB3029606" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3029606">
+    <title>Update for Windows 8.1 Update (KB3029606)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3029606-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/D/1/7D1C12F0-EA46-42C8-AFBE-416743290DC4/Windows8.1-KB3029606-x86.msu</url>
+  </update>
+  <update id="KB3030947" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3030947">
+    <title>Update for Windows 8.1 Update (KB3030947)</title>
+    <description>Compatibility issues for applications that rely on a certain code layout for memory in Windows</description>
+    <filename>Windows8.1-KB3030947-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/A/B/7AB9710E-3C8F-4322-89C8-8520C3BA2AEB/Windows8.1-KB3030947-x86.msu</url>
+  </update>
+  <update id="KB3034348" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3034348">
+    <title>Update for Windows 8.1 Update (KB3034348)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3034348-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/C/5/0C52EE12-7204-4DDE-9690-A6F9A4DD33A7/Windows8.1-KB3034348-x86.msu</url>
+  </update>
+  <update id="KB3035527" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035527">
+    <title>Update for Windows 8.1 Update (KB3035527)</title>
+    <description>Problems occur after you pin and unpin a Win32 app from the taskbar in Windows</description>
+    <filename>Windows8.1-KB3035527-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/2/8/6280EC10-7E38-4A97-A2A1-FFF863F03B1A/Windows8.1-KB3035527-x86.msu</url>
+  </update>
+  <update id="KB3035553" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035553">
+    <title>Update for Windows 8.1 Update (KB3035553)</title>
+    <description>Black screen after quickly swiping up and down on the Windows 8.1 Update lock screen</description>
+    <filename>Windows8.1-KB3035553-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/C/9/2C901B57-A719-4AF8-80A0-59B45EC03CCD/Windows8.1-KB3035553-x86.msu</url>
+  </update>
+  <update id="KB3036228" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3036228">
+    <title>Update for Windows 8.1 Update (KB3036228)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3036228-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/6/F/36FD2FFD-C14E-48FB-84BD-8B1B1152838C/Windows8.1-KB3036228-x86.msu</url>
+  </update>
+  <update id="KB3036612" category="2" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3036612">
+    <title>Update for Windows 8.1 Update (KB3036612)</title>
+    <description>Windows Store apps may crash in Windows 8.1 Update</description>
+    <filename>Windows8.1-KB3036612-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/6/1/761FDEC0-DC93-49B4-9AC8-04396FEDE0DC/Windows8.1-KB3036612-x86.msu</url>
+  </update>
+  <update id="KB3048778" category="2" publishdate="2015-03-24" article="http://support.microsoft.com/kb/3048778">
+    <title>Update for Windows 8.1 Update (KB3048778)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8.1-KB3048778-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/9/7/9975494F-8DDC-46DD-8C68-7948C066330B/Windows8.1-KB3048778-v2-x86.msu</url>
+  </update>
+
+  <update id="KB2919355" category="3" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2919355">
+    <title>Windows 8.1 Update (KB2919355)</title>
+    <description></description>
+    <filename>Windows8.1-KB2919355-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/E/C/4EC66C83-1E15-43FD-B591-63FB7A1A5C04/Windows8.1-KB2919355-x86.msu</url>
+  </update>
+  <update id="KB3012199" category="3" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3012199">
+    <title>Update for Windows 8.1 (KB3012199)</title>
+    <description>A servicing stack update is available for Windows 8.1</description>
+    <filename>Windows8.1-KB3012199-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/0/B/90B4949A-6F97-443B-B9D2-7B342F5EE4B6/Windows8.1-KB3012199-x86.msu</url>
+  </update>
+  <update id="KB2932046" category="3" publishdate="2014-04-08">
+    <title>Update for Windows 8.1 Update (KB2932046)</title>
+    <description></description>
+    <filename>Windows8.1-KB2932046-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/E/C/4EC66C83-1E15-43FD-B591-63FB7A1A5C04/Windows8.1-KB2932046-x86.msu</url>
+  </update>
+  <update id="KB2937592" category="3" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2937592">
+    <title>Update for Windows 8.1 Update (KB2937592)</title>
+    <description></description>
+    <filename>Windows8.1-KB2937592-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/E/C/4EC66C83-1E15-43FD-B591-63FB7A1A5C04/Windows8.1-KB2937592-x86.msu</url>
+  </update>
+  <update id="KB2938439" category="3" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2938439">
+    <title>Update for Windows 8.1 Update (KB2938439)</title>
+    <description></description>
+    <filename>Windows8.1-KB2938439-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/E/C/4EC66C83-1E15-43FD-B591-63FB7A1A5C04/Windows8.1-KB2938439-x86.msu</url>
+  </update>
+  <update id="KB2934018" category="3" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2934018">
+    <title>Update for Windows 8.1 Update (KB2934018)</title>
+    <description></description>
+    <filename>Windows 8.1-KB2934018-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/E/C/4EC66C83-1E15-43FD-B591-63FB7A1A5C04/Windows8.1-KB2934018-x86.msu</url>
+  </update>
+  <update id="KB2959977" category="3" publishdate="2014-04-16" article="http://support.microsoft.com/kb/2959977">
+    <title>Update for Windows 8.1 Update (KB2959977)</title>
+    <description></description>
+    <filename>Windows8.1-KB2959977-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/E/C/4EC66C83-1E15-43FD-B591-63FB7A1A5C04/Windows8.1-KB2959977-x86.msu</url>
+  </update>
+
+  <update id="KB2898850" category="4" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2898850">
+    <title>Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 Update (KB2898850)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information</description>
+    <filename>Windows8.1-KB2898850-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/6/9/C690CC33-18F7-405D-B18A-0A8E199E531C/Windows8.1-KB2898850-x86.msu</url>
+  </update>
+  <update id="KB2977765" category="4" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2977765">
+    <title>Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 Update (KB2977765)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding</description>
+    <filename>Windows8.1-KB2977765-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/F/0/6F0FC426-B9BF-43D1-9BDA-F60C23C3C115/Windows8.1-KB2977765-x86.msu</url>
+  </update>
+  <update id="KB2978041" category="4" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2978041">
+    <title>Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 Update (KB2978041)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8.1-KB2978041-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/3/C/03CD268B-9B7A-4344-AEC1-95B98317253B/Windows8.1-KB2978041-x86.msu</url>
+  </update>
+  <update id="KB2979576" category="4" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2979576">
+    <title>Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 Update (KB2979576)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8.1-KB2979576-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/3/6/F365E995-0C73-48D6-B520-3FF323CA913A/Windows8.1-KB2979576-x86.msu</url>
+  </update>
+  <update id="KB2978126" category="4" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2978126">
+    <title>Security Update for Microsoft .NET Framework 4.5.2 on Windows 8.1 Update (KB2978126)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8.1-KB2978126-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/D/6/8D68B9A9-9252-4949-B343-DDECB14F646C/Windows8.1-KB2978126-x86.msu</url>
+  </update>
+
+  <update id="KB2898847" category="5" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2898847">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2898847)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information</description>
+    <filename>Windows8.1-KB2898847-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/1/B/F1BF9452-5708-439E-87A2-9C11827ABD36/Windows8.1-KB2898847-x86.msu</url>
+  </update>
+  <update id="KB2966826" category="5" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2966826">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2966826)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software</description>
+    <filename>Windows8.1-KB2966826-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/D/E/DDEB4CD3-4226-464F-A3F5-C4E479D85DF3/Windows8.1-KB2966826-x86.msu</url>
+  </update>
+  <update id="KB2966828" category="5" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2966828">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2966828)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software</description>
+    <filename>Windows8.1-KB2966828-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/4/2/D42629E7-65DC-4447-B3E4-587B2ABF2AD9/Windows8.1-KB2966828-x86.msu</url>
+  </update>
+  <update id="KB2972213" category="5" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2972213">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2972213)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding</description>
+    <filename>Windows8.1-KB2972213-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/7/A/87A64112-0600-4DE3-B7AF-9A19D5902C09/Windows8.1-KB2972213-x86.msu</url>
+  </update>
+  <update id="KB2973114" category="5" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2973114">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2973114)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding</description>
+    <filename>Windows8.1-KB2973114-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/0/C/C0CA60C0-462A-48D8-9B51-BEA880541C4F/Windows8.1-KB2973114-x86.msu</url>
+  </update>
+  <update id="KB2968296" category="5" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2968296">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2968296)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software</description>
+    <filename>Windows8.1-KB2968296-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/8/C/88C26123-A81A-45A9-8411-BEBEA6D00C24/Windows8.1-KB2968296-x86.msu</url>
+  </update>
+  <update id="KB2972103" category="5" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2972103">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2972103)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8.1-KB2972103-v2-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/3/F/83F4E6D4-A590-4FC5-ACE3-0615D5A640FF/Windows8.1-KB2972103-v2-x86.msu</url>
+  </update>
+  <update id="KB2979573" category="5" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2979573">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2979573)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8.1-KB2979573-x86.msu</filename>
+    <url>http://download.microsoft.com/download/E/A/6/EA6ED71E-3ACE-44D5-BA35-7A1E336DAA11/Windows8.1-KB2979573-x86.msu</url>
+  </update>
+  <update id="KB2978122" category="5" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2978122">
+    <title>Security Update for Microsoft .NET Framework 3.5 on Windows 8.1 Update (KB2978122)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8.1-KB2978122-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/F/4/6F4C5155-934B-4DEC-87AE-62EB7A00069D/Windows8.1-KB2978122-x86.msu</url>
+  </update>
+
+  <update id="KB890830" category="6" publishdate="2015-03-10" article="http://support.microsoft.com/kb/890830">
+    <title>Microsoft Windows Malicious Software Removal Tool - March 2015 (KB890830)</title>
+    <description>This tool checks your computer for infection by specific, prevalent malicious software (including Blaster, Sasser, and Mydoom) and helps to remove the infection if it is found.</description>
+    <filename>Windows-KB890830-v5.22.exe</filename>
+    <url>http://download.microsoft.com/download/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v5.22.exe</url>
+  </update>
+  <update id="" category="6" publishdate="2014-07-24">
+    <title>Silverlight 5</title>
+    <description>Silverlight 5 continues the pace of rapid innovation, building on Silverlight 4's capabilities in the areas of rich applications and premium media experiences.</description>
+    <filename>Silverlight-x64.exe</filename>
+    <url>http://silverlight.dlservice.microsoft.com/download/F/8/C/F8C0EACB-92D0-4722-9B18-965DD2A681E9/30514.00/Silverlight.exe</url>
+  </update>
+  <update id="" category="6" publishdate="2014-05-05">
+    <title>Windows Live Essentials 2012 (Offline Setup)</title>
+    <description>Do more with Windows on your PC with free programs from Microsoft for photos, movies, instant messaging, email, social networking, and more.</description>
+    <filename>wlsetup-all.exe</filename>
+    <url>http://wl.dlservice.microsoft.com/download/C/1/B/C1BA42D6-6A50-4A4A-90E5-FA9347E9360C/en/wlsetup-all.exe</url>                  
+  </update>
+  <update id="" category="6" publishdate="2013-02-08">
+    <title>Modern UI App Troubleshooter for Windows 8.1</title>
+    <description>Helps in fixing Modern UI app problems.</description>
+    <filename>apps.diagcab</filename>
+    <url>http://download.microsoft.com/download/F/2/4/F24D0C03-4181-4E5B-A23B-5C3A6B5974E3/apps.diagcab</url>
+  </update>
+  <update id="KB2934520" category="6" publishdate="2014-05-06">
+    <title>.NET Framework 4.5.2 for Windows 8.1 Update (KB2934520)</title>
+    <description>The .NET Framework 4.5.2 is a highly compatible, in-place update to the .NET Framework 4.5.1.</description>
+    <filename>Windows8.1-KB2934520-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/A/7/9A78F13F-FD62-4F6D-AB6B-1803508A9F56/51209.34209.03/web/MSUs/Windows8.1-KB2934520-x86.msu</url>
+  </update>
+
+  <update id="KB3006601" category="7" publishdate="2015-02-28">
+    <title>.NET Framework 4.6 Preview for Windows 8.1 Update (KB3006601)</title>
+    <description>The .NET Framework 4.6 is a highly compatible, in-place update to the .NET Framework 4.5.1 and 4.5.2.</description>
+    <filename>Windows8.1-KB3006601-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/8/C/D8C5DFC1-D751-463C-B12D-2CCD8412B716/enu_netfx/fw_netfx_full_win81msu_x86/Windows8.1-KB3006601-x86.msu</url>
+  </update>
+
+  <update id="KB2839636" category="8" publishdate="2013-10-22" article="http://support.microsoft.com/kb/2839636">
+    <title>English</title>
+    <description>en-GB</description>
+    <filename>Windows8.1-KB2839636-x64-eng.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2013/09/lp_55c5ff4da1d83ae6f4ebd1f8c020cb80ceda7da8.cab</url>
+  </update>
+  <update id="KB2839636" category="8" publishdate="2013-10-22" article="http://support.microsoft.com/kb/2839636">
+    <title>French</title>
+    <description>fr-fr</description>
+    <filename>Windows8.1-KB2839636-x64-fra.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2013/09/lp_57ba398b9875a01656ae6bd9fee53b4717f7612e.cab</url>
+  </update>
+  <update id="KB2839636" category="8" publishdate="2013-10-22" article="http://support.microsoft.com/kb/2839636">
+    <title>German</title>
+    <description>de-de</description>
+    <filename>Windows8.1-KB2839636-x64-deu.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2013/09/lp_552a782c0628bc393ca2eaa6510561a390ab3bb8.cab</url>
+  </update>
+  <update id="KB2839636" category="8" publishdate="2013-10-22" article="http://support.microsoft.com/kb/2839636">
+    <title>Italian</title>
+    <description>it-it</description>
+    <filename>Windows8.1-KB2839636-x64-ita.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2013/09/lp_43e31d0dce2ed26bc3d52713f154a1acf92c0365.cab</url>
+  </update>
+  <update id="KB2839636" category="8" publishdate="2013-10-22" article="http://support.microsoft.com/kb/2839636">
+    <title>Spanish</title>
+    <description>es-es</description>
+    <filename>Windows8.1-KB2839636-x64-esn.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2013/09/lp_8bfb4f60803481f9a25a7740ce306fbad45408a8.cab</url>
+  </update>
+  <update id="KB2839636" category="8" publishdate="2013-10-22" article="http://support.microsoft.com/kb/2839636">
+    <title>Japanese</title>
+    <description>ja-jp</description>
+    <filename>Windows8.1-KB2839636-x64-jpn.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/d/msdownload/update/software/updt/2013/09/lp_da2ecd336d37c67ffaf9158a8ba4d10c15b00abe.cab</url>
+  </update>
+ 
+  <update id="KB2938322" category="9" publishdate="2014-05-24" article="http://support.microsoft.com/kb/2938322">
+    <title>English</title>
+    <description>en-gb update</description>
+    <filename>Windows8.1-KB2938329-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/E/2/1E28301A-8678-4DFB-AB04-1A6879328E64/Windows8.1-KB2938329-x86.msu</url>
+  </update>
+  <update id="KB2938322" category="9" publishdate="2014-05-24" article="http://support.microsoft.com/kb/2938322">
+    <title>French</title>
+    <description>fr-fr update</description>
+    <filename>Windows8.1-KB2938334-x86.msu</filename>
+    <url>http://download.microsoft.com/download/E/0/F/E0FBA604-C55B-493D-9B7A-430084F30758/Windows8.1-KB2938334-x86.msu</url>
+  </update>
+  <update id="KB2938322" category="9" publishdate="2014-05-24" article="http://support.microsoft.com/kb/2938322">
+    <title>German</title>
+    <description>de-de update</description>
+    <filename>Windows8.1-KB2938327-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/A/9/0A9EA76A-2554-497E-A4B8-299C55C9079D/Windows8.1-KB2938327-x86.msu</url>
+  </update>
+  <update id="KB2938322" category="9" publishdate="2014-05-24" article="http://support.microsoft.com/kb/2938322">
+    <title>Italian</title>
+    <description>it-it update</description>
+    <filename>Windows8.1-KB2938340-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/F/8/6F81E51A-A596-4263-8738-3734D3EADF9B/Windows8.1-KB2938340-x86.msu</url>
+  </update>
+  <update id="KB2938322" category="9" publishdate="2014-05-24" article="http://support.microsoft.com/kb/2938322">
+    <title>Spanish</title>
+    <description>es-es update</description>
+    <filename>Windows8.1-KB2938330-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/E/2/7E203DCF-F9A5-42F8-8667-F904A1849398/Windows8.1-KB2938330-x86.msu</url>
+  </update>
+  <update id="KB2938322" category="9" publishdate="2014-05-24" article="http://support.microsoft.com/kb/2938322">
+    <title>Japanese</title>
+    <description>ja-jp update</description>
+    <filename>Windows8.1-KB2938341-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/9/C/09CDC0BD-D84B-4A99-B41A-91EB507E7976/Windows8.1-KB2938341-x86.msu</url>
+  </update>
+</updates>
+
+</updatelist>

@@ -1,0 +1,1437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<updatelist product="Windows 7" servicepack="Service Pack 1" platform="x64" language="ENU" lastupdate="2015-03-25" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+
+<!-- Created by Steven4554 -->
+
+<categories>
+  <category id="1">Security Updates</category>
+  <category id="2">Non-Security Updates</category>
+  <category id="3">Service Packs</category>
+  <category id="4">MS Security Products</category>
+  <category id="5">Optional Updates</category>
+  <category id="6">.NET Framework 3.5.1 Updates</category>
+  <category id="7">MS Pre-Release Software</category>
+  <category id="8">WMP12 Updates</category>
+</categories>
+
+<updates>
+  <update id="KB3032359" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3032359">
+    <title>Cumulative Security Update for Internet Explorer 11 in Windows 7 SP1 x64 Edition (KB3032359)</title>
+    <description>Security issues have been identified that could allow an attacker to compromise a computer running Microsoft Internet Explorer and gain control over it.</description>
+    <filename>IE11-Windows6.1-KB3032359-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/9/3/D9322B21-6BFC-47D4-A736-21A83C3C28BB/IE11-Windows6.1-KB3032359-x64.msu</url>
+  </update>
+  <update id="KB2525694" category="1" publishdate="2011-06-14" article="http://support.microsoft.com/kb/2525694">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2525694)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2525694-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/A/C/1AC1607F-CAB5-48A2-86C6-68441CC03224/Windows6.1-KB2525694-x64.msu</url>
+  </update>
+  <update id="KB2479943" category="1" publishdate="2011-03-08" article="http://support.microsoft.com/kb2479943">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2479943)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2479943-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/5/D/75D2CC2F-DECD-4797-9339-B55211C9D59B/Windows6.1-KB2479943-x64.msu</url>
+  </update>
+  <update id="KB2511455" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2511455">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2511455)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2511455-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/E/8/CE89D9D5-3D3D-4B13-9613-D7F13340A64A/Windows6.1-KB2511455-x64.msu</url>
+  </update>
+  <update id="KB2536275" category="1" publishdate="2011-06-14" article="http://support.microsoft.com/kb/2536275">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2536275)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2536275-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/E/8/5E88C0FF-C417-4F01-93B5-01C99BF2E275/Windows6.1-KB2536275-x64.msu</url>
+  </update>
+  <update id="KB2509553" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2509553">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2509553)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2509553-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/D/F/ADF80FA3-1D78-4E49-B7DB-74ED3850DF11/Windows6.1-KB2509553-x64.msu</url>
+  </update>
+  <update id="KB2491683" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2491683">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2491683)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2491683-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/1/A/B1ACCCB3-B7F7-4AFF-88BA-D9B6E9229744/Windows6.1-KB2491683-x64.msu</url>
+  </update>
+  <update id="KB2506212" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2506212">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2506212)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2506212-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/A/E/2AE71020-3713-45BF-B06D-30A469534AD3/Windows6.1-KB2506212-x64.msu</url>
+  </update>
+  <update id="KB2503658" category="1" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2503658">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2503658)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information.</description>
+    <filename>Windows6.1-KB2503658-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/4/2/E42FB79A-D185-47D7-A4A4-787C27732F80/Windows6.1-KB2503658-x64.msu</url>
+  </update>
+  <update id="KB2476490" category="1" publishdate="2011-06-14" article="http://support.microsoft.com/kb/2476490">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2476490)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2476490-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/3/1/73141ADE-D1B0-49B7-AC0B-9319C5C6B914/Windows6.1-KB2476490-x64.msu</url>
+  </update>
+  <update id="KB2536276" category="1" publishdate="2011-08-09" article="http://support.microsoft.com/kb/2536276">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2536276)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2536276-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/9/5/395366C5-56CC-4571-9044-F721930FA935/Windows6.1-KB2536276-v2-x64.msu</url>
+  </update>
+  <update id="KB2544893" category="1" publishdate="2011-06-14" article="http://support.microsoft.com/kb/2544893">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2544893)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information.</description>
+    <filename>Windows6.1-KB2544893-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/B/7/4B74FF45-F7C0-44AE-A3A0-9AC051D5A7F8/Windows6.1-KB2544893-x64.msu</url>
+  </update>
+  <update id="KB2560656" category="1" publishdate="2011-08-09" article="http://support.microsoft.com/kb/2560656">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2560656)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2560656-x64.msu</filename>
+    <url>http://download.microsoft.com/download/0/9/D/09DFB857-678E-4FEA-9B01-4AC6F51061E4/Windows6.1-KB2560656-x64.msu</url>
+  </update>
+  <update id="KB2758857" category="1" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2758857">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2758857)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2758857-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/B/B/2BB09802-F56C-443E-B75A-DD557D6ED6E4/Windows6.1-KB2758857-x64.msu</url>
+  </update>
+  <update id="KB2556532" category="1" publishdate="2011-08-09" article="http://support.microsoft.com/kb/2556532">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2556532)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to cause the affected system to stop responding.</description>
+    <filename>Windows6.1-KB2556532-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/D/D/ADD0AD30-AB46-4879-BB61-E6F6746969EF/Windows6.1-KB2556532-x64.msu</url>
+  </update>
+  <update id="KB2570947" category="1" publishdate="2011-09-13" article="http://support.microsoft.com/kb/2570947">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2570947)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2570947-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/B/3/BB3A4DB8-4F1F-49A8-9163-ECA90B1EC153/Windows6.1-KB2570947-x64.msu</url>
+  </update>
+  <update id="KB2564958" category="1" publishdate="2011-10-11" article="http://support.microsoft.com/kb/2564958">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2564958)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2564958-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/C/9/9C9AC38D-E3C6-4CC9-90CF-65260B946479/Windows6.1-KB2564958-x64.msu</url>
+  </update>
+  <update id="KB2579686" category="1" publishdate="2011-10-11" article="http://support.microsoft.com/kb/2579686">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2579686)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2579686-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/B/7/BB7F5B3A-C2A7-440D-98AF-EDAA9AB697EB/Windows6.1-KB2579686-x64.msu</url>
+  </update>
+  <update id="KB2620704" category="1" publishdate="2011-11-08" article="http://support.microsoft.com/kb/2620704">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2620704)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2620704-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/0/F/E0FBFF82-C811-4FBD-94D4-6569A169AB9D/Windows6.1-KB2620704-x64.msu</url>
+  </update>
+  <update id="KB2619339" category="1" publishdate="2011-12-13" article="http://support.microsoft.com/kb/2619339">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2619339)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2619339-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/2/B/82BB0ECD-AE24-43A3-99E3-A3E7C038ECD5/Windows6.1-KB2619339-x64.msu</url>
+  </update>
+  <update id="KB2620712" category="1" publishdate="2011-12-13" article="http://support.microsoft.com/kb/2620712">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2620712)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2620712-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/D/6/FD6D2A85-5CCC-4D44-B078-0FA17D795B59/Windows6.1-KB2620712-x64.msu</url>
+  </update>
+  <update id="KB2631813" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2631813">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2631813)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2631813-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/A/4/1A46804C-B7DC-419B-9E42-3D04E34D38E5/Windows6.1-KB2631813-x64.msu</url>
+  </update>
+  <update id="KB2644615" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2644615">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2644615)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software.</description>
+    <filename>Windows6.1-KB2644615-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/E/0/FE0AA0DB-442B-4984-AE85-A31BA0A34F46/Windows6.1-KB2644615-x64.msu</url>
+  </update>
+  <update id="KB2584146" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2584146">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2584146)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2584146-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/0/2/4024A250-7472-4902-A0E9-5C3FD03F3A05/Windows6.1-KB2584146-x64.msu</url>
+  </update>
+  <update id="KB2585542" category="1" publishdate="2012-01-10" article="http://support.microsoft.com/kb/2585542">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2585542)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information.</description>
+    <filename>Windows6.1-KB2585542-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/5/7/857A7868-0D55-4E4C-88EB-D535113E1ED1/Windows6.1-KB2585542-x64.msu</url>
+  </update>
+  <update id="KB2654428" category="1" publishdate="2012-02-14" article="http://support.microsoft.com/kb/2654428">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2654428)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2654428-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/E/B/AEB20283-FB88-43F9-9085-8584B11876D7/Windows6.1-KB2654428-x64.msu</url>
+  </update>
+  <update id="KB2645640" category="1" publishdate="2012-02-14" article="http://support.microsoft.com/kb/2645640">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2645640)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2645640-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/7/A/37A09B80-16B8-4347-A24B-2543003AEFBF/Windows6.1-KB2645640-x64.msu</url>
+  </update>
+  <update id="KB2667402" category="1" publishdate="2012-06-12" article="http://support.microsoft.com/kb/2667402">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2667402)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding.</description>
+    <filename>Windows6.1-KB2667402-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/2/1/221537C9-915E-45F7-86D5-F74F2723F45B/Windows6.1-KB2667402-v2-x64.msu</url>
+  </update>
+  <update id="KB2621440" category="1" publishdate="2012-03-13" article="http://support.microsoft.com/kb/2621440">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2621440)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2621440-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/5/4/A546D757-B715-4D9A-96DE-8E0943AA146A/Windows6.1-KB2621440-x64.msu</url>
+  </update>
+  <update id="KB2653956" category="1" publishdate="2012-04-10" article="http://support.microsoft.com/kb/2653956">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2653956)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2653956-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/E/F/6EFF0FDA-2627-46DD-8E9A-F86553DA2C44/Windows6.1-KB2653956-x64.msu</url>
+  </update>
+  <update id="KB2676562" category="1" publishdate="2012-05-08" article="http://support.microsoft.com/kb/2676562">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2676562)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2676562-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/E/E/5EE797C0-28E2-405B-A7C9-7DF7D27BD2E3/Windows6.1-KB2676562-x64.msu</url>
+  </update>
+  <update id="KB2690533" category="1" publishdate="2012-05-08" article="http://support.microsoft.com/kb/2690533">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2690533)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2690533-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/B/E/4BEE9153-6E53-4188-A395-E6821C2AE068/Windows6.1-KB2690533-x64.msu</url>
+  </update>
+  <update id="KB2685939" category="1" publishdate="2012-06-12" article="http://support.microsoft.com/kb/2685939">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2685939)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2685939-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/F/1/3F1FCAF7-324B-470C-B5BA-885429356646/Windows6.1-KB2685939-x64.msu</url>
+  </update>
+  <update id="KB2719985" category="1" publishdate="2012-07-10" article="http://support.microsoft.com/kb/2719985">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2719985)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2719985-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/8/D/D8D43434-BD84-490C-8D20-7FBCC5CCB02B/Windows6.1-KB2719985-x64.msu</url>
+  </update>
+  <update id="KB2698365" category="1" publishdate="2012-07-10" article="http://support.microsoft.com/kb/2698365">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2698365)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2698365-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/8/C/78CA3552-614E-4815-A64F-8701C568D72D/Windows6.1-KB2698365-x64.msu</url>
+  </update>
+  <update id="KB2655992" category="1" publishdate="2012-07-10" article="http://support.microsoft.com/kb/2655992">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2655992)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information.</description>
+    <filename>Windows6.1-KB2655992-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/A/B/AAB1006B-6183-4CC9-9578-ED3FD9206A98/Windows6.1-KB2655992-x64.msu</url>
+  </update>
+  <update id="KB2705219" category="1" publishdate="2012-10-09" article="http://support.microsoft.com/kb/2705219">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2705219)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2705219-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/6/3/A63606BF-8C8A-461C-BF68-1FF62C246B2F/Windows6.1-KB2705219-v2-x64.msu</url>
+  </update>
+  <update id="KB2712808" category="1" publishdate="2012-08-14" article="http://support.microsoft.com/kb/2712808">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2712808)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2712808-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/1/A/91AB8E84-599B-445A-BDE1-084601F1A6C8/Windows6.1-KB2712808-x64.msu</url>
+  </update>
+  <update id="KB2743555" category="1" publishdate="2012-10-09" article="http://support.microsoft.com/2743555">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2743555)</title>
+    <description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+    <filename>Windows6.1-KB2743555-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/E/E/CEED3C10-A903-4882-828A-D9EB48470378/Windows6.1-KB2743555-x64.msu</url>
+  </update>
+  <update id="KB2727528" category="1" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2727528">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2727528)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2727528-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/0/DB0B54E5-FEC6-4490-B3F4-67889F61F0BB/Windows6.1-KB2727528-x64.msu</url>
+  </update>
+  <update id="KB2770660" category="1" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2770660">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2770660)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2770660-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/9/2/4921DE99-341A-417E-9B30-75679E7DC26C/Windows6.1-KB2770660-x64.msu</url>
+  </update>
+  <update id="KB2757638" category="1" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2757638">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2757638)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2757638-x64.msu</filename>
+    <url>http://download.microsoft.com/download/0/E/A/0EAAF389-3C82-4815-BA59-D081FB6A2883/Windows6.1-KB2757638-x64.msu</url>
+  </update>
+  <update id="KB2807986" category="1" publishdate="2013-03-12" article="http://support.microsoft.com/kb/2807986">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2807986)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2807986-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/6/4/164999F1-E0E4-4725-8468-98466EFEEACF/Windows6.1-KB2807986-x64.msu</url>
+  </update>
+  <update id="KB2813347" category="1" publishdate="2013-04-09" article="http://support.microsoft.com/kb/2813347">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2813347)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2813347-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/2/7/62707A22-00F8-4742-9E10-C8E61DB92AD9/Windows6.1-KB2813347-x64.msu</url>
+  </update>
+  <update id="KB2840149" category="1" publishdate="2013-04-23" article="http://support.microsoft.com/kb/2840149">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2840149)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2840149-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/3/9/7393F2CE-7701-4CD6-9501-D10CF8AF680C/Windows6.1-KB2840149-x64.msu</url>
+  </update>
+  <update id="KB2839894" category="1" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2839894">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2839894)</title>
+    <description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2839894-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/6/B/26BA224E-DEA2-48F9-9C2E-EFB26C39706A/Windows6.1-KB2839894-x64.msu</url>
+  </update>
+  <update id="KB2813430" category="1" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2813430">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2813430)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2813430-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/D/B/FDB0E76D-2C15-45D1-A49B-BFB405008569/Windows6.1-KB2813430-x64.msu</url>
+  </update>
+  <update id="KB2835361" category="1" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2835361">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2835361)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected application to stop responding.</description>
+    <filename>Windows6.1-KB2835361-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/E/F/3EFA0CBA-C140-4931-BD3F-D7C4F7BA8E4C/Windows6.1-KB2835361-x64.msu</url>
+  </update>
+  <update id="KB2847927" category="1" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2847927">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2847927)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2847927-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/D/C/7DC58284-AFC4-4122-A89D-F1E8B299C456/Windows6.1-KB2847927-x64.msu</url>
+  </update>
+  <update id="KB2862966" category="1" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2862966">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2862966)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2862966-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/8/2/E8245CAE-CA46-42AA-BA0B-F3AA49C58DBA/Windows6.1-KB2862966-x64.msu</url>
+  </update>
+  <update id="KB2872339" category="1" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2872339">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2872339)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2872339-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/C/C/DCCDA3B5-979F-4A30-AD73-1B20F8787F86/Windows6.1-KB2872339-x64.msu</url>
+  </update>
+  <update id="KB2855844" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2855844">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2855844)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2855844-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/1/9/119C035E-EC45-4C84-941F-BCD4D016F2C3/Windows6.1-KB2855844-x64.msu</url>
+  </update>
+  <update id="KB2862330" category="1" publishdate="2014-01-14" article="http://support.microsoft.com/kb/2862330">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2862330)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2862330-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/8/1/9813DB15-46A9-4B6C-BFE4-1D25EEE5ECF3/Windows6.1-KB2862330-v2-x64.msu</url>
+  </update>
+  <update id="KB2862335" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2862335">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2862335)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2862335-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/4/B/B4B92AF3-413E-4BCC-93A9-B78E02793B3F/Windows6.1-KB2862335-x64.msu</url>
+  </update>
+  <update id="KB2864202" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2864202">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2864202)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2864202-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/7/B/27B4F057-34A8-41C3-BBD2-9F07AB18D93C/Windows6.1-KB2864202-x64.msu</url>
+  </update>
+  <update id="KB2868038" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2868038">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2868038)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2868038-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/E/D/DED978C0-ED29-4240-9DCE-038107D70142/Windows6.1-KB2868038-x64.msu</url>
+  </update>
+  <update id="KB2884256" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2884256">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2884256)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2884256-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/8/0/7806CC4F-1924-4D37-8B14-C01BD3F04CBC/Windows6.1-KB2884256-x64.msu</url>
+  </update>
+  <update id="KB2864058" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2864058">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2864058)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2864058-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/3/D/23DD9778-0B95-442C-B6DB-F576A869CE29/Windows6.1-KB2864058-x64.msu</url>
+  </update>
+  <update id="KB2876331" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2876331">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2876331)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2876331-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/E/C/CEC5C4B4-3257-4295-9CF2-48D791006D62/Windows6.1-KB2876331-x64.msu</url>
+  </update>
+  <update id="KB2900986" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2900986">
+    <title>Cumulative Security Update for ActiveX Killbits for Windows 7 SP1 for x64-based Systems (KB2900986)</title>
+    <description>Security issues have been identified in Active X controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it</description>
+    <filename>Windows6.1-KB2900986-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/D/9/5D93E83F-F5B8-42D6-87F5-73F3B10D8D87/Windows6.1-KB2900986-x64.msu</url>
+  </update>
+  <update id="KB2868626" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2868626">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2868626)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2868626-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/6/7/867F988B-F418-4E8A-9CAD-0373A56FC9E2/Windows6.1-KB2868626-x64.msu</url>
+  </update>
+  <update id="KB2893294" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2893294">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2893294)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2893294-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/8/B/68BCB233-1658-49C3-917A-587F75F571A5/Windows6.1-KB2893294-x64.msu</url>
+  </update>
+  <update id="KB2892074" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2892074">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2892074)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2892074-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/1/5/51562664-BB62-436E-A051-1C130F38D384/Windows6.1-KB2892074-x64.msu</url>
+  </update>
+  <update id="KB2887069" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2887069">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2887069)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2887069-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/A/2/CA2B4DC8-5485-4B66-92E3-31EDD24534A9/Windows6.1-KB2887069-x64.msu</url>
+  </update>
+  <update id="KB2909210" category="1" publishdate="2014-02-11" article="http://support.microsoft.com/kb/2909210">
+    <title>Security Update for Internet Explorer 11 for Windows 7 for x64-based Systems (KB2909210)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>IE11-Windows6.1-KB2909210-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/E/4/BE4591E2-6F53-4405-94EB-DB932924EADA/IE11-Windows6.1-KB2909210-x64.msu</url>
+  </update>
+  <update id="KB2912390" category="1" publishdate="2014-02-11" article="http://support.microsoft.com/kb/2912390">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2912390)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2912390-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/E/D/AEDDD34E-EB10-4D54-9B68-250667EF7A8B/Windows6.1-KB2912390-x64.msu</url>
+  </update>
+  <update id="KB2922229" category="1" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2922229">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2922229)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2922229-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/E/D/EED6BD68-058C-404B-8F68-9DF884B3C06C/Windows6.1-KB2922229-x64.msu</url>
+  </update>
+  <update id="KB2871997" category="1" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2871997">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2871997)</title>
+    <description>Update to fix the Pass-The-Hash Vulnerability</description>
+    <filename>Windows6.1-KB2871997-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/7/7/C77BDB45-54E4-485E-82EB-2F424113AA12/Windows6.1-KB2871997-v2-x64.msu</url>
+  </update>
+  <update id="KB2957503" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2957503">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2957503)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2957503-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/4/9/E49FD80C-A0CB-491E-A04A-9A277D360847/Windows6.1-KB2957503-x64.msu</url>
+  </update>
+  <update id="KB2957509" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2957509">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2957509)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2957509-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/7/9/B79B8BBF-D964-42BD-B042-8A9B59AE24B9/Windows6.1-KB2957509-x64.msu</url>
+  </update>
+  <update id="KB2939576" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2939576">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2939576)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2939576-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/B/6/8B66B650-C60F-4225-A79E-63063F1E9741/Windows6.1-KB2939576-x64.msu</url>
+  </update>
+  <update id="KB2957189" category="1" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2957189">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2957189)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding.</description>
+    <filename>Windows6.1-KB2957189-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/7/1/271A0F7C-55C0-4C60-ADA2-9E99F738F05F/Windows6.1-KB2957189-x64.msu</url>
+  </update>
+  <update id="KB2961072" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2961072">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2961072)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2961072-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/5/9/259B20C9-0A0A-4E4B-B82F-05B6FE7288A7/Windows6.1-KB2961072-x64.msu</url>
+  </update>
+  <update id="KB2972280" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2972280">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2972280)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2972280-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/E/3/2E31F540-1B35-4D83-9767-EF587CAE06F3/Windows6.1-KB2972280-x64.msu</url>
+  </update>
+  <update id="KB2973201" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2973201">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2973201)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2973201-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/6/9/36913442-62B2-4115-8D60-EE379CE4A881/Windows6.1-KB2973201-x64.msu</url>
+  </update>
+  <update id="KB2971850" category="1" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2971850">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2971850)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2971850-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/D/0/CD0EB3EA-8720-4647-A353-EA563B4C5104/Windows6.1-KB2971850-x64.msu</url>
+  </update>
+  <update id="KB2978742" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2978742">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2978742) - Home Premium or higher only.</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2978742-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/3/B/73BECB5F-F5C9-4802-B7DF-AEEC7508AF9E/Windows6.1-KB2978742-x64.msu</url>
+  </update>
+  <update id="KB2976897" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2976897">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2976897)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2976897-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/E/E/FEE248F9-EE9A-40C1-9683-7A23D65AF426/Windows6.1-KB2976897-x64.msu</url>
+  </update>
+  <update id="KB2918614" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2918614">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2918614)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2918614-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/4/9/94917BD5-F8E1-4CD9-AFC3-E9BD5CE041EB/Windows6.1-KB2918614-x64.msu</url>
+  </update>
+  <update id="KB2978668" category="1" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2978668">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2978668)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2978668-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/8/A/58AB6A71-2A23-4564-8BBE-771491073EE4/Windows6.1-KB2978668-x64.msu</url>
+  </update>
+  <update id="KB2993651" category="1" publishdate="2014-08-27" article="http://support.microsoft.com/kb/2993651">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2993651)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2993651-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/D/E/1DEBDD12-42FE-4931-BB8F-9F5D6C47E358/Windows6.1-KB2993651-x64.msu</url>
+  </update>
+  <update id="KB2977292" category="1" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2977292">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2977292)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2977292-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/3/E/C3E70E3A-E9F9-4BC2-8452-FAC21EDA04B4/Windows6.1-KB2977292-x64.msu</url>
+  </update>
+  <update id="KB3006226" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3006226">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3006226)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3006226-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/A/5/9A5751B2-78B2-4ED0-8B6C-C1392BE80192/Windows6.1-KB3006226-x64.msu</url>
+  </update>
+  <update id="KB3010788" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3010788">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3010788)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3010788-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/B/D/6BD3C805-FCF8-477F-9E3D-C62400A19C41/Windows6.1-KB3010788-x64.msu</url>
+  </update>
+  <update id="KB2992611" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2992611">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2992611)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2992611-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/2/8/828063ED-DEF2-415A-B39F-F0CB06C4BDE4/Windows6.1-KB2992611-x64.msu</url>
+  </update>
+  <update id="KB2993958" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2993958">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2993958)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2993958-x64.msu</filename>
+    <url>http://download.microsoft.com/download/0/9/0/090571D8-1045-4032-9710-96C8847D2F5B/Windows6.1-KB2993958-x64.msu</url>
+  </update>
+  <update id="KB3005607" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3005607">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3005607)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3005607-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/6/5/865EB6BB-1CB8-495D-8765-18B25C5CC058/Windows6.1-KB3005607-x64.msu</url>
+  </update>
+  <update id="KB2991963" category="1" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2991963">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB2991963)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB2991963-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/6/9/C6997FC5-FBD6-40F6-AA11-3ABBB25B6DA4/Windows6.1-KB2991963-x64.msu</url>
+  </update>
+  <update id="KB3011780" category="1" publishdate="2014-11-26" article="http://support.microsoft.com/kb/3011780">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3011780)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3011780-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/C/3/CC36FA0C-974B-444A-B2C6-8E368250E37F/Windows6.1-KB3011780-x64.msu</url>
+  </update>
+  <update id="KB3020393" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3020393">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3020393)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3020393-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/4/1/241DF738-6353-47DD-9F25-ECD08DF4EB4E/Windows6.1-KB3020393-x64.msu</url>
+  </update>
+  <update id="KB3021674" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3021674">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3021674)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3021674-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/3/5/1356D28A-3FE3-461D-BFCF-EEFDC97E023A/Windows6.1-KB3021674-x64.msu</url>
+  </update>
+  <update id="KB3022777" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3022777">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3022777)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3022777-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/2/B/F2B99C41-B715-41B4-BCC6-AA9452CDBCAC/Windows6.1-KB3022777-x64.msu</url>
+  </update>
+  <update id="KB3019215" category="1" publishdate="2015-01-13" article="http://support.microsoft.com/kb/3019215">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3019215)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3019215-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/0/0/B00060B6-50C5-4035-8751-AADEFC6274A2/Windows6.1-KB3019215-x64.msu</url>
+  </update>
+  <update id="KB3013455" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3013455">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3013455)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3013455-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/2/F/72FB0EF2-89C3-49E9-9239-EAC73D4DC793/Windows6.1-KB3013455-x64.msu</url>
+  </update>
+  <update id="KB3004361" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3004361">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3004361)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3004361-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/E/C/4EC83CC7-1CF7-46C0-80FE-627412DDAC8C/Windows6.1-KB3004361-x64.msu</url>
+  </update>
+  <update id="KB3000483" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3000483">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3000483)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3000483-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/F/6/6F62CAF4-4212-4FB8-9CA3-8E80CFFE843B/Windows6.1-KB3000483-x64.msu</url>
+  </update>
+  <update id="KB3031432" category="1" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3031432">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3031432)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3031432-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/D/E/DDEEA567-71E7-40A1-A77D-47A305233B4C/Windows6.1-KB3031432-x64.msu</url>
+  </update>
+  <update id="KB3032323" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/3032323">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3032323)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB3032323-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/B/9/8B94592D-2B5E-45C4-8629-879E8475035C/Windows6.1-KB3032323-x64.msu</url>
+  </update>
+  <update id="KB3039066" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3039066">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3039066)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB3039066-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/C/E/ECE4F3DE-7082-4AFD-ACC5-58B272226F1E/Windows6.1-KB3039066-x64.msu</url>
+  </update>
+  <update id="KB3034344" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3034344">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3034344)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3034344-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/A/1/8A18A3F6-1111-4368-9E0B-63650A7153BA/Windows6.1-KB3034344-x64.msu</url>
+  </update>
+  <update id="KB3035132" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035132">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3035132)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3035132-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/7/E/F7E65399-210C-4C34-A9FB-EE9DBEB75308/Windows6.1-KB3035132-x64.msu</url>
+  </update>
+  <update id="KB3033889" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3033889">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3033889)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3033889-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/0/3/4036066C-0FDD-4BFB-8996-3FD608E54FE5/Windows6.1-KB3033889-x64.msu</url>
+  </update>
+  <update id="KB3030377" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3030377">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3030377)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3030377-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/6/8/2683BA9C-FDBF-485C-9D3B-14AEF0603E52/Windows6.1-KB3030377-x64.msu</url>
+  </update>
+  <update id="KB3035126" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3035126">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3035126)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3035126-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/4/7/F476042F-AD08-4248-9E93-97A3959978D2/Windows6.1-KB3035126-x64.msu</url>
+  </update>
+  <update id="KB3046049" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3046049">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3046049)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3046049-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/5/E/45E70786-8424-4D69-A3C1-0A1E540CA4D1/Windows6.1-KB3046049-x64.msu</url>
+  </update>
+  <update id="KB3033929" category="1" publishdate="2015-03-10" article="http://support.microsoft.com/kb/3033929">
+    <title>Security Update for Windows 7 Service Pack 1 for x64-based Systems (KB3033929)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows6.1-KB3033929-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/8/7/C87AE67E-A228-48FB-8F02-B2A9A1238099/Windows6.1-KB3033929-x64.msu</url>
+  </update>
+ 
+  <update id="KB2820197" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820197">
+    <title>Update Rollup for ActiveX Kill Bits in Windows 7 Service Pack 1 for x64-based Systems (KB2820197)</title>
+    <description>Microsoft is releasing a new set of ActiveX kill bits with this update.</description>
+    <filename>Windows6.1-KB2820197-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/F/4/BF4A5CEC-9052-418A-9DF3-6376D57CADA7/Windows6.1-KB2820197-x64.msu</url>
+  </update>
+  <update id="KB917607" category="2" publishdate="2009-10-14" article="http://support.microsoft.com/kb/917607">
+    <title>Windows Help program for Windows 7 Service Pack 1 x64 Edition (KB917607)</title>
+    <description>WinHlp32.exe is required to display 32-bit Help files that have the ".hlp" file name extension. To view .hlp files on Windows 7, you need to install this application.</description>
+    <filename>Windows6.1-KB917607-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/A/8/9A8FCFAA-78A0-49F5-8C8E-4EAE185F515C/Windows6.1-KB917607-x64.msu</url>
+  </update>
+  <update id="KB2820331" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2820331">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2820331)</title>
+    <description>Install this update to resolve a set of known application compatibility issues with Windows.</description>
+    <filename>Windows6.1-KB2820331-x64.msu</filename>
+    <url>http://download.microsoft.com/download/0/5/4/05469CB4-1642-4AC9-88F5-13DF7184EF83/Windows6.1-KB2820331-x64.msu</url>
+  </update>
+  <update id="KB3013410" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3013410">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3013410)</title>
+    <description>Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries.</description>
+    <filename>Windows6.1-KB3013410-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/9/1/B91B7115-9BB5-4A5A-91B3-B3FCA04448C8/Windows6.1-KB3013410-x64.msu</url>
+  </update>
+  <update id="KB2496898" category="2" publishdate="2011-03-23" article="http://support.microsoft.com/kb/2496898">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2496898)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2496898-v3-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/2/A/92A8E437-3C72-4AAC-91DF-AC0C834EC15E/Windows6.1-KB2496898-v3-x64.msu</url>
+  </update>
+  <update id="KB2506014" category="2" publishdate="2011-04-12" article="http://support.microsoft.com/kb/2506014">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2506014)</title>
+    <description>An issue has been identified that could allow a user with administrative permissions to load an unsigned driver.</description>
+    <filename>Windows6.1-KB2506014-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/8/5/98578ACE-4837-437E-B51B-E4C4C8DFE7AB/Windows6.1-KB2506014-x64.msu</url>
+  </update>
+  <update id="KB2487335" category="2" publishdate="2011-04-27" article="http://support.microsoft.com/kb/2487335">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2487335)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2487335-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/8/5/F85339D6-7D70-4011-AB3B-32E3EF8DAA75/Windows6.1-KB2487335-x64.msu</url>
+  </update>
+  <update id="KB2506628" category="2" publishdate="2011-04-27" article="http://support.microsoft.com/kb/2506628">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2506628)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2506628-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/5/C/25CD0C0B-4961-4682-A480-097950FD63B1/Windows6.1-KB2506628-x64.msu</url>
+  </update>
+  <update id="KB2506928" category="2" publishdate="2011-04-27" article="http://support.microsoft.com/kb/2506928">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2506928)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2506928-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/6/A/C6A29C4E-6D54-4948-849B-169A3D4BCBEC/Windows6.1-KB2506928-v2-x64.msu</url>
+  </update>
+  <update id="KB982018" category="2" publishdate="2011-04-27" article="http://support.microsoft.com/kb/982018">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB982018)</title>
+    <description>This is a reliability update. This update resolves some performance and reliability issues in Windows.</description>
+    <filename>Windows6.1-KB982018-v3-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/B/3/8B3051B2-98ED-4CE5-9356-CB5567E5F277/Windows6.1-KB982018-v3-x64.msu</url>
+  </update>
+  <update id="KB2515325" category="2" publishdate="2011-04-27" article="http://support.microsoft.com/kb/2515325">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2515325)</title>
+    <description>This is a reliability update. This update resolves some performance and reliability issues in Windows.</description>
+    <filename>Windows6.1-KB2515325-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/8/5/E85F37EC-893C-481C-B549-0FA3D87D4981/Windows6.1-KB2515325-x64.msu</url>
+  </update>
+  <update id="KB2529073" category="2" publishdate="2011-05-10" article="http://support.microsoft.com/kb/2529073">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2529073)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2529073-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/3/9/C39E04F2-5D38-4FE6-A3AF-F54C9B17D627/Windows6.1-KB2529073-x64.msu</url>
+  </update>
+  <update id="KB2533552" category="2" publishdate="2011-05-10" article="http://support.microsoft.com/kb/2533552">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2533552)</title>
+    <description>Install this update to enable future updates to install successfully on all editions of Windows 7 SP1.</description>
+    <filename>Windows6.1-KB2533552-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/6/F/B6F95B10-8B74-42F2-B57A-2C559D43BC28/Windows6.1-KB2533552-x64.msu</url>
+  </update>
+  <update id="KB2552343" category="2" publishdate="2011-06-28" article="http://support.microsoft.com/kb/2552343">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2552343)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2552343-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/5/7/D57327BE-8B15-4ADE-86BE-833BFBF3DDA5/Windows6.1-KB2552343-x64.msu</url>
+  </update>
+  <update id="KB2547666" category="2" publishdate="2011-06-28" article="http://support.microsoft.com/kb/2547666">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2547666)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2547666-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/E/4/EE4DA494-C870-409B-8938-05305BF52BA8/Windows6.1-KB2547666-x64.msu</url>
+  </update>
+  <update id="KB2545698" category="2" publishdate="2011-06-28" article="http://support.microsoft.com/kb/2545698">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2545698)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2545698-x64.msu</filename>
+    <url>http://download.microsoft.com/download/0/5/6/05675ADF-21AB-4476-8731-95182643D02C/Windows6.1-KB2545698-x64.msu</url>
+  </update>
+  <update id="KB2563227" category="2" publishdate="2011-08-09" article="http://support.microsoft.com/kb/2563227">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2563227)</title>
+    <description>Install this update to resolve performance and reliability issues in Windows.</description>
+    <filename>Windows6.1-KB2563227-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/1/E/C1E365E2-60BD-4E26-8860-A46CA57E742E/Windows6.1-KB2563227-x64.msu</url>
+  </update>
+  <update id="KB2604521" category="2" publishdate="2011-10-11" article="http://support.microsoft.com/kb/2604521">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2604521)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2604521-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/F/8/5F8CD7F6-70FC-4C42-A6F8-0188FE811D1D/Windows6.1-KB2604521-v2-x64.msu</url>
+  </update>
+  <update id="KB2603229" category="2" publishdate="2011-10-26" article="http://support.microsoft.com/kb/2603229">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2603229)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2603229-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/5/9/959A7CAA-CBC1-44F9-B81E-A74348599ABC/Windows6.1-KB2603229-x64.msu</url>
+  </update>
+  <update id="KB2618301" category="2" publishdate="2011-10-27" article="http://support.microsoft.com/kb/2618301">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2618301)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2618301-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/F/8/4F8E9705-DC88-4525-A329-3A82EF4878F0/Windows6.1-KB2618301-x64.msu</url>
+  </update>
+  <update id="KB2607047" category="2" publishdate="2011-12-18" article="http://support.microsoft.com/kb/2607047">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2607047)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2607047-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/0/1/D01D3E95-5D2E-4B67-9E08-22A7739153BE/Windows6.1-KB2607047-x64.msu</url>
+  </update>
+  <update id="KB2624668" category="2" publishdate="2012-01-26" article="http://support.microsoft.com/kb/2624668">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2624668)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2624668-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/F/4/BF442675-B4E1-4B9B-9DEA-AB5158CCF1B4/Windows6.1-KB2624668-x64.msu</url>
+  </update>
+  <update id="KB2640148" category="2" publishdate="2012-02-14" article="http://support.microsoft.com/kb/2640148">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2640148)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2640148-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/A/3/7A35B927-17F6-4B09-88C7-6AC1E51CD246/Windows6.1-KB2640148-v2-x64.msu</url>
+  </update>
+  <update id="KB2660075" category="2" publishdate="2012-02-14" article="http://support.microsoft.com/kb/2660075">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2660075)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2660075-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/B/A/8BA69AF5-EE03-4DD8-A268-17D2EDE81591/Windows6.1-KB2660075-x64.msu</url>
+  </update>
+  <update id="KB2657025" category="2" publishdate="2012-02-14" article="http://support.microsoft.com/kb/2657025">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2657025)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2657025-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/6/9/1697A4E1-75C5-4627-B6BD-1DFC38C75C41/Windows6.1-KB2657025-x64.msu</url>
+  </update>
+  <update id="KB2640696" category="2" publishdate="2012-02-14" article="http://support.microsoft.com/kb/2640696">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2640696)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2640696-v3-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/1/5/815B9EC7-E3C6-4685-8AE8-6C7318D36ABA/Windows6.1-KB2640696-v3-x64.msu</url>
+  </update>
+  <update id="KB2709630" category="2" publishdate="2012-06-12" article="http://support.microsoft.com/kb/2709630">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2709630)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2709630--x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/2/7/B27ADB52-39F0-460D-A4F3-B4DF46AD7109/Windows6.1-KB2709630-x64.msu</url>
+  </update>
+  <update id="KB3001554" category="2" publishdate="2014-10-01" article="http://support.microsoft.com/kb/3001554">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3001554)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB3001554-x64.msu</filename>
+    <url>http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/09/windows6.1-kb3001554-x64_cd3974dae38a98a8458d5926ff831b834e057fa1.msu</url>
+  </update>
+  <update id="KB2729094" category="2" publishdate="2012-10-09" article="http://support.microsoft.com/kb/2729094">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2729094)</title>
+    <description>This article introduces an update to the Segoe UI symbol font in Windows 7. This update adds support for emoji characters and some control glyphs that are included in Windows 8</description>
+    <filename>Windows6.1-KB2729094-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/C/A/6CA15546-A46C-4333-B405-AB18785ABB66/Windows6.1-KB2729094-v2-x64.msu</url>
+  </update>
+  <update id="KB2647753" category="2" publishdate="2012-08-14" article="http://support.microsoft.com/kb/2647753">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2647753)</title>
+    <description>Microsoft has released an update rollup for the printing core components that are included in Windows 7.</description>
+    <filename>Windows6.1-KB2647753-v4-x64.msu</filename>
+    <url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows6.1-kb2647753-v4-x64_ca4e3f204c16f2ca28523d855f06fb4fa0d61ec7.msu</url>
+  </update>
+  <update id="KB2732487" category="2" publishdate="2012-10-09" article="http://support.microsoft.com/kb/2732487">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2732487)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2732487-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/A/4/5A4804FE-98EF-4CBD-BE38-F42695CD4DBA/Windows6.1-KB2732487-v2-x64.msu</url>
+  </update>
+  <update id="KB2732500" category="2" publishdate="2012-10-09" article="http://support.microsoft.com/kb/2732500">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2732500)</title>
+    <description>E_UNEXPECTED 0x8000ffff" error when you try to restore a system by using System Recovery Options in Windows 7</description>
+    <filename>Windows6.1-KB2732500-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/2/B/32BAAD6D-ACB1-4CC4-99BC-02B85310D9A0/Windows6.1-KB2732500-v2-x64.msu</url>
+  </update>
+  <update id="KB2719857" category="2" publishdate="2012-09-11" article="http://support.microsoft.com/kb/2719857">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2719857)</title>
+    <description>You cannot use an USB RNDIS device to connect to a 3G or 4G network in Windows 7.</description>
+    <filename>Windows6.1-KB2719857-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/C/8/BC817857-90FA-4D72-AF11-C305B753162D/Windows6.1-KB2719857-x64.msu</url>
+  </update>
+  <update id="KB2741355" category="2" publishdate="2012-09-11" article="http://support.microsoft.com/kb/2741355">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2741355)</title>
+    <description>You cannot start Windows Live Movie Maker 2012 when a graphics card that only supports DirectX 9 is installed on a Windows 7.</description>
+    <filename>Windows6.1-KB2741355-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/0/6/20651C1D-0847-4573-AF6F-5CBF9639977B/Windows6.1-KB2741355-x64.msu</url>
+  </update>
+  <update id="KB2732059" category="2" publishdate="2012-09-25" article="http://support.microsoft.com/kb/2732059">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2732059)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2732059-v5-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/6/1/F616B4DD-57F5-4866-9BE7-FB9C410756E1/Windows6.1-KB2732059-v5-x64.msu</url>
+  </update>
+  <update id="KB2685811" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2685811">
+    <title>Update for Kernel-Mode Driver Framework version 1.11 for Windows 7 for x64-based Systems (KB2685811)</title>
+    <description>Installs Kernel-Mode Driver Framework (KMDF) version 1.11 on Windows 7.</description>
+    <filename>Windows6.1-KB2685811-x64.msu</filename>
+    <url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2685811-x64_191e09df632b70fd4f4b27d4cb9227f7c5a1c98c.msu</url>
+  </update>
+  <update id="KB2685813" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2685813">
+    <title>Update for User-Mode Driver Framework version 1.11 for Windows 7 for x64-based Systems (KB2685813)</title>
+    <description>Installs User-Mode Driver Framework (UMDF) version 1.11 on Windows 7.</description>
+    <filename>Windows6.1-KB2685813-x64.msu</filename>
+    <url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/11/windows6.1-kb2685813-x64_22a969bada171678b0936bb320e6a7778e8adc07.msu</url>
+  </update>
+  <update id="KB2750841" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2750841">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2750841)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2750841-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/4/B/A4B08AA8-01A6-4C85-A209-DBB86E1A9CE2/Windows6.1-KB2750841-x64.msu</url>
+  </update>
+  <update id="KB2761217" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2761217">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2761217)</title>
+    <description>An update is available that adds Calibri Light and Calibri Light Italic fonts to Windows 7</description>
+    <filename>Windows6.1-KB2761217-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/5/F/D5F8011E-9096-4C46-A74D-5E0F3F564082/Windows6.1-KB2761217-x64.msu</url>
+  </update>
+  <update id="KB2763523" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2763523">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2763523)</title>
+    <description>No network connectivity on Windows 7-based computers when a DHCPv6 message is sent that has a duplicated DUID.</description>
+    <filename>Windows6.1-KB2763523-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/F/D/FFDB226A-7E9D-4046-AD99-4003DFC054F8/Windows6.1-KB2763523-x64.msu</url>
+  </update>
+  <update id="KB2760730" category="2" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2760730">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2760730)</title>
+    <description>Description of an update rollup that resolves interoperation issues in Windows 7.</description>
+    <filename>Windows6.1-KB2760730-v2-x64.msu</filename>
+    <url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows6.1-kb2760730-v2-x64_f81ebb1bd8c07fb793c98ab1aebb2e68986b9e52.msu</url>
+  </update>
+  <update id="KB2798897" category="2" publishdate="2013-01-03" article="http://support.microsoft.com/kb/2798897">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2798897)</title>
+    <description>Install this update to resolve an issue which requires an update to the untrusted certificate store on Windows systems and to keep your systems up to date.</description>
+    <filename>rvkroots.exe</filename>
+    <url>http://download.microsoft.com/download/4/6/C/46C2EDE9-4CA4-4BED-9E2D-65934FA19407/rvkroots.exe</url>
+  </update>
+  <update id="KB2726535" category="2" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2726535">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2726535)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2726535-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/C/7/FC727B5E-1F51-4DEF-9085-C3707A6E0FD6/Windows6.1-KB2726535-x64.msu</url>
+  </update>
+  <update id="KB2773072" category="2" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2773072">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2773072)</title>
+    <description>Update changes the game rating systems in Windows 7</description>
+    <filename>Windows6.1-KB2773072-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/D/E/9DE7F67E-E7E4-4206-BE95-256C99F4A9A6/Windows6.1-KB2773072-x64.msu</url>
+  </update>
+  <update id="KB2786081" category="2" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2786081">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2786081)</title>
+    <description>Internet Explorer 11 does not save credentials for a website after you log off or restart a computer that is running Windows 7 SP1</description>
+    <filename>Windows6.1-KB2786081-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/8/F/18F9AE2C-4A10-417A-8408-C205420C22C3/Windows6.1-KB2786081-x64.msu</url>
+  </update>
+  <update id="KB2670838" category="2" publishdate="2013-02-26" article="http://support.microsoft.com/kb/2670838">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2670838)</title>
+    <description>The Platform Update for Windows 7 enables improved features and performance on Windows 7 SP1</description>
+    <filename>Windows6.1-KB2670838-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/4/9/14936FE9-4D16-4019-A093-5E00182609EB/Windows6.1-KB2670838-x64.msu</url>
+  </update>
+  <update id="KB2775511" category="2" publishdate="2013-03-12" article="http://support.microsoft.com/kb/2775511">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2775511) </title>
+    <description>An enterprise hotfix rollup is available for Windows 7 SP1.</description>
+    <filename>Windows6.1-KB2775511-v2-x64.msu</filename>
+    <url>http://download.windowsupdate.com/msdownload/update/software/updt/2013/03/windows6.1-kb2775511-v2-x64_ec18cc10e27faf443c17e7a8073c9eba773eb13e.msu</url>
+  </update>
+  <update id="KB2791765" category="2" publishdate="2013-03-12" article="http://support.microsoft.com/kb/2791765">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2791765)</title>
+    <description>Install this update to resolve a set of known application compatibility issues with Windows.</description>
+    <filename>Windows6.1-KB2791765-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/A/2/2A2AF2E6-68FB-4BC9-8F1F-FB4C5284820B/Windows6.1-KB2791765-x64.msu</url>
+  </update>
+  <update id="KB2799926" category="2" publishdate="2013-04-09" article="http://support.microsoft.com/kb/2799926">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2799926)</title>
+    <description>USB storage device cannot be recognized or mounted on a computer that is running Windows 7.</description>
+    <filename>Windows6.1-KB2799926-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/B/B/ABB49F74-CADB-44DD-B2E2-08F41A040BDF/Windows6.1-KB2799926-x64.msu</url>
+  </update>
+  <update id="KB2823180" category="2" publishdate="2013-04-09" article="http://support.microsoft.com/kb/2823180">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2823180)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2823180-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/1/5/E151C8BB-048D-452D-84D2-7DBB6018D1D0/Windows6.1-KB2823180-x64.msu</url>
+  </update>
+  <update id="KB2798162" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2798162">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2798162)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2798162-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/6/4/5647087D-1CBE-4D57-A8DF-CA60B5F44C22/Windows6.1-KB2798162-x64.msu</url>
+  </update>
+  <update id="KB2835174" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2835174">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2835174)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2835174-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/0/4/A04AF6F9-E174-41D3-A7D6-373B8232723A/Windows6.1-KB2835174-x64.msu</url>
+  </update>
+  <update id="KB2808679" category="2" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2808679">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2808679)</title>
+    <description>Install this update to keep your system up to date by increasing the minimum level of encryption on Windows systems.</description>
+    <filename>Windows6.1-KB2808679-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/2/0/E2006A68-3BE4-4B09-A87F-01B978F209FB/Windows6.1-KB2808679-x64.msu</url>
+  </update>
+  <update id="KB2829104" category="2" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2829104">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2829104)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows6.1-KB2829104-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/7/C/77C58D14-F109-4278-AF06-AC33CF817045/Windows6.1-KB2829104-x64.msu</url>
+  </update>
+  <update id="KB2853952" category="2" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2853952">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2853952)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2853952-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/2/3/523D58C1-38BF-4741-858F-0E0812BC7E67/Windows6.1-KB2853952-x64.msu</url>
+  </update>
+  <update id="KB2868116" category="2" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2868116">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2868116)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2868116-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/6/7/667A4929-C963-4E6A-8C8C-3FCE3B807ADD/Windows6.1-KB2868116-x64.msu</url>
+  </update>
+  <update id="KB2846960" category="2" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2846960">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2846960)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2846960-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/6/B/E6BCFFD9-B34B-4ADC-90E6-5F106A4A152C/Windows6.1-KB2846960-x64.msu</url>
+  </update>
+  <update id="KB2834140" category="2" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2834140">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2834140)</title>
+    <description>"0x00000050" Stop error after you install update KB2670838 on a computer that is running Windows 7 SP1</description>
+    <filename>Windows6.1-KB2834140-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/A/5/5A548BFE-ADC5-414B-B6BD-E1EC27A8DD80/Windows6.1-KB2834140-v2-x64.msu</url>
+  </update>
+  <update id="KB2852386" category="2" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2852386">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2852386)</title>
+    <description>Update is available that enables you to delete outdated Windows updates by using a new option in the Disk Cleanup wizard in Windows 7 SP1</description>
+    <filename>Windows6.1-KB2852386-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/9/6/E96EA9AF-BF03-4762-95FA-B4F6950075F6/Windows6.1-KB2852386-x64.msu</url>
+  </update>
+  <update id="KB2888049" category="2" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2888049">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2888049)</title>
+    <description>Network connection is slow when you run a WFP-based application on a computer that is running Windows 7.</description>
+    <filename>Windows6.1-KB2888049-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/1/3/41321D2E-2D08-4699-A635-D9828AADB177/Windows6.1-KB2888049-x64.msu</url>
+  </update>
+  <update id="KB2893519" category="2" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2893519">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2893519)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2893519-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/5/E/65E4EB59-B6D8-4374-9C40-A3B4BB7CA2F7/Windows6.1-KB2893519-x64.msu</url>
+  </update>
+  <update id="KB2891804" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2891804">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2891804)</title>
+    <description>Files or folders are removed unexpectedly when you perform a cut-and-paste operation on a Windows FTP client that is connected to an FTP site</description>
+    <filename>Windows6.1-KB2891804-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/9/B/39BBC1FC-8105-4D59-89F1-5D7C35164D53/Windows6.1-KB2891804-x64.msu</url>
+  </update>
+  <update id="KB2905454" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2905454">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2905454)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2905454-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/E/E/1EEFCC06-739C-4D5F-B8B0-650239BAA108/Windows6.1-KB2905454-x64.msu</url>
+  </update>
+  <update id="KB2913152" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2913152">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2913152)</title>
+    <description>Windows Photo Viewer prints white lines when you use an XPS driver to print photos in Windows 7</description>
+    <filename>Windows6.1-KB2913152-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/1/7/917D1F71-674F-46F3-92F0-8B9600BDC8D5/Windows6.1-KB2913152-v2-x64.msu</url>
+  </update>
+  <update id="KB2843630" category="2" publishdate="2014-02-11" article="http://support.microsoft.com/kb/2843630">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2843630)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2843630-v3-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/7/E/37E1DA8F-DD6C-4CB5-ADEE-C0F28859C42E/Windows6.1-KB2843630-v3-x64.msu</url>
+  </update>
+  <update id="KB2919469" category="2" publishdate="2014-02-11" article="http://support.microsoft.com/kb/2919469">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2919469)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2919469-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/D/7/2D7B1021-976C-42AB-B098-0BBA02823C82/Windows6.1-KB2919469-x64.msu</url>
+  </update>
+  <update id="KB2918077" category="2" publishdate="2014-03-11" article="http://support.microsoft.com/kb/2918077">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2918077)</title>
+    <description>VAN UI freezes after KB2813956 is applied in Windows 7</description>
+    <filename>Windows6.1-KB2918077-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/7/E/C7E1F4E8-DA23-400A-AD80-E3D9637006AD/Windows6.1-KB2918077-x64.msu</url>
+  </update>
+  <update id="KB2929733" category="2" publishdate="2014-03-11" article="http://support.microsoft.com/kb/2929733">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2929733)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2929733-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/A/3/EA3D2F31-38E0-473E-BF09-6DFDF4BE1CD0/Windows6.1-KB2929733-x64.msu</url>
+  </update>
+  <update id="KB2929755" category="2" publishdate="2014-03-11" article="http://support.microsoft.com/kb/2929755">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2929755)</title>
+    <description>Out of memory when you load some image resources in a Windows application</description>
+    <filename>Windows6.1-KB2929755-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/B/8/BB89FFEF-6DB2-4B96-99A6-A8410B6FB802/Windows6.1-KB2929755-x64.msu</url>
+  </update>
+  <update id="KB2800095" category="2" publishdate="2014-06-10" article="http://support.microsoft.com/kb/2800095">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2800095)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2800095-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/4/C/E4C60738-273D-473C-BF19-A4701EA1E8DD/Windows6.1-KB2800095-v2-x64.msu</url>
+  </update>
+  <update id="KB2928562" category="2" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2928562">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2928562)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2928562-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/6/B/E6BAE232-6495-42B4-86AD-E3E50E381B0F/Windows6.1-KB2928562-x64.msu</url>
+  </update>
+  <update id="KB2908783" category="2" publishdate="2014-04-08" article="http://support.microsoft.com/kb/2908783">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2908783)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2908783-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/F/7/FF7C81E2-66FB-43DB-98EE-843B474AAD0B/Windows6.1-KB2908783-x64.msu</url>
+  </update>
+  <update id="KB2959936" category="2" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2959936">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2959936)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2959936-x64.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/07/windows6.1-kb2959936-x64_6af5d13bb033d9fd7e93cfb6fba677d3228685e5.msu</url>
+  </update>
+  <update id="KB2966583" category="2" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2966583">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2966583)</title>
+    <description>Improvements for the System Update Readiness tool in Windows 7</description>
+    <filename>Windows6.1-KB2966583-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/E/B/8EBFBA93-7A0A-404B-B45A-A36C4EECC988/Windows6.1-KB2966583-x64.msu</url>
+  </update>
+  <update id="KB2973337" category="2" publishdate="2014-07-08" article="http://support.microsoft.com/kb/2973337">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2973337)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2973337-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/0/2/70234651-D8A7-45A0-B5D4-8135F274A1AB/Windows6.1-KB2973337-x64.msu</url>
+  </update>
+  <update id="KB2970228" category="2" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2970228">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2970228)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2970228-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/5/A/65ACA483-5BAD-4544-8413-C46E4A30001D/Windows6.1-KB2970228-x64.msu</url>
+  </update>
+  <update id="KB2980245" category="2" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2980245">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2980245)</title>
+    <description>Windows Explorer crashes when you cut the same file three times in Windows 7</description>
+    <filename>Windows6.1-KB2980245-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/9/2/C92E789E-F841-4CCE-A434-7EB447258D68/Windows6.1-KB2980245-x64.msu</url>
+  </update>
+  <update id="KB2977728" category="2" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2977728">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2977728)</title>
+    <description>Computer is on low memory when you move a video file in Windows 7</description>
+    <filename>Windows6.1-KB2977728-x64.msu</filename>
+    <url>http://download.microsoft.com/download/B/A/D/BAD48848-3BAB-419C-906F-12A284135C9F/Windows6.1-KB2977728-x64.msu</url>
+  </update>
+  <update id="KB2978092" category="2" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2978092">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2978092)</title>
+    <description>Graphics software or applications crash when they use WARP for software rendering in Windows</description>
+    <filename>Windows6.1-KB2978092-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/C/C/9CC547FD-064C-46D0-8C35-1700F1505266/Windows6.1-KB2978092-x64.msu</url>
+  </update>
+  <update id="KB3008627" category="2" publishdate="2014-11-11" article="http://support.microsoft.com/kb/3008627">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3008627)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3008627-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/4/5/2452799D-4E40-4D7C-A0F5-9E75075642B1/Windows6.1-KB3008627-x64.msu</url>
+  </update>
+  <update id="KB3006121" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3006121">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3006121)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3006121-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/3/2/83294CBC-DE39-4844-85D8-504CB21F41F0/Windows6.1-KB3006121-x64.msu</url>
+  </update>
+  <update id="KB3006625" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3006625">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3006625)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3006625-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/B/B/EBB25739-4E80-4509-AAD7-D6800D27471E/Windows6.1-KB3006625-x64.msu</url>
+  </update>
+  <update id="KB3009736" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3009736">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3009736)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3009736-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/8/C/E8C43174-9B4A-41F9-ADF3-6F1858F24D50/Windows6.1-KB3009736-x64.msu</url>
+  </update>
+  <update id="KB3014406" category="2" publishdate="2014-12-09" article="http://support.microsoft.com/kb/3014406">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3014406)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3014406-x64.msu</filename>
+    <url>http://download.microsoft.com/download/C/9/7/C97932A5-8448-4ADF-8D82-F002E1147F32/Windows6.1-KB3014406-x64.msu</url>
+  </update>
+  <update id="KB3004394" category="2" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3004394">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3004394)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3004394-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/5/0/750698D5-74F3-48B5-A2BE-8564F68890CC/Windows6.1-KB3004394-v2-x64.msu</url>
+  </update>
+  <update id="KB3020338" category="2" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3020338">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3020338)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3020338-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/1/C/41C4B27F-F1F5-461C-81ED-2B3B50EBBAE4/Windows6.1-KB3020338-x64.msu</url>
+  </update>
+  <update id="KB3021917" category="2" publishdate="2015-02-10" article="http://support.microsoft.com/kb/3021917">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3021917)</title>
+    <description>Update to Windows 7 SP1 for performance improvements</description>
+    <filename>Windows6.1-KB3021917-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/3/0/230B52C5-A0AD-493D-892E-DD8C5D31D358/Windows6.1-KB3021917-x64.msu</url>
+  </update>
+  <update id="KB3006137" category="2" publishdate="2015-02-25" article="http://support.microsoft.com/kb/3006137">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB3006137) - For Lithuania users only</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB3006137-x64.msu</filename>
+    <url>http://download.microsoft.com/download/7/4/B/74BCF487-396E-481E-ACC2-90A40EAD669E/Windows6.1-KB3006137-x64.msu</url>
+  </update>
+  <update id="KB2952664" category="2" publishdate="2015-03-25" article="http://support.microsoft.com/kb/2952664">
+    <title>Update for Windows 7 Service Pack 1 for x64-based Systems (KB2952664)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows6.1-KB2952664-v9-x64.msu</filename>
+    <url>http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows6.1-kb2952664-v9-x64_027517bb47d75fd0ce7f630bade15f23f61158cb.msu</url>
+  </update>
+        
+  <update id="KB976932" category="3" publishdate="2011-02-22" article="http://support.microsoft.com/kb/976932">
+    <title>Windows 7 Service Pack 1 for x64-based Systems (KB976932)</title>
+    <description>Windows 7 SP1 helps keep your PCs on the latest support level.</description>
+    <filename>Windows6.1-KB976932-x64.exe</filename>
+    <url>http://download.microsoft.com/download/0/A/F/0AFB5316-3062-494A-AB78-7FB0D4461357/windows6.1-KB976932-X64.exe</url>
+  </update>
+
+  <update id="KB890830" category="4" publishdate="2015-03-10" article="http://support.microsoft.com/kb/890830">
+    <title>Microsoft Windows Malicious Software Removal Tool x64 - March 2015 (KB890830)</title>
+    <description>This tool checks your computer for infection by specific, prevalent malicious software (including Blaster, Sasser, and Mydoom) and helps to remove the infection if it is found.</description>
+    <filename>Windows-KB890830-x64-v5.22.exe</filename>
+    <url>http://download.microsoft.com/download/2/C/5/2C563B99-54D9-4D85-A82B-45D3CD2F53CE/windows-kb890830-x64-v5.22.exe</url>
+  </update>
+  <update id="" category="4" publishdate="2015-02-10">
+    <title>Microsoft Security Essentials 4.7.205.0 (64-bit)</title>
+    <description>Microsoft Security Essentials provides real-time protection for your home PC that guards against viruses, spyware, and other malicious software.</description>
+    <filename>MSEInstall_x64_en_us.exe</filename>
+    <url>http://download.microsoft.com/download/A/3/8/A38FFBF2-1122-48B4-AF60-E44F6DC28BD8/ENUS/amd64/MSEInstall.exe</url>
+  </update>
+
+  <update id="" category="5" publishdate="2014-05-05">
+    <title>Windows Live Essentials 2012 (Offline Setup)</title>
+    <description>Do more with Windows on your PC with free programs from Microsoft for photos, movies, instant messaging, email, social networking, and more.</description>
+    <filename>wlsetup-all.exe</filename>
+    <url>http://wl.dlservice.microsoft.com/download/C/1/B/C1BA42D6-6A50-4A4A-90E5-FA9347E9360C/en/wlsetup-all.exe</url>                  
+  </update>
+  <update id="" category="5" publishdate="2010-04-21" article="http://windows.microsoft.com/en-us/windows7/products/features/touch">
+    <title>Microsoft Touch Pack for Windows 7</title>
+    <description>The Microsoft Touch Pack for Windows 7 is a collection of games and applications that are made available to computers with multi-touch enabled displays running Windows 7.</description>
+    <filename>touch-pack-web.exe</filename>
+    <url>http://download.microsoft.com/download/E/A/4/EA4FB3EA-D9EC-453C-BEB4-5494CCFA12C9/touch-pack-web.exe</url>
+  </update>
+  <update id="KB2901907" category="5" publishdate="2014-05-06">
+    <title>.NET Framework 4.5.2 for Windows 7 Service Pack 1 x64 (KB2901907)</title>
+    <description>The .NET Framework 4.5.2 is a highly compatible, in-place update to the .NET Framework 4, 4.5 and 4.5.1.</description>
+    <filename>NDP452-KB2901907-x86-x64-AllOS-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C560427900/NDP452-KB2901907-x86-x64-AllOS-ENU.exe</url>
+  </update>
+  <update id="KB947821" category="5" publishdate="2014-10-28" article="http://support.microsoft.com/kb/947821">
+    <title>System Update Readiness Tool x64 (KB947821) October 2014</title>
+    <description>This tool is being offered because an inconsistency was found in the Windows servicing store which may prevent the successful installation of future updates, service packs, and software.</description>
+    <filename>Windows6.1-KB947821-v34-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/8/D/E8DAA970-1036-447F-B5EA-716D4BA70EC5/Windows6.1-KB947821-v34-x64.msu</url>
+  </update>
+  <update id="" category="5" publishdate="2014-07-24">
+    <title>Silverlight 5</title>
+    <description>Silverlight 5 continues the pace of rapid innovation, building on Silverlight 4's capabilities in the areas of rich applications and premium media experiences.</description>
+    <filename>Silverlight-x64.exe</filename>
+    <url>http://silverlight.dlservice.microsoft.com/download/F/8/C/F8C0EACB-92D0-4722-9B18-965DD2A681E9/30514.00/Silverlight_x64.exe</url>
+  </update>
+  <update id="KB2819745" category="5" publishdate="2013-10-24">
+    <title>Windows Management Framework 4.0</title>
+    <description>WMF4.0 includes updates to Windows PowerShell, WinRM, WMI and a new feature for 4.0, Windows PowerShell Desired State Configuration (DSC).</description>
+    <filename>Windows6.1-KB2819745-x64-MultiPkg.msu</filename>
+    <url>http://download.microsoft.com/download/3/D/6/3D61D262-8549-4769-A660-230B67E15B25/Windows6.1-KB2819745-x64-MultiPkg.msu</url>
+  </update>
+  <update id="KB2841134" category="5" publishdate="2015-02-10" article="http://support.microsoft.com/kb/2841134">
+    <title>Internet Explorer 11</title>
+    <description>Internet Explorer 11 is fast and fluid, and lets your websites shine and perform just like native applications on your PC.</description>
+    <filename>IE11-Windows7-x64-en-us.exe</filename>
+    <url>http://download.microsoft.com/download/7/1/7/7179A150-F2D2-4502-9D70-4B59EA148EAA/IE11-Windows6.1-x64-en-us.exe</url>
+  </update>
+  <update id="" category="5" publishdate="2014-04-22">
+    <title>Microsoft Camera Codec Pack (6.3.9721.0) x64</title>
+    <description>The Microsoft Camera Codec Pack enables the viewing of a variety of device-specific file formats.</description>
+    <filename>MicrosoftCameraCodecPack-x64.msi</filename>
+    <url>http://download.microsoft.com/download/A/1/F/A1F26927-3966-4E2E-A30A-DC78D3408527/MicrosoftCameraCodecPack-x64.msi</url>
+  </update>
+  <update id="KB2891638" category="5" publishdate="2014-04-25" article="http://support.microsoft.com/kb/2891638">
+    <title>Work Folders for Windows 7 (64 bit)</title>
+    <description>This download lets you set up Work Folders on a Windows 7 PC and use it to access your work files on file servers.</description>
+    <filename>Windows6.1-KB2891638-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/0/B/60BCCA98-774B-4142-A0AC-F9FE84CE7306/Windows6.1-KB2891638-x64.msu</url>
+  </update>
+  <update id="KB949104" category="5" publishdate="2014-07-08" article="http://support.microsoft.com/kb/949104">
+    <title>Windows Update Agent (v7.6.7600.320) x64</title>
+    <description>Latest version of WUA 3.0 for Windows 7 x64</description>
+    <filename>WindowsUpdateAgent30-x64.exe</filename>
+    <url>http://download.windowsupdate.com/windowsupdate/redist/standalone/7.6.7600.320/WindowsUpdateAgent-7.6-x64.exe</url>
+  </update>
+  
+  <update id="KB2604115" category="6" publishdate="2012-05-08" article="http://support.microsoft.com/kb/2604115">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2604115)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2604115-x64.msu</filename>
+    <url>http://download.microsoft.com/download/0/1/5/0152A560-702C-4E54-A119-DBA76847C32F/Windows6.1-KB2604115-x64.msu</url>
+  </update>
+  <update id="KB2656356" category="6" publishdate="2011-12-28" article="http://support.microsoft.com/kb/2656356">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2656356)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2656356-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/6/D/96D912B0-7A00-48A6-A0C5-30A6D519281C/Windows6.1-KB2656356-x64.msu</url>
+  </update>
+  <update id="KB2729452" category="6" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2729452">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2729452)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2729452-x64.msu</filename>
+    <url>http://download.microsoft.com/download/3/C/6/3C655995-68A8-4042-869F-A2220447BDFA/Windows6.1-KB2729452-x64.msu</url>
+  </update>
+  <update id="KB2742599" category="6" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2742599">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2742599)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2742599-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/F/6/8F656605-71BC-4C10-869F-33FF00354267/Windows6.1-KB2742599-x64.msu</url>
+  </update>
+  <update id="KB2736422" category="6" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2736422">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2736422)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected application to stop responding.</description>
+    <filename>Windows6.1-KB2736422-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/6/4/A646F884-F009-4945-AE21-97FEF24CB48C/Windows6.1-KB2736422-x64.msu</url>
+  </update>
+  <update id="KB2789645" category="6" publishdate="2013-02-12" article="http://support.microsoft.com/kb/2789645">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2789645)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2789645-x64.msu</filename>
+    <url>http://download.microsoft.com/download/D/2/9/D294E518-99E0-4926-96B2-4D377E2A3C1E/Windows6.1-KB2789645-x64.msu</url>
+  </update>
+  <update id="KB2836942" category="6" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2836942">
+    <title>Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2836942)</title>
+    <description>Install this update to address a set of known compatibility and reliability issues with Microsoft .NET Framework 3.5 Service Pack 1.</description>
+    <filename>Windows6.1-KB2836942-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/E/2/1E2C94F3-825F-4E3A-A0DB-77E18727A1FE/Windows6.1-KB2836942-x64.msu</url>
+  </update>
+  <update id="KB2836943" category="6" publishdate="2013-08-27" article="http://support.microsoft.com/kb/2836943">
+    <title>Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2836943) </title>
+    <description>Install this update to address a set of known compatibility and reliability issues with Microsoft .NET Framework 3.5.1.</description>
+    <filename>Windows6.1-KB2836943-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/C/4/1C498D37-32ED-4195-9035-225F3AFCCCF5/Windows6.1-KB2836943-v2-x64.msu</url>
+  </update>
+  <update id="KB2832414" category="6" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2832414">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2832414)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software.</description>
+    <filename>Windows6.1-KB2832414-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/0/0/80037482-618B-44E1-8D08-8AF9F9600268/Windows6.1-KB2832414-x64.msu</url>
+  </update>
+  <update id="KB2840631" category="6" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2840631">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2840631)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2840631-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/1/A/81A5B8BC-753F-43B8-A61E-359827BAD964/Windows6.1-KB2840631-x64.msu</url>
+  </update>
+  <update id="KB2861191" category="6" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2861191">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2861191)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows6.1-KB2861191-x64.msu</filename>
+    <url>http://download.microsoft.com/download/0/0/E/00E8B62C-8B27-42BD-A964-9C72A2DD5AC6/Windows6.1-KB2861191-x64.msu</url>
+  </update>
+  <update id="KB2861698" category="6" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2861698">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2861698)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding.</description>
+    <filename>Windows6.1-KB2861698-x64.msu</filename>
+    <url>http://download.microsoft.com/download/5/0/5/50501EDC-0030-43EF-8F02-C09E27FF0791/Windows6.1-KB2861698-x64.msu</url>
+  </update>
+  <update id="KB2911501" category="6" publishdate="2014-02-11" article="http://support.microsoft.com/kb/2911501">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2911501)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows6.1-KB2911501-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/2/6/A26B576B-6573-499D-9DB0-31C42FC2A1DC/Windows6.1-KB2911501-x64.msu</url>
+  </update>
+  <update id="KB2931356" category="6" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2931356">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2931356)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows6.1-KB2931356-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/C/2/8C2D99DA-306D-4CC0-88C7-DCFD81820CCE/Windows6.1-KB2931356-x64.msu</url>
+  </update>
+  <update id="KB2898851" category="6" publishdate="2014-05-13" article="http://support.microsoft.com/kb/2898851">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2898851)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information</description>
+    <filename>Windows6.1-KB2898851-x64.msu</filename>
+    <url>http://download.microsoft.com/download/E/1/8/E18C6A4D-F347-44DB-A718-4E0B54436AAE/Windows6.1-KB2898851-x64.msu</url>
+  </update>
+  <update id="KB2937610" category="6" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2937610">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2937610)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software</description>
+    <filename>Windows6.1-KB2937610-x64.msu</filename>
+    <url>http://download.microsoft.com/download/A/B/5/AB57A8A0-DB67-42F4-ADBA-C1E3228AD514/Windows6.1-KB2937610-x64.msu</url>
+  </update>
+  <update id="KB2943357" category="6" publishdate="2014-08-12" article="http://support.microsoft.com/kb/2943357">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2943357)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software</description>
+    <filename>Windows6.1-KB2943357-x64.msu</filename>
+    <url>http://download.microsoft.com/download/4/3/E/43E3815A-0C85-43A6-8C3D-AAFD77D5A287/Windows6.1-KB2943357-x64.msu</url>
+  </update>
+  <update id="KB2972211" category="6" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2972211">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2972211)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected application to stop responding</description>
+    <filename>Windows6.1-KB2972211-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/7/3/973D7FF6-AEDD-4582-AE76-80C500D96121/Windows6.1-KB2972211-x64.msu</url>
+  </update>
+  <update id="KB2973112" category="6" publishdate="2014-09-09" article="http://support.microsoft.com/kb/2973112">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2973112)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding</description>
+    <filename>Windows6.1-KB2973112-x64.msu</filename>
+    <url>http://download.microsoft.com/download/8/2/A/82AADBAA-E72F-4C5C-ABC1-0F43CCB59FB9/Windows6.1-KB2973112-x64.msu</url>
+  </update>
+  <update id="KB2968294" category="6" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2968294">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2968294)</title>
+    <description>A security issue has been identified that could allow an attacker to break or bypass a security feature in the affected software</description>
+    <filename>Windows6.1-KB2968294-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/3/2/932772EB-1CB6-4231-B93B-3720A2D2680C/Windows6.1-KB2968294-x64.msu</url>
+  </update>
+  <update id="KB2972100" category="6" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2972100">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2972100)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows6.1-KB2972100-x64.msu</filename>
+    <url>http://download.microsoft.com/download/9/B/6/9B6373AF-6E54-4972-BB2B-99048F023632/Windows6.1-KB2972100-x64.msu</url>
+  </update>
+  <update id="KB2979570" category="6" publishdate="2014-10-14" article="http://support.microsoft.com/kb/2979570">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2979570)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows6.1-KB2979570-x64.msu</filename>
+    <url>http://download.microsoft.com/download/2/9/9/29979115-77AE-4E66-BBC1-811B64C61F82/Windows6.1-KB2979570-x64.msu</url>
+  </update>
+  <update id="KB2978120" category="6" publishdate="2014-11-11" article="http://support.microsoft.com/kb/2978120">
+    <title>Security Update for Microsoft .NET Framework 3.5.1 on Windows 7 Service Pack 1 x64 (KB2978120)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows6.1-KB2978120-x64.msu</filename>
+    <url>http://download.microsoft.com/download/1/4/3/14305865-537E-4930-AC55-1173F9584DDF/Windows6.1-KB2978120-x64.msu</url>
+  </update>
+
+  <update id="" category="7" publishdate="2015-01-13">
+    <title>Microsoft Security Essentials Pre-Release 4.7.203.0 (64-bit)</title>
+    <description>The Microsoft Security Essentials Prerelease program allows users to run the latest and greatest versions of Security Essentials before they are publicy available.</description>
+    <filename>MSEPrereleaseInstallx64.exe</filename>
+    <url>http://download.microsoft.com/download/2/8/5/2859559A-3A1B-4331-AC88-4F59D789F9B9/MSEPrereleaseInstallx64.exe</url>
+  </update>
+  <update id="KB3006563" category="7" publishdate="2015-02-28">
+    <title>.NET Framework 4.6 Preview for Windows 7 Service Pack 1 x64 (KB3006563)</title>
+    <description>The .NET Framework 4.6 is a highly compatible, in-place update to .NET Framework 4.5.x.</description>
+    <filename>NDP46-KB3006563-x86-x64-AllOS-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/D/C/F/DCFC7921-E08B-4F65-8B6A-17EB9C30DCD9/NDP46-KB3006563-x86-x64-AllOS-ENU.exe</url>
+  </update>
+
+  <update id="KB2803821" category="8" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2803821">
+    <title>Security Update for Windows Media Player 12 on Windows 7 SP1 for x64-based Systems (KB2803821)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows6.1-KB2803821-v2-x64.msu</filename>
+    <url>http://download.microsoft.com/download/F/A/C/FACFF01A-8439-4927-8B15-5B28B7F6831E/Windows6.1-KB2803821-v2-x64.msu</url>
+  </update>
+  <update id="KB2847077" category="8" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2847077">
+    <title>Update for Windows Media Player 12 on Windows 7 Service Pack 1 for x64-based Systems (KB2847077)</title>
+    <description>Windows Media Player 12 freezes when you use AutoPlay for an audio CD in Windows 7</description>
+    <filename>Windows6.1-KB2847077-x64.msu</filename>
+    <url>http://download.microsoft.com/download/6/C/7/6C793B68-A0FF-4EF4-8E8D-D61961BABD5B/Windows6.1-KB2847077-x64.msu</url>
+  </update>
+</updates>
+
+</updatelist>

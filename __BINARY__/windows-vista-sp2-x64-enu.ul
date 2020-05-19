@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<updatelist product="Windows Vista" servicepack="Service Pack 2" platform="x64" language="ENU" lastupdate="2009-09-12" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+	<!--Windows Vista SP2 (x64)-->
+	<categories>
+		<category id="1">Critical Updates</category>
+		<category id="2">Service Packs</category>
+		<category id="3">Internet Explorer 7 Updates</category>
+		<category id="4">Internet Explorer 8 Updates</category>
+		<category id="5">Other</category>
+	</categories>
+	<updates>
+		<update id="KB973540" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973540">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=64edbd64-9faa-4f54-b0d5-836c683ca7cd&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB973540)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB973540-x64.msu</filename>
+			<url>http://download.microsoft.com/download/3/8/3/3831038C-8AA0-4694-9842-DEAD978D27F8/Windows6.0-KB973540-x64.msu</url>
+		</update>
+		<update id="KB973507" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973507">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=82940d30-6a30-47ca-b184-2ac96e35c294&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB973507)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB973507-x64.msu</filename>
+			<url>http://download.microsoft.com/download/B/1/A/B1A604A3-1903-4437-AEFC-A33F6BED5836/Windows6.0-KB973507-x64.msu</url>
+		</update>
+		<update id="KB971657" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=971657">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=b9aa04cc-a5c5-47ae-bf0f-250cff275d26&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB971657)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB971657-x64.msu</filename>
+			<url>http://download.microsoft.com/download/A/4/1/A41FDF64-B861-44B5-9704-4078603840A0/Windows6.0-KB971657-x64.msu</url>
+		</update>
+		<update id="KB971557" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=971557">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=a6cea61a-4ad9-4e18-bf18-348ae4ae51c4&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB971557)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB971557-x64.msu</filename>
+			<url>http://download.microsoft.com/download/F/2/2/F223F9BC-6F76-405A-965F-92D3AB26A46B/Windows6.0-KB971557-x64.msu</url>
+		</update>
+		<update id="KB956744" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=956744">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB956744)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB956744-x64.msu</filename>
+			<url>http://download.microsoft.com/download/8/B/0/8B082A96-472A-49A5-B74E-2EF6A8F89B8A/Windows6.0-KB956744-x64.msu</url>
+		</update>
+		<update id="KB973346" category="1" publishdate="2009-07-14" article="http://support.microsoft.com/?kbid=973346">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=d2084e8d-212b-4c39-9163-a71ec6d1b1c7&displaylang=en-->
+			<title>Cumulative Security Update for ActiveX Killbits for Windows Vista for x64-based Systems (KB973346)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS09-032. To find out if other security updates are available for you, see the Additional Information section at the bottom of this page.</description>
+			<filename>Windows6.0-KB973346-x64.msu</filename>
+			<url>http://download.microsoft.com/download/7/0/0/700D1410-EC13-4782-92B4-159764B87A47/Windows6.0-KB973346-x64.msu</url>
+		</update>
+		<update id="KB961371" category="1" publishdate="2009-07-13" article="http://support.microsoft.com/?kbid=961371">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3f8ae651-59f7-48e1-9e8c-8e07c6806964&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB961371)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB961371-x64.msu</filename>
+			<url>http://download.microsoft.com/download/6/2/E/62EBE4F0-3422-441C-8E7D-F1A38146CAAF/Windows6.0-KB961371-x64.msu</url>
+		</update>
+		<update id="KB969898" category="1" publishdate="2009-06-09" article="http://support.microsoft.com/?kbid=969898">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=9ee76ec2-6d73-4e69-920d-e30c16955f56&displaylang=en-->
+			<title>Cumulative Security Update for ActiveX Killbits for Windows Vista for x64-based Systems (KB969898)</title>
+			<description>Security issues have been identified in Active X controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it. You can help protect your computer by installing this update from Microsoft.</description>
+			<filename>Windows6.0-KB969898-x64.msu</filename>
+			<url>http://download.microsoft.com/download/D/A/B/DABDB0FA-8B18-47DD-897E-D9542CFBCA23/Windows6.0-KB969898-x64.msu</url>
+		</update>
+		<update id="KB970238" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=970238">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=188adafe-1feb-46ad-b237-a88d35104dcd&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB970238)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB970238-x64.msu</filename>
+			<url>http://download.microsoft.com/download/0/A/8/0A8C5FD3-A203-44A1-80E3-B8BE91D1EDE0/Windows6.0-KB970238-x64.msu</url>
+		</update>
+		<update id="KB968537" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=968537">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7d70a65f-07ce-4992-8bec-28fefd7587bc&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB968537)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB968537-x64.msu</filename>
+			<url>http://download.microsoft.com/download/C/0/4/C04CE06A-8A82-43DA-BB1F-0C005C5F5CBF/Windows6.0-KB968537-x64.msu</url>
+		</update>
+		<update id="KB961501" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=961501">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=85c317cd-2a14-4747-9f50-3af3ddd3ae1b&displaylang=en-->
+			<title>Security Update for Windows Vista for x64-based Systems (KB961501)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>Windows6.0-KB961501-x64.msu</filename>
+			<url>http://download.microsoft.com/download/E/2/B/E2B36445-BA65-48CC-AC1E-EEEEBCF8B043/Windows6.0-KB961501-x64.msu</url>
+		</update>
+		<update id="KB948465" category="2" publishdate="2009-06-22" article="http://support.microsoft.com/?kbid=948465">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=8AD69826-03D4-488C-8F26-074800C55BC3&displaylang=en-->
+			<title>Windows Server 2008 Service Pack 2 and Windows Vista Service Pack 2 - ALL Language Standalone for x64-based Systems (KB948465)</title>
+			<description>Service Pack 2, the latest service pack for both Windows Server 2008 and Windows Vista, supports new types of hardware and emerging hardware standards, includes all of the updates that have been delivered since SP1, and simplifies deployment, for consumers, developers, and IT professionals.</description>
+			<filename>Windows6.0-KB948465-X64.exe</filename>
+			<url>http://download.microsoft.com/download/5/7/8/57804D8A-3C84-4DD4-867C-748050DDED9D/Windows6.0-KB948465-X64.exe</url>
+		</update>
+		<update id="KB972260" category="3" publishdate="2009-07-28" article="http://support.microsoft.com/?kbid=972260">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=2b23cd74-6cf1-413b-82a7-b602347e3ce6&displaylang=en-->
+			<title>Cumulative Security Update for Internet Explorer 7 in Windows Vista x64 Edition (KB972260)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS09-034. To find out if other security updates are available for you, see the Additional Information section at the bottom of this page.</description>
+			<filename>Windows6.0-KB972260-x64.msu</filename>
+			<url>http://download.microsoft.com/download/F/5/B/F5B2059C-79B5-41D5-8002-C3D6A6AD22F0/Windows6.0-KB972260-x64.msu</url>
+		</update>
+		<update id="KB973874" category="4" publishdate="2009-08-25" article="http://support.microsoft.com/?kbid=973874">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=a9702c3d-4296-4c1a-a0d1-403aed05b18c&displaylang=en-->
+			<title>Update for Internet Explorer 8 Compatibility View List for Windows XP (KB973874)</title>
+			<description>This update helps make websites designed for older browsers look better in Internet Explorer 8. To take advantage of this update, you must have &#8220;Include updated website lists from Microsoft&#8221; selected in Internet Explorer&#8217;s Compatibility View Settings.</description>
+			<filename>IE8-WindowsXP-KB973874-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/6/C/36C3E72C-5F75-4292-8EF9-3227ED9B5E68/IE8-WindowsXP-KB973874-x86-ENU.exe</url>
+		</update>
+		<update id="KB972260.IE8" category="4" publishdate="2009-07-28" article="http://support.microsoft.com/?kbid=972260">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=900e9a05-2f71-42de-b603-47e4ac061bcb&displaylang=en-->
+			<title>Cumulative Security Update for Internet Explorer 8 in Windows Vista x64 Edition (KB972260)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS09-034. To find out if other security updates are available for you, see the Additional Information section at the bottom of this page.</description>
+			<filename>IE8-Windows6.0-KB972260-x64.msu</filename>
+			<url>http://download.microsoft.com/download/B/4/9/B494628D-1416-489C-9EBA-193BBDE95B28/IE8-Windows6.0-KB972260-x64.msu</url>
+		</update>
+		<update id="KB905866" category="5" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=905866">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=749e10cd-f40c-4f94-8e38-d4221ded7652&displaylang=en-->
+			<title>Update for Windows Mail Junk E-mail Filter for x64-based Systems [September 2009] (KB905866)</title>
+			<description>Install this update for Windows Mail to revise the definition files that are used to detect e-mail messages that should be considered junk e-mail or that may contain phishing content.</description>
+			<filename>Windows6.0-KB905866-v33-x64.msu</filename>
+			<url>http://download.microsoft.com/download/3/F/B/3FBE0C1D-72F9-4F99-8C7D-C78A0E1C794F/Windows6.0-KB905866-v33-x64.msu</url>
+		</update>
+		<update id="KB972036" category="5" publishdate="2009-08-30" article="http://support.microsoft.com/?kbid=972036">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=d85cb46b-3e06-433d-80a1-e7ad31e70c8a&displaylang=en-->
+			<title>Update for Windows Vista for x64-based Systems (KB972036)</title>
+			<description>Install this update to resolve issues with non-compatible applications for Windows Vista.</description>
+			<filename>Windows6.0-KB972036-v2-x64.msu</filename>
+			<url>http://download.microsoft.com/download/3/D/4/3D4771C2-3B96-4E52-BDCB-FFFDE4D8E758/Windows6.0-KB972036-v2-x64.msu</url>
+		</update>
+		<update id="KB968389" category="5" publishdate="2009-08-07" article="http://support.microsoft.com/?kbid=968389">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=f877a3bf-0240-4bf8-94fc-10bf3f3c91e8&displaylang=en-->
+			<title>Update for Windows Vista for x64-based Systems (KB968389)</title>
+			<description>Install this update to help strengthen authentication credentials in specific scenarios.</description>
+			<filename>Windows6.0-KB968389-x64.msu</filename>
+			<url>http://download.microsoft.com/download/8/5/2/8525B496-FF4C-4336-BCC1-B5AF696280C7/Windows6.0-KB968389-x64.msu</url>
+		</update>
+		<update id="KB970653" category="5" publishdate="2009-07-21" article="http://support.microsoft.com/?kbid=970653">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ddc1730b-63d8-420a-86dd-f12997847610&displaylang=en-->
+			<title>Update for Windows Vista for x64-based Systems (KB970653)</title>
+			<description>Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries.</description>
+			<filename>Windows6.0-KB970653-x64.msu</filename>
+			<url>http://download.microsoft.com/download/6/D/3/6D37A3DF-E0F8-4FB4-9C27-A5F063D5F446/Windows6.0-KB970653-x64.msu</url>
+		</update>
+		<update id="KB943729" category="5" publishdate="2009-06-23" article="http://support.microsoft.com/?kbid=943729">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=B10A7AF4-8BEE-4ADC-8BBE-9949DF77A3CF&displaylang=en-->
+			<title>Group Policy Preference Client Side Extensions for Windows Vista x64 Edition (KB943729)</title>
+			<description>Multiple Group Policy Preferences have been added to the Windows Server 2008 Group Policy Management Console (which are also available through the Remote Server Administration Toolset (RSAT) for Windows Vista SP1).</description>
+			<filename>Windows6.0-KB943729-x64.msu</filename>
+			<url>http://download.microsoft.com/download/3/8/f/38f1b781-691e-4c20-ac9d-b39715431eb1/Windows6.0-KB943729-x64.msu</url>
+		</update>
+		<update id="KB967632" category="5" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=967632">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=AF92185A-9672-4549-9FD2-31BD11BBF92A&displaylang=en-->
+			<title>Cumulative Update for Media Center for Windows Vista for x64-based Systems (KB967632)</title>
+			<description>Install this update to resolve issues with Media Center for Windows Vista.</description>
+			<filename>Windows6.0-KB967632-x64.msu</filename>
+			<url>http://download.microsoft.com/download/6/4/3/643070C1-023C-4696-9C14-09CC42B209C4/Windows6.0-KB967632-x64.msu</url>
+		</update>
+		<update id="KB949104" category="5" publishdate="2009-05-06">
+			<!--http://support.microsoft.com/kb/949104-->
+			<title>Windows Update Agent</title>
+			<description>Version 7.2.6001.788</description>
+			<filename>windowsupdateagent30-x64.exe</filename>
+			<url>http://download.windowsupdate.com/windowsupdate/redist/standalone/7.2.6001.788/windowsupdateagent30-x64.exe</url>
+		</update>
+		<update id="KB951847" category="5" publishdate="2008-11-18">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=AB99342F-5D1A-413D-8319-81DA479AB0D7&displaylang=en-->
+			<title>Microsoft .NET Framework 3.5 Service Pack 1</title>
+			<description>Microsoft .NET Framework 3.5 Service Pack 1 is a full cumulative update that contains many new features building incrementally upon .NET Framework 2.0, 3.0, 3.5, and includes cumulative servicing updates to the .NET Framework 2.0 and .NET Framework 3.0 subcomponents.</description>
+			<filename>dotnetfx35setup.exe</filename>
+			<url>http://download.microsoft.com/download/0/6/1/061F001C-8752-4600-A198-53214C69B51F/dotnetfx35setup.exe</url>
+		</update>
+		<update id="KB928439" category="5" publishdate="2007-01-30" article="http://support.microsoft.com/?kbid=928439">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=AF37D87D-5DE6-4AF1-80F4-740F625CD084&displaylang=en-->
+			<title>Windows PowerShell 1.0 Installation Package for Windows Vista x64 Edition (KB928439)</title>
+			<description>Microsoft Windows PowerShell is a new command-line shell and scripting language designed for system administration and automation. Built on the .NET Framework, Windows PowerShell enables IT professionals and developers to control and automate the administration of Windows and applications.</description>
+			<filename>Windows6.0-KB928439-x64.msu</filename>
+			<url>http://download.microsoft.com/download/c/d/f/cdfb3b08-f9bc-48c2-92fa-214b5e684cff/Windows6.0-KB928439-x64.msu</url>
+		</update>
+	</updates>
+</updatelist>

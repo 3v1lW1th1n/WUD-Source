@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<updatelist product="Windows 2003 Server" servicepack="Service Pack 2" platform="x86" language="ENU" lastupdate="2010-03-11" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+	<!--Windows Server 2003 SP2 (x86)-->
+	<categories>
+		<category id="1">Critical Updates</category>
+		<category id="2">Service Packs</category>
+		<category id="9">Other</category>
+	</categories>
+	<updates>
+		<update id="KB978706" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978706">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=c1efbe73-fc87-4e6a-8b36-81f125a27aec&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB978706)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB978706-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/8/A/F8A3E7B9-F96F-4B2F-B226-D806C2FE8BCB/WindowsServer2003-KB978706-x86-ENU.exe</url>
+		</update>
+		<update id="KB978262" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978262">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=29ff72f7-1663-4f35-a794-2dfe3c17b39c&displaylang=en-->
+			<title>Security Update for ActiveX Killbits for Windows Server 2003 (KB978262)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS10-008. To find out if other security updates are available for you, see the Overview section of this page.</description>
+			<filename>WindowsServer2003-KB978262-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/C/3/BC3439D6-EB5A-4C2C-8985-FA03A5975565/WindowsServer2003-KB978262-x86-ENU.exe</url>
+		</update>
+		<update id="KB978251" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978251">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=feb8c145-7c30-45fa-a6f0-8b6453ddd521&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB978251)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB978251-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/3/5/3353DF18-8C6F-403D-B772-BEDC1F4522D3/WindowsServer2003-KB978251-x86-ENU.exe</url>
+		</update>
+		<update id="KB978037" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=978037">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=2c8c4eec-255e-41d5-b1e6-f0204edcb46f&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB978037)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB978037-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/E/5/9/E590C9C5-8E7F-4398-A9CC-A34D759C09C7/WindowsServer2003-KB978037-x86-ENU.exe</url>
+		</update>
+		<update id="KB977914" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=977914">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=cc5150d7-070e-4a87-9c02-d050a8cb2204&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB977914)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB977914-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/0/F/20FB045A-F65C-48D2-8AAC-D9F64244EBB5/WindowsServer2003-KB977914-x86-ENU.exe</url>
+		</update>
+		<update id="KB977290" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=977290">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=738e2fda-96fc-413d-a5c7-74b1fac1d6b3&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB977290)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to cause the affected system to stop responding.</description>
+			<filename>WindowsServer2003-KB977290-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/B/E/3BE3DCE1-FA79-4831-98DB-806B6C7985D3/WindowsServer2003-KB977290-x86-ENU.exe</url>
+		</update>
+		<update id="KB977165" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=977165">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=defd8603-ed9b-42f9-a539-2b6a690e9575&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB977165)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB977165-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/6/0/2/602182F6-D7BE-493F-A858-765081C1E0E9/WindowsServer2003-KB977165-x86-ENU.exe</url>
+		</update>
+		<update id="KB975713" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=975713">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=5cb2e203-18fb-4887-a1c9-289d86b8ba11&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB975713)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB975713-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/D/3/2/D3269257-DD9F-4456-AC81-33FAB97A31C4/WindowsServer2003-KB975713-x86-ENU.exe</url>
+		</update>
+		<update id="KB975560" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=975560">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=983c5484-6321-4765-97ec-8d42d42d1f70&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB975560)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB975560-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/E/1/4/E149D865-8358-4A75-85B4-DF60CC061406/WindowsServer2003-KB975560-x86-ENU.exe</url>
+		</update>
+		<update id="KB971468" category="1" publishdate="2010-02-08" article="http://support.microsoft.com/?kbid=971468">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3d18cbc4-ac48-458c-8aa3-90708fd854ff&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB971468)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB971468-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/5/B/F5BCEB3A-58B9-4FFE-8698-D0F74F02CAE2/WindowsServer2003-KB971468-x86-ENU.exe</url>
+		</update>
+		<update id="KB978207" category="1" publishdate="2010-01-20" article="http://support.microsoft.com/?kbid=978207">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=fea91227-44ad-4549-8732-497a8ceff870&displaylang=en-->
+			<title>Cumulative Security Update for Internet Explorer for Windows Server 2003 (KB978207)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS10-002. To find out if other security updates are available for you, see the Overview section of this page.</description>
+			<filename>WindowsServer2003-KB978207-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/E/A/8EA192D6-4AF9-4036-890A-BFA845705850/WindowsServer2003-KB978207-x86-ENU.exe</url>
+		</update>
+		<update id="KB972270" category="1" publishdate="2010-01-11" article="http://support.microsoft.com/?kbid=972270">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=e1d6e338-dea9-458e-b35d-796e069d74d7&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB972270)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB972270-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/2/E/F2E1B034-0322-4396-B070-AC2C4C99EF1C/WindowsServer2003-KB972270-x86-ENU.exe</url>
+		</update>
+		<update id="KB974392" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/?kbid=974392">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=a779aae1-7724-4458-94fb-a2343356ecae&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB974392)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB974392-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/B/4/9B46122B-D62A-4EF0-854F-62D9FC3412E4/WindowsServer2003-KB974392-x86-ENU.exe</url>
+		</update>
+		<update id="KB974318" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/?kbid=974318">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3d49b386-133a-4d51-b6f0-cec0c70ef93e&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB974318)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB974318-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/C/D/C/CDCC3B7C-E622-48B0-B678-285BAC3332E7/WindowsServer2003-KB974318-x86-ENU.exe</url>
+		</update>
+		<update id="KB973904" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/?kbid=973904">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=b9678229-2473-4aae-a814-eca9ea556d17&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973904)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB973904-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/2/A/F2A3E44A-7D35-4A5E-8F15-CC7709A463C1/WindowsServer2003-KB973904-x86-ENU.exe</url>
+		</update>
+		<update id="KB971726" category="1" publishdate="2009-12-07" article="http://support.microsoft.com/?kbid=971726">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=31351b9e-b5bb-4618-990b-1089ea5a3bc2&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB971726)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB971726-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/5/F/F/5FF929F1-C79D-41D7-857B-A6D2C3B892CF/WindowsServer2003-KB971726-x86-ENU.exe</url>
+		</update>
+		<update id="KB973039" category="1" publishdate="2009-11-09" article="http://support.microsoft.com/?kbid=973039">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=44cb9029-4b19-4bad-8fc9-3efe285adb0e&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973039)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding.</description>
+			<filename>WindowsServer2003-KB973039-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/E/2/BE276202-FA2E-4708-9AB8-B7F4000999A3/WindowsServer2003-KB973039-x86-ENU.exe</url>
+		</update>
+		<update id="KB973037" category="1" publishdate="2009-11-09" article="http://support.microsoft.com/?kbid=973037">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=28f1c494-4e16-43b6-93d2-49e15f142ac9&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973037)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding.</description>
+			<filename>WindowsServer2003-KB973037-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/5/5/5/5552CCA8-17F5-444E-81C4-58E7698BA301/WindowsServer2003-KB973037-x86-ENU.exe</url>
+		</update>
+		<update id="KB969947" category="1" publishdate="2009-11-09" article="http://support.microsoft.com/?kbid=969947">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=5cd62750-e269-44ae-8c7c-c335e8545b9a&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB969947)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB969947-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/4/6/D/46DB4F35-CBC5-410A-8703-4367E5D038CB/WindowsServer2003-KB969947-x86-ENU.exe</url>
+		</update>
+		<update id="KB975254" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=975254">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=48256ea3-b433-4e84-9019-22300069cfc1&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB975254)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB975254-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/6/2/B628FFD3-916F-4421-9A23-085BA17031C9/WindowsServer2003-KB975254-x86-ENU.exe</url>
+		</update>
+		<update id="KB975025" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=975025">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ab1803ff-2371-487f-a7b6-95747c46ba4e&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB975025)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB975025-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/3/5/F354A1E9-F482-4D6B-AA89-E4240E3BC7CD/WindowsServer2003-KB975025-x86-ENU.exe</url>
+		</update>
+		<update id="KB974571" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=974571">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=49e9cc53-cf17-4bc7-aaaa-92213167e1a9&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB974571)</title>
+			<description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+			<filename>WindowsServer2003-KB974571-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/1/6/D/16D98EF9-E562-4793-8EFF-28DDDCE1C47D/WindowsServer2003-KB974571-x86-ENU.exe</url>
+		</update>
+		<update id="KB974112" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=974112">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=5f82d01c-573e-425e-b9f2-86a54f377b19&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB974112)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB974112-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/5/5/B55F8838-3829-4F59-A310-BA134A6644B4/WindowsServer2003-KB974112-x86-ENU.exe</url>
+		</update>
+		<update id="KB969878" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=969878">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=4fe0dff5-04d9-4409-8d1d-52419537126b&displaylang=en-->
+			<title>Security Update for Windows 2000, Windows XP and Windows 2003 (KB969878)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsMedia9-KB969878-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/8/C/28C2F33D-766F-4FE3-BE8C-DDFDF74CA53B/WindowsMedia9-KB969878-x86-ENU.exe</url>
+		</update>
+		<update id="KB969059" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=969059">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=78072164-84d1-44da-8ede-2a9d212d47a9&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB969059)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB969059-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/D/1/9D17BEDB-BC49-41BF-BD6D-9AAA3621B92E/WindowsServer2003-KB969059-x86-ENU.exe</url>
+		</update>
+		<update id="KB958869" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=958869">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=414466a4-39a0-476d-9a43-ae7674cbd6a0&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB958869)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB958869-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/E/F/9EFF386F-C2F4-4284-9BE0-0DBB1713A630/WindowsServer2003-KB958869-x86-ENU.exe</url>
+		</update>
+		<update id="KB954155" category="1" publishdate="2009-10-12" article="http://support.microsoft.com/?kbid=954155">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=00b3cb86-c9eb-4fbe-987e-2b0d94271d87&displaylang=en-->
+			<title>Security Update for Windows Media Format Runtime 9.5 for Windows Server 2003 (KB954155)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB954155-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/C/F/8/CF80ADF7-EB37-4086-8826-980E110C429C/WindowsServer2003-KB954155-x86-ENU.exe</url>
+		</update>
+		<update id="KB971961" category="1" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=971961">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=6acc9d2d-b71f-4b5c-9aea-b217b6ae240b&displaylang=en-->
+			<title>Security Update for Jscript 5.6 for Windows Server 2003 (KB971961)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+			<filename>WindowsServer2003-KB971961-JS56-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/E/7/8E7B0195-C07C-4381-85DF-6C4C87C6EBAF/WindowsServer2003-KB971961-JS56-x86-ENU.exe</url>
+		</update>
+		<update id="KB968816" category="1" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=968816">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=4ab34e3d-34cb-4e35-a2da-b348ace8a8f7&displaylang=en-->
+			<title>Security Update for Windows Media Format Runtime 9.5 for Windows Server 2003 (KB968816)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB968816-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/2/3/B23AF3A6-CD9E-4FA6-912A-39B47E713AF7/WindowsServer2003-KB968816-x86-ENU.exe</url>
+		</update>
+		<update id="KB967723" category="1" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=967723">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=48d82036-2fde-4bb0-a60e-92eed83ddc3f&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB967723)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB967723-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/E/9/1/E9177048-A278-476F-8A1A-81C68AC24E7C/WindowsServer2003-KB967723-x86-ENU.exe</url>
+		</update>
+		<update id="KB956844" category="1" publishdate="2009-09-07" article="http://support.microsoft.com/?kbid=956844">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7478f73f-dd20-4cfa-a650-4c84f37ada2f&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB956844)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB956844-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/8/9/F8947244-A47F-40ED-BEA7-81D2B6C04311/WindowsServer2003-KB956844-x86-ENU.exe</url>
+		</update>
+		<update id="KB973869" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973869">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=bfc474c2-e3c5-40df-85d4-4ac666ff0561&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973869)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB973869-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/D/E/FDEDFB13-E274-46CE-8A6A-3404FFCEB5BD/WindowsServer2003-KB973869-x86-ENU.exe</url>
+		</update>
+		<update id="KB973815" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973815">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=301ad191-8d3f-41d3-b41c-e2e863893f73&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973815)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB973815-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/1/B/2/1B24495D-0BAF-4E60-BFF8-213B2DBFF537/WindowsServer2003-KB973815-x86-ENU.exe</url>
+		</update>
+		<update id="KB973540" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973540">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ab054890-983b-4414-ad0a-da1b2d2a4895&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973540)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB973540-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/7/6/37678A71-A08C-4F5F-9FF2-D3BF90937EA1/WindowsServer2003-KB973540-x86-ENU.exe</url>
+		</update>
+		<update id="KB973507" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973507">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=7d9369b5-0c54-4c17-bc62-fba0a7b4728c&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973507)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB973507-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/D/8/D/D8D43DB9-B388-4E97-AC80-05801CC7648A/WindowsServer2003-KB973507-x86-ENU.exe</url>
+		</update>
+		<update id="KB973354" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=973354">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3119ab1e-6729-40a1-b28f-0dab50502be6&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB973354)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB973354-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/0/D/F0DB9759-0BE5-42BE-B68F-0185566FCA25/WindowsServer2003-KB973354-x86-ENU.exe</url>
+		</update>
+		<update id="KB971657" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=971657">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=9cb0477f-0656-47f5-bd35-5716e0572fbd&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB971657)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB971657-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/4/C/3/4C3AAC97-A651-43D3-8B12-F5D3FF372C42/WindowsServer2003-KB971657-x86-ENU.exe</url>
+		</update>
+		<update id="KB971032" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=971032">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=52f59c56-2aba-4626-a90e-311e0e73c813&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB971032)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB971032-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/0/B/B0B2D077-494D-4854-9558-E20F1328CB3D/WindowsServer2003-KB971032-x86-ENU.exe</url>
+		</update>
+		<update id="KB969883" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=969883">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3a8d8ef9-ad41-4237-9cbb-daecfd8f216c&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB969883)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB969883-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/7/2/3/723ABFB1-E720-421A-94EB-50F273FC695D/WindowsServer2003-KB969883-x86-ENU.exe</url>
+		</update>
+		<update id="KB958469" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=958469">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=60c79729-ef01-4630-bd67-ec63e7f8b56b&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB958469)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB958469-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/2/7/B27DE8C4-6F16-43EF-B61E-EE9BEE33A23F/WindowsServer2003-KB958469-x86-ENU.exe</url>
+		</update>
+		<update id="KB956744" category="1" publishdate="2009-08-10" article="http://support.microsoft.com/?kbid=956744">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=a37a2d8a-a5ce-4f06-bf07-8cafa16e7a59&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB956744)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB956744-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/0/9/4/094541B7-3C37-450A-A53D-F8CC1F0CC5C4/WindowsServer2003-KB956744-x86-ENU.exe</url>
+		</update>
+		<update id="KB960859" category="1" publishdate="2009-08-07" article="http://support.microsoft.com/?kbid=960859">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=3fe9c745-d87c-43b0-9b2a-356fb34282b4&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB960859)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB960859-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/0/3/303D2557-2CE2-48A8-B47E-EF38E26FCE32/WindowsServer2003-KB960859-x86-ENU.exe</url>
+		</update>
+		<update id="KB970483" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=970483">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=2bd4e410-dbd8-431a-b316-e1e2f1825c3a&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB970483)</title>
+			<description>A security issue has been identified that could allow an anonymous remote attacker to bypass authentication requirements of running Internet Information Services (IIS).</description>
+			<filename>WindowsServer2003-KB970483-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/2/A/82AC66DB-670F-447B-A857-666C82439BDB/WindowsServer2003-KB970483-x86-ENU.exe</url>
+		</update>
+		<update id="KB970238" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=970238">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=62bb9e22-4f4b-4ffc-ba76-f626e94c79d5&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB970238)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB970238-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/6/B/2/6B2D39C7-9AA8-4759-BAEA-EBB8A131A42D/WindowsServer2003-KB970238-x86-ENU.exe</url>
+		</update>
+		<update id="KB961501" category="1" publishdate="2009-06-08" article="http://support.microsoft.com/?kbid=961501">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=865414f8-3f77-4fee-acc6-6684a3dc0aa4&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB961501)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB961501-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/5/8/B58D0FD7-5BB2-418C-AFCE-7F1D73872FAB/WindowsServer2003-KB961501-x86-ENU.exe</url>
+		</update>
+		<update id="KB960803" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=960803">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=42509f5a-d0f9-444a-9445-5eabdb555011&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB960803)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+			<filename>WindowsServer2003-KB960803-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/9/1/391DFDAC-B9AD-428F-B18C-2FCCB6D277E3/WindowsServer2003-KB960803-x86-ENU.exe</url>
+		</update>
+		<update id="KB959426" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=959426">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=992bb0cd-fbc7-4a7c-9088-f7f9d9a3ead0&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB959426)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB959426-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/8/2/282F2467-CD62-49B7-A571-E607B3F41A56/WindowsServer2003-KB959426-x86-ENU.exe</url>
+		</update>
+		<update id="KB956572" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=956572">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=42aba890-8b76-4c5a-8fb6-609797d19831&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB956572)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB956572-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/3/B/23B9F9C0-2BEF-40A4-9D1B-7F4FEEAE14C7/WindowsServer2003-KB956572-x86-ENU.exe</url>
+		</update>
+		<update id="KB952004" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=952004">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=25ADEC10-DB8C-4CAC-BF74-2C784678150A&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB952004)</title>
+			<description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB952004-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/E/5/F/E5F07613-DA6D-4050-970D-54287DA7A93B/WindowsServer2003-KB952004-x86-ENU.exe</url>
+		</update>
+		<update id="KB923561" category="1" publishdate="2009-04-13" article="http://support.microsoft.com/?kbid=923561">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=2233a4d2-7c8a-4c89-b020-100d9afb43c8&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB923561)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB923561-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/6/8/96882CE1-6531-4516-8D12-36C91CBA0C23/WindowsServer2003-KB923561-x86-ENU.exe</url>
+		</update>
+		<update id="KB961063" category="1" publishdate="2009-03-08" article="http://support.microsoft.com/?kbid=961063">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB961063)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB961063-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/A/2/3A2AED94-EF95-443D-B726-2C81623B0303/WindowsServer2003-KB961063-x86-ENU.exe</url>
+		</update>
+		<update id="KB960225" category="1" publishdate="2009-03-08" article="http://support.microsoft.com/?kbid=960225">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB960225)</title>
+			<description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+			<filename>WindowsServer2003-KB960225-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/0/A/F/0AF555BB-B5F6-4D3C-A314-E154BFF6275C/WindowsServer2003-KB960225-x86-ENU.exe</url>
+		</update>
+		<update id="KB925902" category="1" publishdate="2009-03-04" article="http://support.microsoft.com/?kbid=925902">
+			<!--http://www.microsoft.com/downloads/details.aspx?displaylang=en&familyid=9F73A782-DEAF-46E0-B3E0-79042FF39979-->
+			<title>Security Update for Windows Server 2003 (KB925902)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB925902-v2-x86-custom-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/4/0/D/40D21512-6742-46F7-8857-A939601E845C/WindowsServer2003-KB925902-v2-x86-custom-ENU.exe</url>
+		</update>
+		<update id="KB967715" category="1" publishdate="2009-02-24" article="http://support.microsoft.com/?kbid=967715">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=32b845ac-7681-468c-812b-2dcebdae9b40&displaylang=en-->
+			<title>Update for Windows Server 2003 (KB967715)</title>
+			<description>Install this update to resolve an issue in which AutoRun features were not correctly disabled.</description>
+			<filename>WindowsServer2003-KB967715-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/1/A/2/1A234937-9572-408D-ACC9-3F99915CAC67/WindowsServer2003-KB967715-x86-ENU.exe</url>
+		</update>
+		<update id="KB960089" category="1" publishdate="2009-02-08" article="http://support.microsoft.com/?kbid=960089">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e&displaylang=en-->
+			<title>Security Update for Windows Server 2003 and Windows Server 2008 (KB960089)</title>
+			<description>A security issue has been identified in the Windows Internal Database (WYukon) that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WYukon2005Setup-KB960089-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/9/0/890277FC-B643-407D-9ECA-CC383D7203D7/WYukon2005Setup-KB960089-x86-ENU.exe</url>
+		</update>
+		<update id="KB960082" category="1" publishdate="2009-02-08" article="http://support.microsoft.com/?kbid=960082">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB960082)</title>
+			<description>A security issue has been identified in the Microsoft SQL Server 2000 Desktop Engine (WMSDE) that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>SQLWMSDE-KB960082-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/9/7/997AE2BE-C209-4F65-9F63-1B12F1D4A2FE/SQLWMSDE-KB960082-x86-ENU.exe</url>
+		</update>
+		<update id="KB956802" category="1" publishdate="2008-12-05" article="http://support.microsoft.com/?kbid=956802">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0C396796-0929-4CD2-99E8-3C0F7075A89E&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB956802)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB956802-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/7/3/0/7301F28E-B638-4C31-877E-B71801746D3F/WindowsServer2003-KB956802-x86-ENU.exe</url>
+		</update>
+		<update id="KB952069" category="1" publishdate="2008-12-05" article="http://support.microsoft.com/?kbid=952069">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=D8958248-C889-499E-A6A9-3B394CDB27EA&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB952069)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB952069-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/B/A/6/BA610E78-EF51-48F7-8CE0-B5AB4E17967A/WindowsServer2003-KB952069-x86-ENU.exe</url>
+		</update>
+		<update id="KB952068" category="1" publishdate="2008-12-05" article="http://support.microsoft.com/?kbid=952068">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=E71ABC2D-D60E-444A-9B7B-062C5805FE9E&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB952068)</title>
+			<description>A security issue has been identified that could allow an authenticated remote attacker to compromise your system and gain control over it.</description>
+			<filename>WindowsServer2003-KB952068-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/F/E/4/FE431213-156B-443F-A93F-F7FEC0523375/WindowsServer2003-KB952068-x86-ENU.exe</url>
+		</update>
+		<update id="KB954459" category="1" publishdate="2008-11-11" article="http://support.microsoft.com/?kbid=954459">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=59914795-60c7-4ebe-828d-f28cb457e6e3&displaylang=en-->
+			<title>Security Update for Microsoft XML Core Services 6.0 and Service Pack 1 (KB954459)</title>
+			<description>A security issue has been identified in Microsoft XML Core Services (MSXML) that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>msxml6-KB954459-enu-x86.exe</filename>
+			<url>http://download.microsoft.com/download/2/7/5/2753aabc-24de-41be-a05b-d41fc76f3aad/msxml6-KB954459-enu-x86.exe</url>
+		</update>
+		<update id="KB955069" category="1" publishdate="2008-11-10" article="http://support.microsoft.com/?kbid=955069">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0a0f8385-e908-4b5f-b9bf-80b7dabfcafd&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB955069)</title>
+			<description>A security issue has been identified in the way Microsoft XML Core Services (MSXML) is handled that could allow an attacker to compromise a computer that is running Microsoft Windows and gain control over it.</description>
+			<filename>WindowsServer2003-KB955069-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/f/d/f/fdf1b0cd-bd6b-41be-81b3-80be174e1698/WindowsServer2003-KB955069-x86-ENU.exe</url>
+		</update>
+		<update id="KB954430" category="1" publishdate="2008-11-10" article="http://support.microsoft.com/?kbid=954430">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=96a4413c-5261-4f69-83d0-932c430abd14&displaylang=en-->
+			<title>Security Update for MSXML 4.0 Service Pack 2 (KB954430)</title>
+			<description>A Security issue has been identified in Microsoft XML Core Services (MSXML) that could allow an atacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>msxml4-KB954430-enu.exe</filename>
+			<url>http://download.microsoft.com/download/9/7/1/971f55c8-d512-494f-9c5e-7cc3f9b190ee/msxml4-KB954430-enu.exe</url>
+		</update>
+		<update id="KB958644" category="1" publishdate="2008-10-22" article="http://support.microsoft.com/?kbid=958644">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=F26D395D-2459-4E40-8C92-3DE1C52C390D&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB958644)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB958644-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/e/e/3/ee322649-7f38-4553-a26b-a2ac40a0b205/WindowsServer2003-KB958644-x86-ENU.exe</url>
+		</update>
+		<update id="KB953155" category="1" publishdate="2008-10-13" article="http://support.microsoft.com/?kbid=953155">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=437a9b68-6a0c-48c8-9348-0d6fda48aa21&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB953155)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB953155-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/3/8/838a6271-c37d-46db-a230-49cbeb511ee2/WindowsServer2003-KB953155-x86-ENU.exe</url>
+		</update>
+		<update id="KB954723" category="1" publishdate="2008-08-11" article="http://support.microsoft.com/?kbid=954723">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=302315a8-ccb2-47c2-9104-b8e1d1f49aa0&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB954723)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system. You can help protect your computer by installing this update from Microsoft.</description>
+			<filename>WindowsServer2003-KB954723-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/d/8/2d8230c4-c956-4f01-a627-933166798721/WindowsServer2003-KB954723-x86-ENU.exe</url>
+		</update>
+		<update id="KB952954" category="1" publishdate="2008-08-11" article="http://support.microsoft.com/?kbid=952954">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=828d8fdc-8534-4621-85a5-08aec255496f&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB952954)</title>
+			<description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB952954-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/4/d/0/4d047cff-d95d-49e7-92c6-b3da7e84d1c0/WindowsServer2003-KB952954-x86-ENU.exe</url>
+		</update>
+		<update id="KB951066" category="1" publishdate="2008-08-11" article="http://support.microsoft.com/?kbid=951066">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=30f2244a-f6fd-4fc1-a871-abf6958cb660&displaylang=en-->
+			<title>Security Update for Outlook Express for Windows Server 2003 (KB951066)</title>
+			<description>Security issues have been identified that could allow an attacker to compromise a system that is running Microsoft Outlook Express or Windows Mail and read data from another Internet Explorer domain or the local computer.</description>
+			<filename>WindowsServer2003-KB951066-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/6/8/868e35d2-75fc-451c-ad08-8cddaf36b10c/WindowsServer2003-KB951066-x86-ENU.exe</url>
+		</update>
+		<update id="KB950974" category="1" publishdate="2008-08-11" article="http://support.microsoft.com/?kbid=950974">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=92a3d08f-c117-4b24-bc78-2b913d270df6&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB950974)</title>
+			<description>A security issue has been identified in Event System on Microsoft Windows based systems that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB950974-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/b/8/0/b8072b23-6594-4c1a-8c26-4fdd127d10d2/WindowsServer2003-KB950974-x86-ENU.exe</url>
+		</update>
+		<update id="KB944338" category="1" publishdate="2008-08-11" article="http://support.microsoft.com/?kbid=944338">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=88518aa6-e334-4529-aa63-0bf2ef417ce3&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB944338)</title>
+			<description>A security issue has been identified in VBScript and Jscript that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB944338-v2-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/f/f/c/ffce6d42-42e4-4712-a301-151587859c4e/WindowsServer2003-KB944338-v2-x86-ENU.exe</url>
+		</update>
+		<update id="KB951746" category="1" publishdate="2008-07-07" article="http://support.microsoft.com/?kbid=951746">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=d1fcb794-e6a5-4c28-b3b3-9cd88f468a42&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB951746)</title>
+			<description>A security issue has been identified that could allow a remote attacker to misrepresent a system action or behavior unbeknownst to users on Microsoft Windows systems.</description>
+			<filename>WindowsServer2003-KB951746-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/4/f/d/4fd05d7c-24ec-4f7b-9df1-4016f224e8a0/WindowsServer2003-KB951746-x86-ENU.exe</url>
+		</update>
+		<update id="KB950762" category="1" publishdate="2008-06-10" article="http://support.microsoft.com/?kbid=950762">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=1e8e2faf-009f-403b-a5fe-a47cf014db3a&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB950762)</title>
+			<description>A security issue has been identified that could allow an unauthenticated, remote attacker to cause the affected system to stop responding.</description>
+			<filename>WindowsServer2003-KB950762-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/3/4/334d6996-4776-497d-a630-74641f71bdcf/WindowsServer2003-KB950762-x86-ENU.exe</url>
+		</update>
+		<update id="KB950749" category="1" publishdate="2008-05-12" article="http://support.microsoft.com/?kbid=950749">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=86e3ed62-98f7-46ec-96ab-5e8c123b1288&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB950749)</title>
+			<description>A Critical security issue has been identified in MSJet40.dll that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB950749-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/c/f/b/cfb09058-2759-44cf-870a-7ad54b2f9f91/WindowsServer2003-KB950749-x86-ENU.exe</url>
+		</update>
+		<update id="KB945553" category="1" publishdate="2008-04-08" article="http://support.microsoft.com/?kbid=945553">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=214bd8f5-6eb2-414c-b013-c516a306d692&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB945553)</title>
+			<description>A security issue has been identified in DNS Clients that could allow an attacker to compromise your Microsoft Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB945553-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/9/1/291e1b23-54db-4c75-b106-b3f00341c2b3/WindowsServer2003-KB945553-x86-ENU.exe</url>
+		</update>
+		<update id="KB946026" category="1" publishdate="2008-02-11" article="http://support.microsoft.com/?kbid=946026">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=b7e725bf-7248-4119-aca5-b7d502c09cfc&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB946026)</title>
+			<description>A security issue has been identified in the mrxdav.sys driver that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB946026-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/2/8/828bc35e-7420-483b-a529-0cdd08cf5ff0/WindowsServer2003-KB946026-x86-ENU.exe</url>
+		</update>
+		<update id="KB943055" category="1" publishdate="2008-02-11" article="http://support.microsoft.com/?kbid=943055">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=cfa0d5c6-a9b0-4c5c-a651-898e9f900799&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB943055) - English</title>
+			<description></description>
+			<filename>WindowsServer2003-KB943055-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/2/6/326efaa0-55f1-481d-a4f9-ff302bf037e9/WindowsServer2003-KB943055-x86-ENU.exe</url>
+		</update>
+		<update id="KB942831" category="1" publishdate="2008-02-11" article="http://support.microsoft.com/?kbid=942831">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=516ef8e8-3cb6-4660-b771-3c7f66917a11&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB942831)</title>
+			<description>A security issue has been identified in Windows Internet Information Services (IIS) that could allow an attacker to remotely compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB942831-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/9/4/994596b0-dafe-4ffa-ad79-17ccf848148e/WindowsServer2003-KB942831-x86-ENU.exe</url>
+		</update>
+		<update id="KB942830" category="1" publishdate="2008-02-11" article="http://support.microsoft.com/?kbid=942830">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=6583e798-d16d-419c-aee1-30c3e6c635b3&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB942830)</title>
+			<description>A security issue has been identified in Internet Information Services (IIS) that could allow an attacker to remotely compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB942830-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/e/1/9e185062-9a51-49ca-9447-fb3a7d2248bd/WindowsServer2003-KB942830-x86-ENU.exe</url>
+		</update>
+		<update id="KB941644" category="1" publishdate="2008-01-07" article="http://support.microsoft.com/?kbid=941644">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=fda060a5-9a1e-4036-9899-13eb61fdd8be&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB941644)</title>
+			<description>A security issue has been identified in TCPIP that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB941644-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/7/b/7/7b7e472e-0419-4923-9f32-89598dcb36f1/WindowsServer2003-KB941644-x86-ENU.exe</url>
+		</update>
+		<update id="KB944653" category="1" publishdate="2007-12-10" article="http://support.microsoft.com/?kbid=944653">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=0f84f5e2-1dd8-4882-b796-444ab70b6b02&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB944653)</title>
+			<description>A security issue has been identified in the Macrovision Driver that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB944653-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/7/8/8/78897541-79b2-422e-b5c1-3ca0ede6ce05/WindowsServer2003-KB944653-x86-ENU.exe</url>
+		</update>
+		<update id="KB944275" category="1" publishdate="2007-12-10" article="http://support.microsoft.com/?kbid=944275">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=096711d4-ce01-45d0-9c2d-ebfa5c671b9f&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB944275) - English</title>
+			<description></description>
+			<filename>WindowsServer2003-KB944275-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/3/3/c/33ca83a4-09c4-4247-b8b7-56acc541ea84/WindowsServer2003-KB944275-x86-ENU.exe</url>
+		</update>
+		<update id="KB936357" category="1" publishdate="2007-11-26" article="http://support.microsoft.com/?kbid=936357">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=aad6216c-18a0-450f-8f24-aa1d101bc58d&displaylang=en-->
+			<title>Update for Windows Server 2003 (KB936357)</title>
+			<description>This is a reliability update. Install this microcode update to improve the reliability of systems with Intel processors.</description>
+			<filename>WindowsServer2003-KB936357-v2-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/7/4/7/747cd274-21ec-4fdc-9f8a-1f7c3c98fa0e/WindowsServer2003-KB936357-v2-x86-ENU.exe</url>
+		</update>
+		<update id="KB943460" category="1" publishdate="2007-11-12" article="http://support.microsoft.com/?kbid=943460">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=e5d8a866-2c1f-4035-8325-c1be61a75c3b&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB943460)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB943460-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/4/a/e/4aef3456-ae09-4af6-821f-03850aef757c/WindowsServer2003-KB943460-x86-ENU.exe</url>
+		</update>
+		<update id="KB941672" category="1" publishdate="2007-11-12" article="http://support.microsoft.com/?kbid=941672">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ed8e2cb4-bcd9-40fc-9ad6-46b364d0656d&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB941672)</title>
+			<description>A security issue has been identified in the Microsoft DNS Service that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB941672-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/e/4/2e4fc140-e6ec-4307-8f97-e6de598fbe32/WindowsServer2003-KB941672-x86-ENU.exe</url>
+		</update>
+		<update id="KB938127" category="1" publishdate="2007-08-13" article="http://support.microsoft.com/?kbid=938127">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=463535AA-E04E-4A30-B3AB-8CD6D8CDD13C&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB938127)</title>
+			<description>This update addresses the vulnerability discussed in Microsoft Security Bulletin MS07-050. To find out if other security updates are available for you, see the Overview section of this page.</description>
+			<filename>WindowsServer2003-KB938127-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/e/2/e/e2e43c84-8cc4-4fd4-9753-702262e180dc/WindowsServer2003-KB938127-x86-ENU.exe</url>
+		</update>
+		<update id="KB929123" category="1" publishdate="2007-06-11" article="http://support.microsoft.com/?kbid=929123">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=93808a74-035c-4ab7-9283-c693d7bd82be&displaylang=en-->
+			<title>Cumulative Security Update for Outlook Express for Windows Server 2003 (KB929123)</title>
+			<description>A security issue has been identified that could allow an attacker to remotely compromise your Windows-based system using Outlook Express.</description>
+			<filename>WindowsServer2003-KB929123-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/1/e/d/1edf7f2c-9ea1-4485-ae5a-d6a248e2741f/WindowsServer2003-KB929123-x86-ENU.exe</url>
+		</update>
+		<update id="KB924667" category="1" publishdate="2007-06-11" article="http://support.microsoft.com/?kbid=924667">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=934ca609-d6bc-4bf0-8233-969eb43d48bb&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB924667)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB924667-v2-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/a/a/f/aaf150bb-a014-409a-b0bd-f9f2a19020af/WindowsServer2003-KB924667-v2-x86-ENU.exe</url>
+		</update>
+		<update id="KB927891" category="1" publishdate="2007-05-07" article="http://support.microsoft.com/?kbid=927891">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=2A4A8F01-ACD6-42A1-BB78-3D83CAEDA7A7&displaylang=en-->
+			<title>Update for Windows Server 2003 (KB927891)</title>
+			<description>This is a reliability update. This update resolves an issue in the Windows Installer (MSI) that can affect performance during software updates.</description>
+			<filename>WindowsServer2003-KB927891-v5-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/1/8/1/18183252-0987-4225-9c3a-c57e38a120e9/WindowsServer2003-KB927891-v5-x86-ENU.exe</url>
+		</update>
+		<update id="KB932168" category="1" publishdate="2007-04-09" article="http://support.microsoft.com/?kbid=932168">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=281f10d2-d754-44cd-8318-9ce94b8d01b4&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB932168)</title>
+			<description>A security issue has been identified in Microsoft Agent that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB932168-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/b/c/6/bc60a191-d168-4569-8382-9c3e2efea2ec/WindowsServer2003-KB932168-x86-ENU.exe</url>
+		</update>
+		<update id="KB930178" category="1" publishdate="2007-04-09" article="http://support.microsoft.com/?kbid=930178">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=4dac667d-b346-461e-8bb5-6112e946349f&displaylang=en-->
+			<title>Security Update for Windows Server 2003 (KB930178)</title>
+			<description>A security issue has been identified that could allow an attacker to compromise your Windows-based system and gain control over it.</description>
+			<filename>WindowsServer2003-KB930178-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/a/0/b/a0b26abd-2ab0-4bb2-ad40-4d81cc94436a/WindowsServer2003-KB930178-x86-ENU.exe</url>
+		</update>
+		<update id="KB914961" category="2" publishdate="2007-03-12" article="http://support.microsoft.com/?kbid=914961">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=95ac1610-c232-4644-b828-c55eec605d55&displaylang=en-->
+			<title>Windows Server 2003 Service Pack 2 (32-bit x86)</title>
+			<description>Update Package
+Microsoft Windows Server 2003 Service Pack 2 (SP2) is a cumulative service pack that includes the latest updates and provides enhancements to security and stability.</description>
+			<filename>WindowsServer2003-KB914961-SP2-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/5/f/1/5f104409-2736-48ef-82e1-692ec3da020b/WindowsServer2003-KB914961-SP2-x86-ENU.exe</url>
+		</update>
+		<update id="KB890830" category="9" publishdate="2010-03-09" article="http://support.microsoft.com/?kbid=890830">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=ad724ae0-e72d-4f54-9ab3-75b8eb148356&displaylang=en-->
+			<title>Microsoft® Windows® Malicious Software Removal Tool (KB890830)</title>
+			<description>This tool checks your computer for infection by specific, prevalent malicious software (including Blaster, Sasser, and Mydoom) and helps to remove the infection if it is found. Microsoft will release an updated version of this tool on the second Tuesday of each month.</description>
+			<filename>windows-kb890830-v3.5.exe</filename>
+			<url>http://download.microsoft.com/download/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v3.5.exe</url>
+		</update>
+		<update id="KB961118" category="9" publishdate="2009-02-08" article="http://support.microsoft.com/?kbid=961118">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=037fa2a0-313d-4f18-8ce0-d2538b38e06b&displaylang=en-->
+			<title>Update for Windows Server 2003 (KB961118)</title>
+			<description>Install this update to resolve an issue in which an Inbox Printer driver may be unsigned after you install the Microsoft .NET Framework 3.5 SP1.</description>
+			<filename>WindowsServer2003-KB961118-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/9/A/7/9A76E061-46E8-46BC-8F57-633B301942EB/WindowsServer2003-KB961118-x86-ENU.exe</url>
+		</update>
+		<update id="KB955839" category="9" publishdate="2008-11-24" article="http://support.microsoft.com/?kbid=955839">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=A8683CEC-6D69-4886-9FA7-E902797161E0&displaylang=en-->
+			<title>Update for Windows Server 2003 (KB955839)</title>
+			<description>Install this update to resolve an issue that is caused by revised daylight saving time laws in many countries.</description>
+			<filename>WindowsServer2003-KB955839-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/5/1/C/51CF57BB-CB79-4B94-A86B-0530A8848A75/WindowsServer2003-KB955839-x86-ENU.exe</url>
+		</update>
+		<update id="KB933360" category="9" publishdate="2007-08-01" article="http://support.microsoft.com/?kbid=933360">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=5B0B3C45-1393-460A-BA2E-64DD93012E8F&displaylang=en-->
+			<title>Update for Windows Server 2003 (KB933360)</title>
+			<description>Installing this update enables your computer to automatically adjust the computer clock on the correct date in 2007 due to revised Daylight Saving Time laws in many countries.</description>
+			<filename>WindowsServer2003-KB933360-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/2/d/9/2d9ee2e2-18e0-4910-94bb-e6c74694125a/WindowsServer2003-KB933360-x86-ENU.exe</url>
+		</update>
+		<update id="KB925876" category="9" publishdate="2007-04-24" article="http://support.microsoft.com/?kbid=925876">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=cc148041-577f-4201-b62c-d71adc98adb1&displaylang=en-->
+			<title>Remote Desktop Connection (Terminal Services Client 6.0) for Windows Server 2003 (KB925876)</title>
+			<description>This version of Remote Desktop Connection (Terminal Services Client 6.0) can be installed on client computers running Windows Server 2003 Service Pack 1 (SP1) or Service Pack 2 (SP2).</description>
+			<filename>WindowsServer2003-KB925876-v2-x86-ENU.exe</filename>
+			<url>http://download.microsoft.com/download/8/8/7/8879aabf-6352-4ffe-a65a-11b3f70eb6eb/WindowsServer2003-KB925876-v2-x86-ENU.exe</url>
+		</update>
+		<update id="UPHClean" category="9" publishdate="2007-03-08">
+			<!--http://www.microsoft.com/downloads/details.aspx?familyid=1b286e6d-8912-4e18-b570-42470e2f3582&displaylang=en-->
+			<title>User Profile Hive Cleanup Service</title>
+			<description>A service to help with slow log off and unreconciled profile problems.</description>
+			<filename>UPHClean-Setup.msi</filename>
+			<url>http://download.microsoft.com/download/a/8/7/a87b3d05-cd04-4743-a23b-b16645e075ac/UPHClean-Setup.msi</url>
+		</update>
+	</updates>
+</updatelist>

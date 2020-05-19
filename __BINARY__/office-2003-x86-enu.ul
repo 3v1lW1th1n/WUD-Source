@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<updatelist product="Office 2003" platform="x86" language="ENU" lastupdate="2006-08-19" xmlns="http://wud.jcarle.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://wud.jcarle.com http://wud.jcarle.com/wud.xsd">
+
+<!-- Created by Draxx -->
+
+<categories>
+ <category id="1">Office 2003 Critical Updates</category>
+ <category id="2">Office 2003 Service Packs</category>
+ <category id="3">Office 2003 Other</category>
+</categories>
+
+<updates>
+ <update id="KB913807" category="1" publishdate="2006-03-10">
+  <title>Update for Outlook 2003 (KB913807)</title>
+  <description>This update corrects a problem that may occur when you programmatically use the CreateItemFromTemplate method to create a form. This update also includes other fixes for Outlook 2003.</description>
+  <filename>office2003-KB913807-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/3/c/a/3ca8dc7f-e2d1-4e89-8e4c-06f813ff6141/office2003-KB913807-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB907417" category="1" publishdate="2005-08-11">
+  <title>Update for Office 2003 (KB907417)</title>
+  <description>This update corrects a potential problem in which an add-in, a smart tag, or a smart document may not load if the add-in, smart tag, or smart document uses the Microsoft .NET Framework 2.0.</description>
+  <filename>office2003-KB907417-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/5/a/6/5a6c111a-4392-41dc-a1b3-87ea0083950a/office2003-KB907417-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB917334" category="1" publishdate="2006-06-13">
+  <title>Security Update for Word 2003 (KB917336)</title>
+  <description>MS06-027 Vulnerability in Microsoft Word Could Allow Remote Code Execution.</description>
+  <filename>office2003-KB917334-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/5/0/1/5018537a-628b-40d8-9d54-3fdbae8705a9/office2003-KB917334-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB916518" category="1" publishdate="2006-06-13">
+  <title>Security Update for PowerPoint 2003 (KB916518)</title>
+  <description>MS06-028 Vulnerability in Microsoft PowerPoint Could Allow Remote Code Execution.</description>
+  <filename>office2003-KB916518-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/a/c/a/aca69765-b6cc-4d4a-8bb2-a183f63a3de2/office2003-KB916518-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB918419" category="1" publishdate="2006-07-10">
+  <title>Security Update for Excel 2003 (KB918419)</title>
+  <description>MS06-037 Vulnerabilities in Microsoft Excel Could Allow Remote Code Execution.</description>
+  <filename>office2003-KB918419-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/2/0/1/201f36a9-915e-4e51-a9ba-468668a4db01/office2003-KB918419-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB914455" category="1" publishdate="2006-07-10">
+  <title>Security Update for Office 2003 (KB914455)</title>
+  <description>MS06-039 Vulnerabilities in Microsoft Office Filters Could Allow Remote Code Execution.</description>
+  <filename>office2003-KB914455-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/f/b/f/fbf5215b-9b62-4706-8582-1bbc5f9d1b6d/office2003-KB914455-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB920907" category="1" publishdate="2006-08-07">
+  <title>Update for Outlook 2003 Junk E-mail Filter (KB920907)</title>
+  <description>This update provides the Junk E-mail Filter in Microsoft Office Outlook 2003 with a more current definition of which e-mail messages should be considered junk e-mail. This update was released in August 2006.</description>
+  <filename>office2003-KB920907-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/6/7/6/676537d0-b2f3-4ec4-b1be-903df5a145ca/office2003-KB920907-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB920103" category="1" publishdate="2006-08-07">
+  <title>Update for InfoPath 2003 (KB920103)</title>
+  <description>This update provides the latest fixes to InfoPath 2003. Additionally, this update contains stability and performance improvements.</description>
+  <filename>office2003-KB920103-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/5/c/f/5cf4aa46-0ffb-403f-b73d-9e093ab5c3da/office2003-KB920103-FullFile-ENU.exe</url>
+ </update>
+ <update id="KB921566" category="1" publishdate="2006-08-07">
+  <title>Security Update for Office 2003 (KB921566)</title>
+  <description>MS06-048 Vulnerabilities in Microsoft Office Could Allow Remote Code Execution.</description>
+  <filename>office2003-KB921566-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/e/2/4/e2497130-dfb8-47e6-97e0-2be06b29b8da/office2003-KB921566-FullFile-ENU.exe</url>
+ </update>
+
+ <update id="KB842532" category="2" publishdate="2004-07-27">
+  <title>Office 2003 Service Pack 1 (SP1)</title>
+  <description>Office 2003 Service Pack 1 provides the latest updates to Microsoft Office 2003.</description>
+  <filename>Office2003SP1-kb842532-fullfile-enu.exe</filename>
+  <url>http://download.microsoft.com/download/1/a/9/1a9a2039-70e3-4e92-b977-756fe884f731/Office2003SP1-kb842532-fullfile-enu.exe</url>
+ </update>
+ <update id="KB887616" category="2" publishdate="2005-09-27">
+  <title>Office 2003 Service Pack 2 (SP2)</title>
+  <description>Office 2003 Service Pack 2 provides the latest updates to Microsoft Office 2003.</description>
+  <filename>Office2003SP2-KB887616-FullFile-ENU.exe</filename>
+  <url>http://download.microsoft.com/download/9/b/3/9b37f157-123d-41fd-a3f4-f4aedd0cc847/Office2003SP2-KB887616-FullFile-ENU.exe</url>
+ </update>
+</updates>
+
+</updatelist>

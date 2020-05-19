@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updatelist product="Windows 8" servicepack="" platform="x86" language="ENU" lastupdate="2013-12-10" xmlns="http://www.windowsupdatesdownloader.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.windowsupdatesdownloader.com http://www.windowsupdatesdownloader.com/wud.xsd">
+
+<!-- Created by Steven4554 -->
+
+<categories>
+  <category id="1">Security Updates</category>
+  <category id="2">Non-Security Updates</category>
+  <category id="3">.NET Framework 4.5 Updates</category>
+  <category id="4">Optional Updates</category>
+  <category id="5">Pre-Release Software</category>
+  <category id="6">Language Packs</category>
+  <category id="7">Windows 8.1 Store Download</category>
+</categories>
+
+<updates>
+  <update id="KB2898785" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2898785">
+    <title>Cumulative Security Update for Internet Explorer 10 in Windows 8 (KB2898785)</title>
+    <description>Security issues have been identified that could allow an attacker to compromise a computer running Microsoft Internet Explorer and gain control over it.</description>
+    <filename>IE10-Windows8-RT-KB2898785-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/C/D/8CDA8A7C-8A50-4483-BD25-84B8A802230C/Windows8-RT-KB2898785-x86.msu</url>
+  </update>
+  <update id="KB2727528" category="1" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2727528">
+    <title>Security Update for Windows 8 (KB2727528)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2727528-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/F/A/4FA6DB18-DE88-4FF1-96CD-8ED836D3608D/Windows8-RT-KB2727528-x86.msu</url>
+  </update>
+  <update id="KB2770660" category="1" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2770660">
+    <title>Security Update for Windows 8 (KB2770660)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2770660-x86.msu</filename>
+    <url>http://download.microsoft.com/download/E/9/9/E9988438-6A09-4794-BCEB-BD7D4D4A23B4/Windows8-RT-KB2770660-x86.msu</url>
+  </update>
+  <update id="KB2757638" category="1" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2757638">
+    <title>Security Update for Windows 8 (KB2757638)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2757638-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/C/9/BC9FF391-C1BF-4B59-AF40-B707DFAFB022/Windows8-RT-KB2757638-x86.msu</url>
+  </update>
+  <update id="KB2785220" category="1" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2785220">
+    <title>Security Update for Windows 8 (KB2785220)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain access to information.</description>
+    <filename>Windows8-RT-KB2785220-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/6/5/8653C68F-C863-4BF5-BA55-8738F1D78C78/Windows8-RT-KB2785220-x86.msu</url>
+  </update>
+  <update id="KB2797052" category="1" publishdate="2013-02-12" article="http://support.microsoft.com/kb/2797052">
+    <title>Security Update for Internet Explorer 10 for Windows 8 (KB2797052)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2797052-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/6/3/D63BBE78-4FB2-484F-9B27-EC1C2A5B9492/Windows8-RT-KB2797052-x86.msu</url>
+  </update>
+  <update id="KB2807986" category="1" publishdate="2013-03-12" article="http://support.microsoft.com/kb/2807986">
+    <title>Security Update for Windows 8 (KB2807986)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2807986-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/8/4/B8469099-58B7-402A-B8AE-A0EAB8BAC7CC/Windows8-RT-KB2807986-x86.msu</url>
+  </update>
+  <update id="KB2829254" category="1" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2829254">
+    <title>Security Update for Windows 8 (KB2829254)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows8-RT-KB2829254-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/0/9/309D559F-D149-48FD-BED7-A007885FF26E/Windows8-RT-KB2829254-x86.msu</url>
+  </update>
+  <update id="KB2830290" category="1" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2830290">
+    <title>Security Update for Windows 8 (KB2830290)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows8-RT-KB2830290-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/0/E/40E83B96-9600-4F4E-B58F-3E4A04A3257E/Windows8-RT-KB2830290-x86.msu</url>
+  </update>
+  <update id="KB2839894" category="1" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2839894">
+    <title>Security Update for Windows 8 (KB2839894)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows8-RT-KB2839894-x86.msu</filename>
+    <url>http://download.microsoft.com/download/E/9/B/E9B0EE84-30E0-4E74-967E-58E83DE74B51/Windows8-RT-KB2839894-x86.msu</url>
+  </update>
+  <update id="KB2813430" category="1" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2813430">
+    <title>Security Update for Windows 8 (KB2813430)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows8-RT-KB2813430-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/C/7/6C79C339-1C9E-4704-951D-C4DDE130C689/Windows8-RT-KB2813430-x86.msu</url>
+  </update>
+  <update id="KB2835361" category="1" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2835361">
+    <title>Security Update for Windows 8 (KB2835361)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2835361-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/1/B/C1BFC5CD-7E71-4011-84B6-06BF1887CEEC/Windows8-RT-KB2835361-x86.msu</url>
+  </update>
+  <update id="KB2835364" category="1" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2835364">
+    <title>Security Update for Windows 8 (KB2835364)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2835364-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/B/0/FB074666-EE11-4BDB-A689-A6C1CE4413C4/Windows8-RT-KB2835364-x86.msu</url>
+  </update>
+  <update id="KB2845187" category="1" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2845187">
+    <title>Security Update for Windows 8 (KB2845187)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2845187-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/7/3/37336863-753B-4062-9D29-83B291FE4AA3/Windows8-RT-KB2845187-x86.msu</url>
+  </update>
+  <update id="KB2803821" category="1" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2803821">
+    <title>Security Update for Windows 8 (KB2803821)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2803821-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/C/A/2CAE7233-AC71-4D99-A865-16FCD3ECEE3A/Windows8-RT-KB2803821-x86.msu</url>
+  </update>
+  <update id="KB2849470" category="1" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2849470">
+    <title>Security Update for Windows 8 (KB2849470)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2849470-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/B/0/0B0299D7-6955-4731-8AF4-269A386A6410/Windows8-RT-KB2849470-x86.msu</url>
+  </update>
+  <update id="KB2868623" category="1" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2868623">
+    <title>Security Update for Windows 8 (KB2868623)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to cause the affected system to stop responding.</description>
+    <filename>Windows8-RT-KB2868623-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/D/A/BDA8DD02-BFD4-4FB4-BEC1-87FC85C1D628/Windows8-RT-KB2868623-x86.msu</url>
+  </update>
+  <update id="KB2862966" category="1" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2862966">
+    <title>Security Update for Windows 8 (KB2862966)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2862966-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/8/C/38C5D723-5948-422F-B8BB-1C2034FFC813/Windows8-RT-KB2862966-x86.msu</url>
+  </update>
+  <update id="KB2859537" category="1" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2859537">
+    <title>Security Update for Windows 8 (KB2859537)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows8-RT-KB2859537-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/D/1/6D143C5C-36B6-427E-85C1-AED0E85B639C/Windows8-RT-KB2859537-x86.msu</url>
+  </update>
+  <update id="KB2847311" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/2847311">
+    <title>Security Update for Windows 8 (KB2847311)</title>
+    <description>A security issue has been identified that could allow an authenticated local attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2847311-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/D/5/FD52E1FF-11E1-459D-9D15-80F7E9123BE3/Windows8-RT-KB2847311-x86.msu</url>
+  </update>
+  <update id="KB2862330" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2862330">
+    <title>Security Update for Windows 8 (KB2862330)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2862330-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/B/2/7B22006D-4658-48F5-AECF-2AAF9916C7F7/Windows8-RT-KB2862330-x86.msu</url>
+  </update>
+  <update id="KB2862335" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2862335">
+    <title>Security Update for Windows 8 (KB2862335)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2862335-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/A/C/DAC52F1D-1F57-4054-92BF-B45044BE1D65/Windows8-RT-KB2862335-x86.msu</url>
+  </update>
+  <update id="KB2863725" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2863725">
+    <title>Security Update for Windows 8 (KB2863725)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system.</description>
+    <filename>Windows8-RT-KB2863725-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/9/C/79CD6C30-4685-4085-A3E7-B05FBD2AEB8B/Windows8-RT-KB2863725-x86.msu</url>
+  </update>
+  <update id="KB2864202" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2864202">
+    <title>Security Update for Windows 8 (KB2864202)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2864202-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/A/1/0A10D52F-119C-4936-B026-E95A672D16B9/Windows8-RT-KB2864202-x86.msu</url>
+  </update>
+  <update id="KB2868038" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2868038">
+    <title>Security Update for Windows 8 (KB2868038)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2868038-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/C/7/CC7070FB-5CD7-4D5C-B4F2-83EB4D2A3A38/Windows8-RT-KB2868038-x86.msu</url>
+  </update>
+  <update id="KB2884256" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2884256">
+    <title>Security Update for Windows 8 (KB2884256)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2884256-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/9/4/D94F1437-EF5C-4A8E-913A-271478E68460/Windows8-RT-KB2884256-x86.msu</url>
+  </update>
+  <update id="KB2864058" category="1" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2864058">
+    <title>Security Update for Windows 8 (KB2864058)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2864058-x86.msu</filename>
+    <url>http://download.microsoft.com/download/A/E/8/AE8A869A-52DE-4408-A5CA-F10C0CDA7070/Windows8-RT-KB2864058-x86.msu</url>
+  </update>
+  <update id="KB2876331" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2876331">
+    <title>Security Update for Windows 8 (KB2876331)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2876331-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/9/4/49420593-FC6E-4BC3-B242-5295C4A7C868/Windows8-RT-KB2876331-x86.msu</url>
+  </update>
+  <update id="KB2900986" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2900986">
+    <title>Cumulative Security Update for ActiveX Killbits for Windows 8 (KB2900986)</title>
+    <description>Security issues have been identified in Active X controls that could allow an attacker to compromise a system running Microsoft Internet Explorer and gain control over it</description>
+    <filename>Windows8-RT-KB2900986-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/F/6/9F62955B-1EDC-4D77-9832-A75F771AD2F5/Windows8-RT-KB2900986-x86.msu</url>
+  </update>
+  <update id="KB2868626" category="1" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2868626">
+    <title>Security Update for Windows 8 (KB2868626)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2868626-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/0/9/C0958A2B-AB3E-4994-83BF-746DA91CBD04/Windows8-RT-KB2868626-x86.msu</url>
+  </update>
+  <update id="KB2893294" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2893294">
+    <title>Security Update for Windows 8 (KB2893294)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2893294-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/A/9/7A901FC2-46C8-477B-8A90-4E7E9DF7BA81/Windows8-RT-KB2893294-x86.msu</url>
+  </update>
+  <update id="KB2892074" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2892074">
+    <title>Security Update for Windows 8 (KB2892074)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2892074-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/B/4/DB41C19D-E072-4A4E-B463-008C884B51F1/Windows8-RT-KB2892074-x86.msu</url>
+  </update>
+  <update id="KB2893984" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2893984">
+    <title>Security Update for Windows 8 (KB2893984)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2893984-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/C/7/BC7A7A83-9CAC-4E03-AE01-C08EF6FBAF0E/Windows8-RT-KB2893984-x86.msu</url>
+  </update>
+  <update id="KB2887069" category="1" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2887069">
+    <title>Security Update for Windows 8 (KB2887069)</title>
+    <description>A security issue has been identified in a Microsoft software product that could affect your system</description>
+    <filename>Windows8-RT-KB2887069-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/1/4/814DD9D1-9B0C-48BB-8494-8EDA8E0D85B6/Windows8-RT-KB2887069-x86.msu</url>
+  </update>
+
+  <update id="KB2907997" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2907997">
+    <title>Update for Internet Explorer Flash Player for Windows 8 (KB2907997)</title>
+    <description>Security issues have been identified that could allow an attacker to compromise a computer running Internet Explorer Flash Player for Windows 8 and gain control over it.</description>
+    <filename>Windows8-RT-KB2907997-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/0/0/00043F35-B491-4FCC-B6CD-86A7DBB40A57/Windows8-RT-KB2907997-x86.msu</url>
+  </update>
+  <update id="KB2856373" category="2" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2856373">
+    <title>Update for Windows 8 (KB2856373)</title>
+    <description>Install this update to improve protection functionality in Windows Defender.</description>
+    <filename>Windows8-RT-KB2856373-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/1/E/01E2DA42-982A-4FAE-B956-28E53832B299/Windows8-RT-KB2856373-x86.msu</url>
+  </update>
+  <update id="KB917607" category="2" publishdate="2012-11-07" article="http://support.microsoft.com/kb/917607">
+    <title>Windows Help program for Windows 8 (KB917607)</title>
+    <description>WinHlp32.exe is required to display 32-bit Help files that have the ".hlp" file name extension. To view .hlp files on Windows 8, you need to install this application.</description>
+    <filename>Windows8-RT-KB917607-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/0/0/200C7BAF-48D7-4C0A-9C12-088CBA3DB13B/Windows8-RT-KB917607-x86.msu</url>
+  </update>
+  <update id="KB2869628" category="2" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2869628">
+    <title>Update for Windows 8 (KB2869628)</title>
+    <description>Install this update to resolve a set of known application compatibility issues with Windows.</description>
+    <filename>Windows8-RT-KB2869628-x86.msu</filename>
+    <url>http://download.microsoft.com/download/E/9/B/E9B5412F-60C0-408B-B216-6020BB5C9B8F/Windows8-RT-KB2869628-x86.msu</url>
+  </update>
+  <update id="KB2779768" category="2" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2779768">
+    <title>Update for Windows 8 (KB2779768)</title>
+    <description>These updates (*.msu) provide a collection of performance and reliability improvements that are designed to improve the Windows 8 experience.</description>
+    <filename>Windows8-RT-KB2779768-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/1/6/4166D5DC-2793-4E8B-9D3E-E9DE745E5EE2/Windows8-RT-KB2779768-x86.msu</url>
+  </update>
+  <update id="KB2756872" category="2" publishdate="2012-10-09" article="http://support.microsoft.com/kb/2756872">
+    <title>Update for Windows 8 (KB2756872)</title>
+    <description>These updates (*.msu) provide a collection of performance and reliability improvements that are designed to improve the Windows 8 experience.</description>
+    <filename>Windows8-RT-KB2756872-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/B/A/2BA0BE24-CA5F-4E8E-8FCC-E08DDE80D4B1/Windows8-RT-KB2756872-x86.msu</url>
+  </update>
+  <update id="KB2899190" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2899190">
+    <title>Update for Microsoft Camera Codec Pack for Windows 8 (KB2899190)</title>
+    <description>Installing the Microsoft Camera Codec Pack enables the viewing of a variety of device-specific file formats and will allow supported RAW camera files to be viewable in applications in Windows.</description>
+    <filename>Windows8-RT-KB2899190-x86.msu</filename>
+    <url>http://download.microsoft.com/download/C/2/C/C2CAF391-A948-4083-9B61-1711AD84A894/Windows8-RT-KB2899190-x86.msu</url>
+  </update>
+  <update id="KB2768703" category="2" publishdate="2012-10-15" article="http://support.microsoft.com/kb/2768703">
+    <title>Update for Windows 8 (KB2768703)</title>
+    <description>Protected content playback errors on Windows 8 after you install KB2756872.</description>
+    <filename>Windows8-RT-KB2768703-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/A/A/FAA7BB5C-AD73-4241-BB43-86778957A34C/Windows8-RT-KB2768703-x86.msu</url>
+  </update>
+  <update id="KB2770816" category="2" publishdate="2012-10-23" article="http://support.microsoft.com/kb/2770816">
+    <title>Update for Windows 8 (KB2770816)</title>
+    <description>Windows Update stops at 13 percent in Windows 8</description>
+    <filename>Windows8-RT-KB2770816-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/2/0/72038D94-E27C-4A9E-B60B-0EEDED4EF9D8/Windows8-RT-KB2770816-x86.msu</url>
+  </update>
+  <update id="KB2769034" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2769034">
+    <title>Update for Windows 8 (KB2769034)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2769034-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/7/4/774E0791-F5D4-42C4-AA67-CD1C3CC0D1C2/Windows8-RT-KB2769034-x86.msu</url>
+  </update>
+  <update id="KB2769165" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2769165">
+    <title>Update for Windows 8 (KB2769165)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2769165-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/B/7/5B78A8E8-3E47-4F4F-97DF-BF9362D9679C/Windows8-RT-KB2769165-x86.msu</url>
+  </update>
+  <update id="KB2772501" category="2" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2772501">
+    <title>Update for Windows 8 (KB2772501)</title>
+    <description>Favorites are not displayed in Internet Explorer 10 on a computer that is running Windows 8</description>
+    <filename>fixiepropschema.exe</filename>
+    <url>http://download.windowsupdate.com/msdownload/update/software/crup/2012/11/fixiepropschema_252d98cf7ab8957078aa0d0fe12233b7c4f9d713.exe</url>
+  </update>
+  <update id="KB2792476" category="2" publishdate="2012-12-20" article="http://support.microsoft.com/kb/2792476">
+    <title>Update for Windows 8 (KB2792476)</title>
+    <description>Install this update to resolve a set of known application compatibility issues with Windows.</description>
+    <filename>Windows8-RT-KB2792476-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/A/6/BA6EAC03-C2B8-449E-91AD-369BAB0CE9C1/Windows8-RT-KB2792476-x86.msu</url>
+  </update>
+  <update id="KB2777294" category="2" publishdate="2012-11-27" article="http://support.microsoft.com/kb/2777294">
+    <title>Update for Windows 8 (KB2777294)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2777294-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/4/C/44C89EC6-925F-4568-A2FD-D546FD06B6E4/Windows8-RT-KB2777294-x86.msu</url>
+  </update>
+  <update id="KB2904266" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2904266">
+    <title>Update for Windows 8 (KB2904266)</title>
+    <description>Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries.</description>
+    <filename>Windows8-RT-KB2904266-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/F/2/7F28E3DF-8732-44C4-BEFF-DA386C21BC08/Windows8-RT-KB2904266-x86.msu</url>
+  </update>
+  <update id="KB2780541" category="2" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2780541">
+    <title>Update for Windows 8 (KB2780541)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2780541-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/C/A/5CA3F13F-DB5D-4F9D-B160-DEC50462D962/Windows8-RT-KB2780541-x86.msu</url>
+  </update>
+  <update id="KB2774195" category="2" publishdate="2012-12-11" article="http://support.microsoft.com/kb/2774195">
+    <title>Update for Windows 8 (KB2774195)</title>
+    <description>"Pinned" is incorrectly translated to "Bloccato" in the Italian version of Internet Explorer 10 on a computer that is running Windows 8.</description>
+    <filename>Windows8-RT-KB2774195-x86.msu</filename>
+    <url>http://download.windowsupdate.com/msdownload/update/software/updt/2012/12/windows8-rt-kb2774195-x86_7a0aa4691c4287d59c68a6db11e52455de30c760.msu</url>
+  </update>
+  <update id="KB2798897" category="2" publishdate="2013-01-03" article="http://support.microsoft.com/kb/2798897">
+    <title>Update for Windows 8 (KB2798897)</title>
+    <description>Install this update to resolve an issue which requires an update to the untrusted certificate store on Windows systems and to keep your systems up to date.</description>
+    <filename>rvkroots.exe</filename>
+    <url>http://download.microsoft.com/download/F/5/1/F5161BA0-73B7-46DD-9D98-24BB93DC798A/rvkroots.exe</url>
+  </update>
+  <update id="KB2785094" category="2" publishdate="2013-02-12" article="http://support.microsoft.com/kb/2785094">
+    <title>Update for Windows 8 (KB2785094)</title>
+    <description>These updates (*.msu) provide a collection of performance and reliability improvements that are designed to improve the Windows 8 experience.</description>
+    <filename>Windows8-RT-KB2785094-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/5/5/F5593F1D-410B-48EF-991F-02D5225C4ECF/Windows8-RT-KB2785094-x86.msu</url>
+  </update>
+  <update id="KB2794599" category="2" publishdate="2013-02-26" article="http://support.microsoft.com/kb/2794599">
+    <title>Update for Windows 8 (KB2794599)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2794599-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/1/C/31C1031C-82B2-4027-8CE6-6D449106458F/Windows8-RT-KB2794599-x86.msu</url>
+  </update>
+  <update id="KB2811660" category="2" publishdate="2013-03-12" article="http://support.microsoft.com/kb/2811660">
+    <title>Update for Windows 8 (KB2811660)</title>
+    <description>These updates (*.msu) provide a collection of performance and reliability improvements that are designed to improve the Windows 8 experience.</description>
+    <filename>Windows8-RT-KB2811660-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/9/3/593693C9-934B-4161-923B-C5337E2E876A/Windows8-RT-KB2811660-x86.msu</url>
+  </update>
+  <update id="KB2822241" category="2" publishdate="2013-04-09" article="http://support.microsoft.com/kb/2822241">
+    <title>Update for Windows 8 (KB2822241)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2822241-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/5/1/05138857-81CD-41ED-A6D8-1B6EC315E35D/Windows8-RT-KB2822241-x86.msu</url>
+  </update>
+  <update id="KB2800033" category="2" publishdate="2013-04-09" article="http://support.microsoft.com/kb/2800033">
+    <title>Update for Windows 8 (KB2800033)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2800033-x86.msu</filename>
+    <url>http://download.microsoft.com/download/2/9/6/2968D327-2EF8-41F7-9E41-7832F773A48E/Windows8-RT-KB2800033-x86.msu</url>
+  </update>
+  <update id="KB2798162" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2798162">
+    <title>Update for Windows 8 (KB2798162)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2798162-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/3/8/D38241B0-4C5E-4FC1-BCB6-905DC9800909/Windows8-RT-KB2798162-x86.msu</url>
+  </update>
+  <update id="KB2836988" category="2" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2836988">
+    <title>Update for Windows 8 (KB2836988)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2836988-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/6/2/762FFFAA-EFAB-433F-8FD7-6DBA11BCF588/Windows8-RT-KB2836988-x86.msu</url>
+  </update>
+  <update id="KB2808679" category="2" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2808679">
+    <title>Update for Windows 8 (KB2808679)</title>
+    <description>Install this update to resolve issues in Windows.</description>
+    <filename>Windows8-RT-KB2808679-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/9/D/49D45DB7-95D8-4A21-B72A-8AC7409A2D58/Windows8-RT-KB2808679-x86.msu</url>
+  </update>
+  <update id="KB2845533" category="2" publishdate="2013-06-11" article="http://support.microsoft.com/kb/2845533">
+    <title>Update for Windows 8 (KB2845533)</title>
+    <description>These updates (*.msu) provide a collection of performance and reliability improvements that are designed to improve the Windows 8 experience.</description>
+    <filename>Windows8-RT-KB2845533-x86.msu</filename>
+    <url>http://download.microsoft.com/download/E/E/7/EE7C159E-067B-45D0-ACDA-B2FD8D4A0A33/Windows8-RT-KB2845533-x86.msu</url>
+  </update>
+  <update id="KB2855336" category="2" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2855336">
+    <title>Update for Windows 8 (KB2855336)</title>
+    <description>These updates (*.msu) provide a collection of performance and reliability improvements that are designed to improve the Windows 8 experience</description>
+    <filename>Windows8-RT-KB2855336-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/D/E/5DE936D9-6E59-4709-91BC-3BEA704B7CBD/Windows8-RT-KB2855336-x86.msu</url>
+  </update>
+  <update id="KB2862768" category="2" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2862768">
+    <title>Update for Windows 8 (KB2862768)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2862768-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/D/F/3DFF776A-3EB1-4688-905C-16811FF5AB4B/Windows8-RT-KB2862768-x86.msu</url>
+  </update>
+  <update id="KB2863058" category="2" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2863058">
+    <title>Update for Windows 8 (KB2863058)</title>
+    <description>Install this update to resolve issues caused by revised daylight saving time and time zone laws in several countries.</description>
+    <filename>Windows8-RT-KB2863058-x86.msu</filename>
+    <url>http://download.microsoft.com/download/4/2/A/42AAB095-EC77-424C-8CD1-928CEEB44179/Windows8-RT-KB2863058-x86.msu</url>
+  </update>
+  <update id="KB2876415" category="2" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2876415">
+    <title>Update for Windows 8 (KB2876415)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2876415-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/2/C/92CED362-1517-4632-9FE8-68CA8E0CDA2A/Windows8-RT-KB2876415-x86.msu</url>
+  </update>
+  <update id="KB2871777" category="2" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2871777">
+    <title>Update for Windows 8 (KB2871777)</title>
+    <description>A servicing stack update is available for Windows 8.</description>
+    <filename>Windows8-RT-KB2871777-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/7/6/7764A15B-F6FC-4818-A3C7-BD3448AB89FE/Windows8-RT-KB2871777-x86.msu</url>
+  </update>
+  <update id="KB2802618" category="2" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2802618">
+    <title>Update for Windows 8 (KB2802618)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2802618-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/3/3/83307D8F-CF29-4F62-BE48-44009D2C524D/Windows8-RT-KB2802618-x86.msu</url>
+  </update>
+  <update id="KB2883201" category="2" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2883201">
+    <title>Update for Windows 8 (KB2883201)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2883201-x.msu</filename>
+    <url>http://download.microsoft.com/download/8/C/8/8C80EBF6-61C5-4C5E-9823-B3DFFB2D840A/Windows8-RT-KB2883201-x86.msu</url>
+  </update>
+  <update id="KB2882780" category="2" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2882780">
+    <title>Update for Windows 8 (KB2882780)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2882780-x86.msu</filename>
+    <url>http://download.microsoft.com/download/D/6/E/D6E288D0-3913-4B09-87AE-97926E3A7BAD/Windows8-RT-KB2882780-x86.msu</url>
+  </update>
+  <update id="KB2889784" category="2" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2889784">
+    <title>Update for Windows 8 (KB2889784)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2889784-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/C/E/9CE51ACF-FF52-429C-B427-09EA3A3D7C18/Windows8-RT-KB2889784-x86.msu</url>
+  </update>
+  <update id="KB2893519" category="2" publishdate="2013-11-12" article="http://support.microsoft.com/kb/2893519">
+    <title>Update for Windows 8 (KB2893519)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2893519-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/5/5/55542A6C-4E10-46DB-8E4F-44A87881FE6A/Windows8-RT-KB2893519-x86.msu</url>
+  </update>
+  <update id="KB2877213" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2877213">
+    <title>Update for Windows 8 (KB2877213)</title>
+    <description>Applications disappear from the Start screen after you refresh a Windows 8-based computer by using a push-button reset recovery image</description>
+    <filename>Windows8-RT-KB2877213-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/6/5/7656A287-8603-492D-8EA5-97E380A43CAE/Windows8-RT-KB2877213-x86.msu</url>
+  </update>
+  <update id="KB2891804" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2891804">
+    <title>Update for Windows 8 (KB2891804)</title>
+    <description>Files or folders are removed unexpectedly when you perform a cut-and-paste operation on a Windows FTP client that is connected to an FTP site</description>
+    <filename>Windows8-RT-KB2891804-v2-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/C/1/8C16F160-1233-44BE-8AD1-B825EDA4D1A5/Windows8-RT-KB2891804-v2-x86.msu</url>
+  </update>
+  <update id="KB2903938" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2903938">
+    <title>Update for Windows 8 (KB2903938)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2903938-x86.msu</filename>
+    <url>http://download.microsoft.com/download/7/1/F/71F8244B-41F9-44E4-A010-C15866C5EAFF/Windows8-RT-KB2903938-x86.msu</url>
+  </update>
+  <update id="KB2905454" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2905454">
+    <title>Update for Windows 8 (KB2905454)</title>
+    <description>Install this update to resolve issues in Windows</description>
+    <filename>Windows8-RT-KB2905454-x86.msu</filename>
+    <url>http://download.microsoft.com/download/6/C/7/6C7B37A3-50AF-4611-8577-087FFCD6D340/Windows8-RT-KB2905454-x86.msu</url>
+  </update>
+  <update id="KB2913152" category="2" publishdate="2013-12-10" article="http://support.microsoft.com/kb/2913152">
+    <title>Update for Windows 8 (KB2913152)</title>
+    <description>Windows Photo Viewer prints white lines when you use an XPS driver to print photos in Windows 7</description>
+    <filename>Windows8-RT-KB2913152-x86.msu</filename>
+    <url>http://download.microsoft.com/download/9/4/4/944BDF18-C826-47A5-BF12-5D09109A006C/Windows8-RT-KB2913152-x86.msu</url>
+  </update>
+
+  <update id="KB2737084" category="3" publishdate="2012-11-13" article="http://support.microsoft.com/kb/2737084">
+    <title>Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2737084)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2737084-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/5/E/15ED768E-FAAD-4F68-AD12-4C5744A4234B/Windows8-RT-KB2737084-x86.msu</url>
+  </update>
+  <update id="KB2742614" category="3" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2742614">
+    <title>Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2742614)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2742614-x86.msu</filename>
+    <url>http://download.microsoft.com/download/B/B/1/BB135B47-BF89-4BDD-AB1F-3558EADED4F6/Windows8-RT-KB2742614-x86.msu</url>
+  </update>
+  <update id="KB2750149" category="3" publishdate="2013-01-08" article="http://support.microsoft.com/kb/2750149">
+    <title>Update for .NET 4.5 Framework RTM for Windows 8 (KB2750149)</title>
+    <description>Update for .NET 4.5 Framework RTM for Windows 8 RTM</description>
+    <filename>Windows8-RT-KB2750149-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/8/B/38BB6830-BD1E-44CA-B640-272543AFD7CC/Windows8-RT-KB2750149-x86.msu</url>
+  </update>
+  <update id="KB2789649" category="3" publishdate="2013-02-12" article="http://support.microsoft.com/kb/2789649">
+    <title>Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2789649)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it.</description>
+    <filename>Windows8-RT-KB2789649-x86.msu</filename>
+    <url>http://download.microsoft.com/download/F/4/4/F447DD66-60AB-4986-B1A2-81C901FF1A4F/Windows8-RT-KB2789649-x86.msu</url>
+  </update>
+  <update id="KB2805222" category="3" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2805222">
+    <title>Update for .NET Framework 4.5 for Windows 8 (KB2805222)</title>
+    <description>Update for .NET Framework 4.5 for Windows 8</description>
+    <filename>Windows8-RT-KB2805222-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/6/D/56D80586-C9C6-4892-8A7D-080B5A98E892/Windows8-RT-KB2805222-x86.msu</url>
+  </update>
+  <update id="KB2805227" category="3" publishdate="2013-05-14" article="http://support.microsoft.com/kb/2805227">
+    <title>Update for .NET Framework 4.5 for Windows 8 (KB2805227)</title>
+    <description>Update for .NET Framework 4.5 for Windows 8</description>
+    <filename>Windows8-RT-KB2805227-x86.msu</filename>
+    <url>http://download.microsoft.com/download/8/9/6/896904E4-CE15-42F3-B0FA-34795554378A/Windows8-RT-KB2805227-x86.msu</url>
+  </update>
+  <update id="KB2833958" category="3" publishdate="2013-07-09" article="http://support.microsoft.com/kb/2833958">
+    <title>Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2833958)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8-RT-KB2833958-x86.msu</filename>
+    <url>http://download.microsoft.com/download/3/6/C/36C5FEE1-A455-4F0C-9610-630113062DED/Windows8-RT-KB2833958-x86.msu</url>
+  </update>
+  <update id="KB2840632" category="3" publishdate="2013-08-13" article="http://support.microsoft.com/kb/2840632">
+    <title>Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2840632)</title>
+    <description>A security issue has been identified that could allow an unauthenticated remote attacker to compromise your system and gain control over it</description>
+    <filename>Windows8-RT-KB2840632-v2-x86.msu</filename>
+    <url>http://download.microsoft.com/download/5/F/1/5F19210A-9F65-43DF-83F8-45D1B9A1356A/Windows8-RT-KB2840632-v2-x86.msu</url>
+  </update>
+  <update id="KB2861702" category="3" publishdate="2013-10-08" article="http://support.microsoft.com/kb/2861702">
+    <title>Security Update for Microsoft .NET Framework 4.5 on Windows 8 (KB2861702)</title>
+    <description>A security issue has been identified that could allow an attacker to misrepresent a system action or behavior without the knowledge of the user.</description>
+    <filename>Windows8-RT-KB2861702-x86.msu</filename>
+    <url>http://download.microsoft.com/download/1/6/D/16D12952-C778-4A2C-80EF-2540B26AF764/Windows8-RT-KB2861702-x86.msu</url>
+  </update>
+  
+  <update id="KB890830" category="4" publishdate="2013-12-10" article="http://support.microsoft.com/kb/890830">
+    <title>Microsoft Windows Malicious Software Removal Tool - December 2013 (KB890830)</title>
+    <description>This tool checks your computer for infection by specific, prevalent malicious software (including Blaster, Sasser, and Mydoom) and helps to remove the infection if it is found.</description>
+    <filename>Windows-KB890830-v5.7.exe</filename>
+    <url>http://download.microsoft.com/download/4/A/A/4AA524C6-239D-47FF-860B-5B397199CBF8/windows-kb890830-v5.7.exe</url>
+  </update>
+  <update id="" category="4" publishdate="2013-10-08">
+    <title>Silverlight 5</title>
+    <description>Silverlight 5 continues the pace of rapid innovation, building on Silverlight 4's capabilities in the areas of rich applications and premium media experiences.</description>
+    <filename>Silverlight.exe</filename>
+    <url>http://download.microsoft.com/download/6/B/8/6B885B0B-73D4-4BCE-BFFF-154B4A402D22/20913.00/Silverlight.exe</url>
+  </update>
+  <update id="" category="4" publishdate="2013-05-14">
+    <title>Windows Live Essentials 2012 (Offline Setup)</title>
+    <description>Do more with Windows on your PC with free programs from Microsoft for photos, movies, instant messaging, email, social networking, and more.</description>
+    <filename>wlsetup-all.exe</filename>
+    <url>http://wl.dlservice.microsoft.com/download/A/1/0/A1018C6C-9E93-42A8-A87F-E3E1D0A8322F/en/wlsetup-all.exe</url>                  
+  </update>
+  <update id="" category="4" publishdate="2013-02-08">
+    <title>Modern UI App Troubleshooter for Windows 8</title>
+    <description>Helps in fixing Modern UI app problems.</description>
+    <filename>apps.diagcab</filename>
+    <url>http://download.microsoft.com/download/F/2/4/F24D0C03-4181-4E5B-A23B-5C3A6B5974E3/apps.diagcab</url>
+  </update>
+  <update id="KB2858728" category="4" publishdate="2013-10-17">
+    <title>.NET Framework 4.5.1 for Windows 8</title>
+    <description>The .NET Framework 4.5.1 is a highly compatible, in-place update to .NET Framework 4.5.</description>
+    <filename>NDP451-KB2858728-x86-x64-AllOS-ENU.exe</filename>
+    <url>http://download.microsoft.com/download/1/6/7/167F0D79-9317-48AE-AEDB-17120579F8E2/NDP451-KB2858728-x86-x64-AllOS-ENU.exe</url>
+  </update>
+
+  <update id="KB2607607" category="6" publishdate="2012-10-26" article="http://support.microsoft.com/kb/2607607">
+    <title>English</title>
+    <description></description>
+    <filename>Windows8-KB2607607-x86-eng.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows8-kb2607607-x86-eng_f0fa22663a5adcb24c36907c4252d8948241c53c.cab</url>
+  </update>
+  <update id="KB2607607" category="6" publishdate="2012-10-26" article="http://support.microsoft.com/kb/2607607">
+    <title>French</title>
+    <description></description>
+    <filename>Windows8-KB2607607-x86-fra.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows8-kb2607607-x86-fra_8cd60998609ba80263d9177fb392219f4481e6cf.cab</url>
+  </update>
+  <update id="KB2607607" category="6" publishdate="2012-10-26" article="http://support.microsoft.com/kb/2607607">
+    <title>German</title>
+    <description></description>
+    <filename>Windows8-KB2607607-x86-deu.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows8-kb2607607-x86-deu_6e1302992c19a67c22210f11e75543e8f60bae21.cab</url>
+  </update>
+  <update id="KB2607607" category="6" publishdate="2012-10-26" article="http://support.microsoft.com/kb/2607607">
+    <title>Italian</title>
+    <description></description>
+    <filename>Windows8-KB2607607-x86-ita.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows8-kb2607607-x86-ita_4a92392a5fac1a60fde02b86f1f53e884ffe1204.cab</url>
+  </update>
+  <update id="KB2607607" category="6" publishdate="2012-10-26" article="http://support.microsoft.com/kb/2607607">
+    <title>Spanish</title>
+    <description></description>
+    <filename>Windows8-KB2607607-x86-esn.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows8-kb2607607-x86-esn_2d292f36e071d103c448b9bae76133b5ac62956a.cab</url>
+  </update>
+  <update id="KB2607607" category="6" publishdate="2012-10-26" article="http://support.microsoft.com/kb/2607607">
+    <title>Japanese</title>
+    <description></description>
+    <filename>Windows8-KB2607607-x86-jpn.cab</filename>
+    <url>http://fg.v4.download.windowsupdate.com/msdownload/update/software/updt/2012/10/windows8-kb2607607-x86-jpn_c0daf9262b007af8d3c968435f81b671a8765519.cab</url>
+  </update>
+
+  <update id="KB2871389" category="7" publishdate="2013-09-10" article="http://support.microsoft.com/kb/2871389">
+    <title>Update for Windows 8 (KB2871389)</title>
+    <description>This update prepares Windows 8 computers for the update to Windows 8.1</description>
+    <filename>Windows8-RT-KB2871389-x86.msu</filename>
+    <url>http://download.microsoft.com/download/0/C/6/0C67F34D-1F09-429D-B55E-794177982162/Windows8-RT-KB2871389-x86.msu</url>
+  </update>
+</updates>
+
+</updatelist>
